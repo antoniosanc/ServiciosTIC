@@ -1,0 +1,67 @@
+<?=$contenido->contenido_obten_contenido_full_nombre( "contacto" ) ?>
+
+ <?
+	$contactoAsunto= "";
+	$contactoComentario= "";
+	if( !empty($_GET["n"]))
+	{
+		$contactoAsunto= 'Deseo informaci&oacute;n de '.str_replace("_"," ",strtolower($_GET["n"]));
+		$contactoComentario= 'Deseo informaci&oacute;n de '.str_replace("_"," ",strtolower($_GET["n"]));
+	}
+	
+	if( !empty($_POST) && strtolower($_GET["g"]) == "g") 
+	{
+		include_once (URL_SERVIDOR_FRONT."/class/mail.class.php");
+		$mail = new mail();
+		
+		if($mail->mail_guarda_datos_contacto( $_POST ) )
+			echo correcto('Correo enviado con &eacute;xito. En breve te responderemos');
+		else
+			echo alerta("Ocurrio un error al enviar tu correo electr&oacute;nico. <a href='index.php?q=contacto'>Intenta nuevamente</a>");
+	} 
+ ?>
+<form action="index.php?q=contacto&g=g" method="POST" name="frm_contacto" id="frm_contacto">
+	<table border="0" width="100%">
+		<tr>
+			<td> Nombre:</td>
+			<td>
+				<input type="text" name="contacto_nombre" id="contacto_nombre" value="" class="input-xxlarge" placeholder="Escribe tu nombre"/>
+			</td>
+		</tr>
+		<tr>
+			<td>Correo electr&oacute;nico:</td>
+			<td>
+				<input type="text" name="contacto_email" id="contacto_email" value="" class="input-xxlarge" placeholder="Escribe tu correo electr&oacute;nico"/>
+			</td>
+		</tr>
+		<tr>
+			<td>Tel&eacute;fono: </td>
+			<td>
+				<input type="text" name="contacto_telefono" id="contacto_telefono" value="" class="input-xxlarge" placeholder="Escribe tu tel&eacute;fono"/>
+			</td>
+		</tr>
+		<tr>
+			<td>Ciudad:</td>
+			<td>
+				<input type="text" name="contacto_direccion" id="contacto_direccion" value="" class="input-xxlarge" placeholder="Escribe de donde nos contactas "/>
+			</td>
+		</tr>
+		<tr>
+			<td>Motivo de contacto:</td>
+			<td>
+				<input type="text" name="contacto_asunto" id="contacto_asunto" value="<?=$contactoAsunto?>" class="input-xxlarge" placeholder="Escribe el motivo de contacto (Solicitud de informaci&oacute;n, duda, etc)"/>
+			</td>
+		</tr>
+		<tr>
+			<td> Comentario: </td>
+			<td>
+				<textarea class="input-xxlarge" cols="48" id="contacto_comentario" name="contacto_comentario"><?=$contactoComentario?></textarea>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<p align="center"> <button class="btn btn-primary btn_class" type="submit">Enviar</button></p>
+			</td>
+		</tr>
+	</table>
+</form>

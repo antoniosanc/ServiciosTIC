@@ -1,0 +1,50 @@
+.bg_publico,
+
+.bg_privado,
+
+.bg_slogan,
+
+.titulo_principal{
+
+	background-attachment:fixed;
+
+}
+/* paralla< */
+.parallas, .texto{margin:0 auto}
+
+.parallax{
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:  cover;
+  height:40rem;
+  max-width: 100%;
+  position: relative
+}
+
+.texto-interior{
+  color:#fff;
+  font-size: 2rem;
+  font-weight: bold;
+  left: 10%;
+  position: absolute;
+  text-align: center;
+  top:40%;
+  width: 80%
+}
+/* imagen aceca agregar para las demas */
+.img-acerca{background-image: url('../fondos/acerca.jpg')}
+.img-servicios{background-image: url('../fondos/servicios.jpg')}
+.img-productos{background-image: url('../fondos/productos.jpg')}
+.img-contacto{background-image: url('../fondos/contactanos.jpg')}
+/*servicios*/
+.img-soporte{background-image: url('../fondos/soporte.jpg')}
+.img-host{background-image: url('../fondos/host.jpg')}
+.img-telecom{background-image: url('../fondos/telecom.jpg')}
+.img-virtualizacion{background-image: url('../fondos/virtualizacion.jpg')}
+.img-cloud{background-image: url('../fondos/cloud.jpg')}
+.img-cableado{background-image: url('../fondos/cableado.jpg')}
+.img-comunucaciones_uni{background-image: url('../fondos/comunucaciones_uni.jpg')}
+.img-seguridad{background-image: url('../fondos/seguridad.jpg')}
+.img-solicitud{background-image: url('../fondos/solicitud.jpg')}
+

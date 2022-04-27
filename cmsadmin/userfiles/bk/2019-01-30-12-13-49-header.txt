@@ -1,0 +1,28 @@
+<div class="header">k
+	<div class="container">
+		<div class="row">
+			<div class="col-md-2 align-left">
+				<p>
+					<a href="index.php">
+						llllllll<img src="./imgusr/logo-solucionesim.jpg" class="img-responsive" alt="SIM" border="0" />
+					</a>
+				</p>
+			</div>
+			<div class="col-md-10">
+				<?=$base->base_crea_menu_principal ( $url_seccion ) ?>
+			</div>
+		</div>
+	</div>
+</div>
+
+	
+	<?
+		if( $url_seccion == "inicio" ) 
+			echo $base->base_crea_slide_home();
+	?>
+	
+	<?
+		$arr_archivos = $base->base_lista_imagenes_galeria( $url_seccion ); //Para obtener todas las imagenes subidas en una galería y se puede usar con cualquier script
+	?>
+	
+	

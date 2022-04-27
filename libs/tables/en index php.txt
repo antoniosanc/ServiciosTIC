@@ -1,0 +1,44 @@
+//codigo que va enb index
+<link href="./libs/tables/tables.css" rel="stylesheet">
+
+
+//ejemplo 1
+<div class="bienvenidos">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div id="no-more-tables">
+					<table width="100%" cellspacing="5" cellpadding="5" border="0" align="center">
+						<tbody>
+							<tr>
+								<td width="50%">
+									<h1>Acerca de <span>Nosotros</span></h1>
+									<p><strong>&Oacute;ptica SILSA VISI&Oacute;N</strong> es una empresa con a&ntilde;os de experiencia en el ramo &oacute;ptico, con <strong>Optometristas</strong> egresados de la <strong>Universidad de Aguascalientes</strong> para brindar un servicio profesional y con altos est&aacute;ndares de calidad para el cuidado de la salud visual.</p>
+									<p>&nbsp;</p>
+									<p><a class="btn btn-warning" href="index.php?q=quienes_somos">Leer m&aacute;s</a></p>
+								</td>
+								<td width="50%">
+									<p style="text-align: center;"><img width="95%" border="0" class="img-responsive" alt="Bienvenidos a Silsa Visi&oacute;n" src="/userfiles/silsa/image/bienvenidos.jpg" /></p>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+//ejemplo 2
+<div class="bienvenidos">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div id="no-more-tables">
+					<?=$contenido->contenido_obten_contenido_full_nombre( "inicio" )?>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

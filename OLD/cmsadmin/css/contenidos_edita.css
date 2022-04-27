@@ -1,0 +1,13 @@
+@import url("../libs/jquploader/uploadfile.css");
+
+.imagen_destacada
+{
+	max-width: 400px;
+	max-height: 140px;
+
+}
+.error
+{
+	color: #B94A48 !important;
+	margin:0px !important;
+}

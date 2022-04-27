@@ -1,0 +1,241 @@
+/*NO BORRAR*/
+@font-face {
+ font-family:OpenSans-Bold;
+ src: url('../fonts/OpenSans-Bold.ttf');
+}
+@font-face {
+ font-family:OpenSans-Semibold;
+ src: url('../fonts/OpenSans-Semibold.ttf');
+}
+@font-face {
+ font-family:OpenSans-Regular;
+ src: url('../fonts/OpenSans-Regular.ttf');
+}
+@font-face {
+ font-family:OpenSans-Light;
+ src: url('../fonts/OpenSans-Light.ttf');
+}
+#frm_contacto label.error {
+	margin-left: 10px;
+	width: auto;
+}
+.error
+{
+	color: #B94A48 !important;
+	margin:0px !important;
+}
+.img-responsiva
+{
+	max-width: 100%;
+}
+.link { 
+
+  border-radius: 3px;
+  color: #fff;
+  display: inline-block;
+  font: normal 12px/12px HelveticaNeue, Arial;
+  padding: 8px 11px;
+  text-decoration: none;
+}
+.link.azul {
+    background: -moz-linear-gradient(center top , #30517A, #3276B1) repeat scroll 0 0 rgba(0, 0, 0, 0);
+	background:#3276B1;
+    border-color: #30517A ;
+    box-shadow: 0 1px 1px #30517A, 0 1px 0 #30517A inset;
+    color: #FFF !important;
+    text-shadow: 0 1px 0 #30517A;
+}
+.link.azul:hover {
+    background: -moz-linear-gradient(center top , #3276B1, #30517A) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border-color: #30517A;
+    box-shadow: 0 1px 1px #30517A, 0 1px 0 #30517A inset;
+    color: #FFF !important;
+    text-shadow: 0 1px 0 #30517A;
+}
+.align-left{
+	text-align:left;
+}
+.align-right{
+	text-align:right;
+}
+/*FIN BORRAR*/
+
+.header{
+	background:url('../imgusr/bg_hd.png') center top no-repeat;
+}
+.menu{
+	border-top:1px solid #575757;
+	border-bottom:1px solid #575757;
+}
+.redes_hd{
+	text-transform:uppercase;
+}
+.redes_hd span{
+	font-family:OpenSans-Bold;
+}
+.redes_hd img{
+	margin:0 5px;
+}
+.slide{
+	background-color:#0d2746;
+}
+.ventajas_hm{
+	font-family:OpenSans-Regular;
+	font-size:14px;
+	color:#333;	
+}
+.ventajas_hm h1{
+	font-family:OpenSans-Regular;
+	font-size:58px;
+	text-transform:uppercase;
+}
+.ventajas_hm h2{
+	font-family:OpenSans-Light;
+	font-size:35px;
+	color:#808080;
+}
+.ventajas_hm h3{
+	font-family:OpenSans-Bold;
+	font-size:20px;
+}
+.img_ventajas img{
+	width:55%;
+	height:auto;
+}
+.logros{
+	background:url('../imgusr/bg_logros.jpg') center top no-repeat fixed;
+	background-size:cover;
+	-moz-background-size:cover;
+	-webkit-background-size:cover;
+	color:#fff;
+	font-family:OpenSans-Light;
+	font-size:22px;
+	padding:15px 0;
+	margin-top:20px;
+}
+.sim{
+	background:#402874;
+}
+.sim a, .sim a:hover{
+	color:#fff;
+}
+.sim p{
+	margin-top:10px;
+}
+.footer h1{
+	font-family:OpenSans-Bold;
+	font-size:25px;
+}
+.footer h1 span{
+	color:#c33535;
+}
+.footer a, .footer a:hover{
+	color:#333;
+}
+.lista{
+	list-style:none;
+}
+.lista li{
+	background: url("../imgusr/bullet-lista.png") no-repeat scroll left top;
+    padding-left:20px;
+	margin-top:5px;
+}
+.slide{
+	background:url('../imgusr/bg_slide.jpg') center top no-repeat fixed;
+	background-size:cover;
+	-moz-background-size:cover;
+	-webkit-background-size:cover;
+	color:#fff;
+}
+.titulo_principal{
+	background:url('../imgusr/bg_slide.jpg') center top no-repeat fixed;
+	background-size:cover;
+	-moz-background-size:cover;
+	-webkit-background-size:cover;
+	color:#fff;
+}
+.titulo_principal h1{
+	font-family:OpenSans-Bold;
+	text-align:center;
+	text-transform:uppercase;
+	text-shadow:1px 1px 0 #09060a;
+	margin:30px 0;
+	font-size:50px;
+}
+.contenido h2{
+	font-family:OpenSans-Light;
+	font-size:40px;
+	border-bottom:1px solid #362aab;
+	text-transform:uppercase;
+	padding-bottom:15px;
+}
+.contenido h3{
+	font-family:OpenSans-Semibold;
+	font-size:30px;
+}
+.marcas {
+	border-top:3px solid #362aab;
+}
+.marcas img{
+	width:55%;
+	height:auto;
+}
+.btn-soporte{
+	padding-bottom:20px;
+	padding-top:140px;
+	text-transform:uppercase;
+}
+
+
+
+@media(max-width:990px){
+	.align-left, .align-right{
+		text-align:center;
+	}
+	.btn-soporte{
+		padding-bottom:20px;
+		padding-top:20px;
+	}
+}
+@media(max-width:800px){
+	.img_ventajas img{
+		display:none;
+	}
+}
+@media(max-width:467px){
+	.ventajas_hm h1{ 
+		font-size:35px;
+	}
+	.ventajas_hm h2{ 
+		font-size:30px;
+	}
+	.titulo_principal h1 {
+		font-size: 35px;
+	}
+	.contenido h2 {
+		font-size: 30px;
+		padding-bottom: 5px;
+	}
+	.contenido h3 {
+		font-size: 20px;
+	}
+}
+.open{
+	transition:all 3s;
+}
+.aspel h2{
+	font-size:24px;
+	text-transform:none;
+	font-family: OpenSans-Semibold;
+}
+ .btn-aviso{
+	background:none;
+	color:#fff;
+	font-family: OpenSans-Regular, Arial;
+    font-size: 16px;
+	padding:0;
+ }
+ .btn-aviso:hover, .btn-aviso:active, .btn-aviso:focus{
+	color:#fff;
+	text-decoration:underline;
+ }

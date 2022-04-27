@@ -1,0 +1,19 @@
+[20-Sep-2017 17:51:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 8
+[20-Sep-2017 17:51:11 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 13
+[20-Sep-2017 17:51:11 UTC] PHP Warning:  db::__construct(): Couldn't fetch mysqli in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 15
+[20-Sep-2017 17:51:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 27
+[20-Sep-2017 17:51:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 8
+[20-Sep-2017 17:51:14 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 13
+[20-Sep-2017 17:51:14 UTC] PHP Warning:  db::__construct(): Couldn't fetch mysqli in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 15
+[20-Sep-2017 17:51:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 27
+[20-Sep-2017 17:51:16 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 8
+[20-Sep-2017 17:51:16 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 13
+[20-Sep-2017 17:51:16 UTC] PHP Warning:  db::__construct(): Couldn't fetch mysqli in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 15
+[20-Sep-2017 17:51:16 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 27
+[20-Sep-2017 17:51:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 8
+[20-Sep-2017 17:51:23 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 13
+[20-Sep-2017 17:51:23 UTC] PHP Warning:  db::__construct(): Couldn't fetch mysqli in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 15
+[20-Sep-2017 17:51:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 8
+[20-Sep-2017 17:51:23 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 13
+[20-Sep-2017 17:51:23 UTC] PHP Warning:  db::__construct(): Couldn't fetch mysqli in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 15
+[20-Sep-2017 17:51:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ec2544servicio/public_html/cmsadmin/class/db.class.php on line 27

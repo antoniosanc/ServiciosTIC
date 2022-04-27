@@ -1,0 +1,6 @@
+# BEGIN cPanel-generated handler, do not edit
+<IfModule mime_module>
+  # Use ea-php54 as default
+  ###AddType application/x-httpd-ea-php54 .php
+</IfModule>
+# END cPanel-generated handler
