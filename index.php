@@ -1,13 +1,12 @@
 <?php include 'header.php';?>
 
-
-<div class="carousel slide">
-	<div class="carousel-inner" style="background:url(fondos/fondo.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; min-height:500px;">	
-		<div class="carousel-caption">
-			<h4>Servicios en TIC</h4><p>Hacemos de su negocio un negocio exitoso</p>
+	<div class="carousel slide">
+		<div class="carousel-inner" style="background:url(fondos/fondo.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; min-height:500px;">	
+			<div class="carousel-caption">
+				<h4>Servicios en TIC</h4><p>Hacemos de su negocio un negocio exitoso</p>
+			</div>
 		</div>
 	</div>
-</div>
 
 	<!-- Bienvenida  -->	
 	<div class="hm-bienvenida" id="no-more-tables">
@@ -18,8 +17,13 @@
 				        <tr>
 				            <td class="text-bienvenida" width="45%">
 				            <h2>BIENVENIDOS</h2>
-				            <p style="text-align: justify;">Somos una empresa dedicada a la venta de <strong>equipo de c&oacute;mputo</strong>, telefon&iacute;a y <strong>telecomunicaciones</strong>, proporcionamos servicios de <strong>soporte t&eacute;cnico</strong>, servicio de instalaci&oacute;n e implementaci&oacute;n de cableado estructurado y fibra &oacute;ptica, instalaci&oacute;n y configuraci&oacute;n de equipo de telecomunicaciones, somos <strong>Microsoft Partner</strong> <strong>Network </strong>por lo que podemos vender todo tipo de licenciamiento Microsoft, somos proveedores de servicios de la nube con <strong>On-Cloud</strong> y <strong>aws</strong> (amazon web services), as&iacute; como de Azure.</p>
-				            
+					            <p style="text-align: justify;">
+					            	Somos una empresa dedicada a la venta de equipo de cómputo, telefonía y telecomunicaciones. <strong>telecomunicaciones</strong>
+					            	
+					            	Proporcionamos servicios de <strong>Soporte Técnico</strong>, Instalación e implementación de cableado estructurado y fibra óptica, Instalación y configuración de equipo de telecomunicaciones.
+					            	
+					            	Así mismo, somos <strong>Microsoft Partner Network</strong>, por lo que podemos vender todo tipo de licenciamiento Microsoft. Siendo también proveedores de servicios de la nube con On-Cloud y AWS (Amazon Web Services), de igual forma con Azure.
+					            </p>
 				            </td>
 				            <td class="img-bienvenida" width="55%">
 				            <p style="text-align: center;"><img src="fondos/sop.jpg" alt="Bienvenido" class="img-responsive" border="0" /></p>
@@ -28,6 +32,55 @@
 				    </tbody>
 				</table>
 				
+			</div>
+		</div>
+	</div>
+
+	<div class="hm-servicios">
+		<div class="container">
+			<div class="row">
+				<div class="row" >
+					
+							<div class="col-sm-4 col-md-4 cards br_col1" >
+								<p style="text-align:center;">
+									<a href="index.php?q=seguridad_informatica_y_cctv&n=servicios">
+										<img class="img-responsive" src="fondos/iconos/imgseguridad_informatica-9b7.jpg" border="0" alt="Seguridad Informática y CCTV"/>
+									</a>
+								</p>
+								<h3 style="text-align:center;">Seguridad Informática y CCTV</h3>
+								<p style="text-align:justify;">Te asesoramos en la mejor solución de seguridad de tu infraestructura en donde se...</p>
+								<p style="text-align:center;">
+									<a href="index.php?q=seguridad_informatica_y_cctv&n=servicios" class="btn btn-conoce">CONOCE M&Aacute;S </a>
+								</p>
+							</div>
+							<div class="col-sm-4 col-md-4 cards br_col2" >
+								<p style="text-align:center;">
+									<a href="index.php?q=hosting&n=servicios">
+										<img class="img-responsive" src="fondos/iconos/imghosting-9dd.jpg" border="0" alt="Hosting"/>
+									</a>
+								</p>
+								<h3 style="text-align:center;">Hosting</h3>
+								<p style="text-align:justify;">Creación y Administración de Dominios (Hosting) Servicios TIC </p>
+								<p></p>
+								<p style="text-align:center;">
+									<a href="index.php?q=hosting&n=servicios" class="btn btn-conoce">CONOCE M&Aacute;S </a>
+								</p>
+							</div>
+							
+							<div class="col-sm-4 col-md-4 cards br_col1" >
+								<p style="text-align:center;">
+									<a href="index.php?q=telecomunicaciones&n=servicios">
+										<img class="img-responsive" src="fondos/iconos/imgtelecomunicaciones-514.jpg" border="0" alt="Telecomunicaciones"/>
+									</a>
+								</p>
+								<h3 style="text-align:center;">Telecomunicaciones</h3>
+								<p style="text-align:justify;">Se realiza la instalación de equipos dentro del site del cliente de acuerdo a su...</p>
+								<p style="text-align:center;">
+									<a href="index.php?q=telecomunicaciones&n=servicios" class="btn btn-conoce">CONOCE M&Aacute;S </a>
+								</p>
+							</div>
+							
+				</div>
 			</div>
 		</div>
 	</div>
@@ -50,7 +103,7 @@
 									<li>Nosotros nos hacemos responsables de nuestros equipos en garant&iacute;a</li>
 									<li>En caso de alg&uacute;n problema nuestro cliente nos llama y nosotros realizamos todo el proceso de garant&iacute;a ante el fabricante</li>
 								</ul>
-								<p style="text-align: right;"><a class="btn btn-panel-servicios" href="index.php?q=servicios">Ver todos los servicios <span class="glyphicon glyphicon-chevron-right"></span></a></p>
+								
 							</div>
 						</div>
 					</div>
@@ -63,7 +116,7 @@
 								<ul>
 									<li>Con algunos fabricantes podemos realizar extensi&oacute;n de garant&iacute;as, con un peque&ntilde;o importe</li>
 								</ul>
-								<p style="text-align: right;"><a class="btn btn-panel-servicios" href="index.php?q=servicios">Ver todos los servicios <span class="glyphicon glyphicon-chevron-right"></span></a></p>
+								
 							</div>
 						</div>
 					</div>
@@ -77,7 +130,7 @@
 									<li>En todos nuestros productos manejamos la &uacute;ltima tecnolog&iacute;a de punta</li>
 									<li>En software manejamos las &uacute;ltimas versiones disponibles en el mercado</li>
 								</ul>
-								<p style="text-align: right;"><a class="btn btn-panel-servicios" href="index.php?q=servicios">Ver todos los servicios <span class="glyphicon glyphicon-chevron-right"></span></a></p>
+								
 							</div>
 						</div>
 					</div>
@@ -91,7 +144,7 @@
 									<li>Hacemos entregas a domicilio siempre y cuando las instalaciones del cliente est&eacute;n dentro del &aacute;rea metropolitana</li>
 									<li>Aplican restricciones</li>
 								</ul>
-								<p style="text-align: right;"><a class="btn btn-panel-servicios" href="index.php?q=servicios">Ver todos los servicios <span class="glyphicon glyphicon-chevron-right"></span></a></p>
+								
 							</div>
 						</div>
 					</div>
@@ -106,7 +159,7 @@
 									<li>Aplican restricciones</li>
 									<li>P&oacute;lizas de soporte t&eacute;cnico preventivo y correctivo</li>
 								</ul>
-								<p style="text-align: right;"><a class="btn btn-panel-servicios" href="index.php?q=servicios">Ver todos los servicios <span class="glyphicon glyphicon-chevron-right"></span></a></p>
+								
 							</div>
 						</div>
 					</div>
@@ -122,7 +175,7 @@
 									<li>Desarrollo</li>
 									<li>Seguridad</li>
 								</ul>
-								<p style="text-align: right;"><a class="btn btn-panel-servicios" href="index.php?q=servicios">Ver todos los servicios <span class="glyphicon glyphicon-chevron-right"></span></a></p>
+								
 							</div>
 						</div>
 					</div>
@@ -134,24 +187,7 @@
 		</div>
 	</div>
 </div>
-<div class="hm-azul">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-3 text-center">
-				<p><img src="./imgusr/img-like.png" class="img-responsive" border="0" alt="Clientes satisfechos"></p>
-				<p>Todos nuestros <br>clientes satisfechos</p>
-			</div>
-			<div class="col-md-6 text-center">
-				<p><img src="./imgusr/img-experiencia.png" class="img-responsive" border="0" alt="10 A&ntilde;os de experiencia"></p>
-				<p>Cumplimos m&aacute;s de 12 a&ntilde;os <br>de experiencia en el giro de las TIC'S</p>
-			</div>
-			<div class="col-md-3 text-center">
-				<p><img src="./imgusr/img-productos.png" class="img-responsive" border="0" alt="productos"></p>
-				<p>M&aacute;s de 500 <br>productos diferentes</p>
-			</div>
-		</div>
-	</div>
-</div>
+
 <div class="hm-marcas" id="no-more-tables">
 	<div class="container">
 		<div class="row">
@@ -188,7 +224,7 @@
 		</div>
 	</div>	
 </div>
-<?php include 'formulario.php' ?>
+
 <script>
   window.watsonAssistantChatOptions = {
       integrationID: "80d51e22-19a4-49d6-8ee4-c2c3f55d494c", // The ID of this integration.

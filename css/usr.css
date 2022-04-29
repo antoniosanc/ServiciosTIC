@@ -358,7 +358,7 @@
 
   color: #fff;
 
-  background: #08275e;
+  background: #08275e; 
 
   font-family: 'Poppins-Medium', Arial;
 
@@ -674,8 +674,8 @@
 
   color: #fff;
 
-  background: url('../imgusr/bg-tu_mejor_opcion.jpg') no-repeat center top;
-
+  background: url('../fondos/compu.jpeg') no-repeat center top;
+   
   background-size: cover;
 
   /*background-attachment: fixed;*/
@@ -830,7 +830,7 @@
 
 .footer{
 
-  background: url('../imgusr/bg-footer.jpg') no-repeat center top;
+  background-color: #08275e;
 
   background-size: cover;
 
@@ -934,21 +934,17 @@
 
 .ligas{
 
-  background: #4a2179;
-
-  color: #fff;
-
-  font-family: 'Poppins-SemiBold', Arial;
-
-  font-size: 16px;
-
-  padding-top: 10px;
+  background: #ffffff;
+  color: #000000;
+  font-family: Arial;
+  font-size: 13px;
+  padding-top: 5px;
 
 }
 
 .ligas a{
 
-  color: #fff;
+  color: #000000;
 
 }
 
@@ -1233,8 +1229,7 @@
 
     color: #fff;
 
-    background: url('../imgusr/bg-tu_mejor_opcion-mobil.jpg') no-repeat center top;
-
+    background: url('../fondos/compu.jpeg') no-repeat center top;
     background-size: cover;
 
   }
