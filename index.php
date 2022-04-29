@@ -1,27 +1,13 @@
 <?php include 'header.php';?>
 
 
-
-	<div class="row">
-		<div class="col-md-12" style="padding:0px;">
-				<div class="carousel slide" id="carousel-440287" data-ride="carousel">
-					<!--ol class="carousel-indicators"><li class="active" data-slide-to="0" data-target="#carousel-440287"> </li></ol-->
-					<div class="carousel-inner">
-						<div class="item active " style="background:url(fondos/fondo.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; min-height:700px;">
-							<div class="carousel-caption"><h4>Servicios en TIC</h4><p>Hacemos de su negocio un negocio exitoso</p>
-								<p><a href="index.php?q=servicios" class="btn btn-massl">Más Información</a> <a href="index.php?q=contacto" class="btn btn-massl">Contáctanos</a></p>
-							</div>
-							<div class="carousel-caption"><h4>Servicios en TIC</h4><p>Hacemos de su negocio un negocio exitoso</p>
-								<p><a href="index.php?q=servicios" class="btn btn-massl">Más Información</a> <a href="index.php?q=contacto" class="btn btn-massl">Contáctanos</a></p>
-							</div>
-						</div>
-					</div> 
-					<a class="left carousel-control" href="#carousel-440287" data-slide="prev"><img src="./imgusr/sl-izq.png" class="img-responsive" border="0" alt="Izquierda"></a> 
-					<a class="right carousel-control" href="#carousel-440287" data-slide="next"><img src="./imgusr/sl-der.png" class="img-responsive" border="0" alt="Izquierda"></a>
-				</div>
-			</div>
+<div class="carousel slide">
+	<div class="carousel-inner" style="background:url(fondos/fondo.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; min-height:500px;">	
+		<div class="carousel-caption">
+			<h4>Servicios en TIC</h4><p>Hacemos de su negocio un negocio exitoso</p>
+		</div>
 	</div>
-
+</div>
 
 	<!-- Bienvenida  -->	
 	<div class="hm-bienvenida" id="no-more-tables">
@@ -33,100 +19,19 @@
 				            <td class="text-bienvenida" width="45%">
 				            <h2>BIENVENIDOS</h2>
 				            <p style="text-align: justify;">Somos una empresa dedicada a la venta de <strong>equipo de c&oacute;mputo</strong>, telefon&iacute;a y <strong>telecomunicaciones</strong>, proporcionamos servicios de <strong>soporte t&eacute;cnico</strong>, servicio de instalaci&oacute;n e implementaci&oacute;n de cableado estructurado y fibra &oacute;ptica, instalaci&oacute;n y configuraci&oacute;n de equipo de telecomunicaciones, somos <strong>Microsoft Partner</strong> <strong>Network </strong>por lo que podemos vender todo tipo de licenciamiento Microsoft, somos proveedores de servicios de la nube con <strong>On-Cloud</strong> y <strong>aws</strong> (amazon web services), as&iacute; como de Azure.</p>
-				            <p style="text-align: center;"><a href="index.php?q=servicios" class="btn btn-ver">Ver todos los servicios </a></p>
+				            
 				            </td>
 				            <td class="img-bienvenida" width="55%">
-				            <p style="text-align: center;"><img src="userfiles/servicios_tic20/image/inicio/img-bienvenida.jpg" alt="Bienvenido" class="img-responsive" border="0" /></p>
+				            <p style="text-align: center;"><img src="fondos/sop.jpg" alt="Bienvenido" class="img-responsive" border="0" /></p>
 				            </td>
 				        </tr>
 				    </tbody>
 				</table>
-				<p>&nbsp;</p>
+				
 			</div>
 		</div>
-	</div><br>
-
-<div class="hm-servicios">
-	<div class="container">
-		<div class="row">
-			<div class="row" >
-						<div class="col-sm-4 col-md-4 cards br_col" >
-							<p style="text-align:center;">
-								<a href="index.php?q=soporte_tecnico&n=servicios">
-									<img class="img-responsive" src="userfiles/servicios_tic20/image/imgsoporte-e9f.jpg" border="0" alt="Soporte técnico"/>
-								</a>
-							</p>
-							<h3 style="text-align:center;">Soporte técnico</h3>
-							<p style="text-align:justify;">Soporte Técnico especializado a equipo de cómputo y servidores, Redes Alámbricas...</p>
-							<p style="text-align:center;">
-								<a href="index.php?q=soporte_tecnico&n=servicios" class="btn btn-conoce">CONOCE M&Aacute;S </a>
-							</p>
-						</div>
-						<div class="col-sm-4 col-md-4 cards br_col1" >
-							<p style="text-align:center;">
-								<a href="index.php?q=seguridad_informatica_y_cctv&n=servicios">
-									<img class="img-responsive" src="userfiles/servicios_tic20/image/imgseguridad_informatica-9b7.jpg" border="0" alt="Seguridad Informática y CCTV"/>
-								</a>
-							</p>
-							<h3 style="text-align:center;">Seguridad Informática y CCTV</h3>
-							<p style="text-align:justify;">Te asesoramos en la mejor solución de seguridad de tu infraestructura en donde se...</p>
-							<p style="text-align:center;">
-								<a href="index.php?q=seguridad_informatica_y_cctv&n=servicios" class="btn btn-conoce">CONOCE M&Aacute;S </a>
-							</p>
-						</div>
-						<div class="col-sm-4 col-md-4 cards br_col2" >
-							<p style="text-align:center;">
-								<a href="index.php?q=hosting&n=servicios">
-									<img class="img-responsive" src="userfiles/servicios_tic20/image/imghosting-9dd.jpg" border="0" alt="Hosting"/>
-								</a>
-							</p>
-							<h3 style="text-align:center;">Hosting</h3>
-							<p style="text-align:justify;">Creación y Administración de Dominios (Hosting) Servicios TIC </p>
-							<p style="text-align:center;">
-								<a href="index.php?q=hosting&n=servicios" class="btn btn-conoce">CONOCE M&Aacute;S </a>
-							</p>
-						</div></div>
-							<div class="row " >
-						<div class="col-sm-4 col-md-4 cards br_col0" >
-							<p style="text-align:center;">
-								<a href="index.php?q=comunicaciones_unificadas&n=servicios">
-									<img class="img-responsive" src="userfiles/servicios_tic20/image/imgcomunicaciones-6c9.jpg" border="0" alt="Comunicaciones Unificadas"/>
-								</a>
-							</p>
-							<h3 style="text-align:center;">Comunicaciones Unificadas</h3>
-							<p style="text-align:justify;">Las Comunicaciones Unificadas hacen que las personas se comuniquen, conecten y colaboren...</p>
-							<p style="text-align:center;">
-								<a href="index.php?q=comunicaciones_unificadas&n=servicios" class="btn btn-conoce">CONOCE M&Aacute;S </a>
-							</p>
-						</div>
-						<div class="col-sm-4 col-md-4 cards br_col1" >
-							<p style="text-align:center;">
-								<a href="index.php?q=telecomunicaciones&n=servicios">
-									<img class="img-responsive" src="userfiles/servicios_tic20/image/imgtelecomunicaciones-514.jpg" border="0" alt="Telecomunicaciones"/>
-								</a>
-							</p>
-							<h3 style="text-align:center;">Telecomunicaciones</h3>
-							<p style="text-align:justify;">Se realiza la instalación de equipos dentro del site del cliente de acuerdo a su...</p>
-							<p style="text-align:center;">
-								<a href="index.php?q=telecomunicaciones&n=servicios" class="btn btn-conoce">CONOCE M&Aacute;S </a>
-							</p>
-						</div>
-						<div class="col-sm-4 col-md-4 cards br_col2" >
-							<p style="text-align:center;">
-								<a href="index.php?q=virtualizacion&n=servicios">
-									<img class="img-responsive" src="userfiles/servicios_tic20/image/imgvirtualizacion-03c.jpg" border="0" alt="Virtualización"/>
-								</a>
-							</p>
-							<h3 style="text-align:center;">Virtualización</h3>
-							<p style="text-align:justify;">La virtualización es el proceso de crear una representación basada en software...</p>
-							<p style="text-align:center;">
-								<a href="index.php?q=virtualizacion&n=servicios" class="btn btn-conoce">CONOCE M&Aacute;S </a>
-							</p>
-						</div></div>
-							<div class="row " ></div>			<p align="center"><a href="index.php?q=servicios" class="btn btn-servicios">Ver todos los servicios <span class="glyphicon glyphicon-chevron-right"></span></a></p>
-		</div>
 	</div>
-</div>
+
 <div class="hm-tu_mejor_opcion">
 	<div class="container">
 		<div class="row">

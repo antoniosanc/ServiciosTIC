@@ -58,12 +58,13 @@
 </script>		
 		<link rel="shortcut icon" type="image/x-icon" href="./imgusr/favicon.ico">
 		<!-- Google Tag Manager -->
-		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script>
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-MDLDJMM');
-		</script>
+</script>
 		<!-- End Google Tag Manager -->
 
 	</head>
@@ -72,35 +73,33 @@
 		<!-- Google Tag Manager (noscript) -->
 		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MDLDJMM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->
-	<div class="header">
+
+<div class="header">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-4 redes-sociales">
+			<div class="col-md-4 text-center">
 				<p>
-					<a href="" style="padding-right: 20px;"><img src="imgusr/ico-facebook.png" class="img-responsive animated bouncer" alt="Facebook" border="0" /></a>
-					<a href=""><img src="imgusr/ico-twitter.png" class="img-responsive animated bouncer" alt="Twitter" border="0" /></a>
+					<a href="solicitud_soporte.php" class="btn btn-soporte">Soporte T&eacute;cnico</a>
 				</p>
 				<p>
-					<a href="index.php?q=contacto"><img src="imgusr/ico-mail.png" class="img-responsive animated bouncer" alt="Correo" border="0"> ventas@serviciostic.com.mx</a>
+					<a href="index.php?q=contacto"><img src="fondos/iconos/correo-electronico.png" class="img-responsive animated bouncer" alt="Correo" border="0"> ventas@serviciostic.com.mx</a>
 				</p>
 			</div>
 			<div class="col-md-4 text-center">
 				<p>
 					<a href="index.php">
-						<img src="logo1.png" class="img-responsive" alt="Servicios Tic" border="0" />
+						<img src="./imgusr/logo_servicios_tic.jpg" class="img-responsive" alt="Servicios Tic" border="0" width="250px" height="150px" />
 					</a>
 				</p>
 			</div>
-			<div class="col-md-4 contacto-hd">
-				<p><a href="solicitud_soporte.php" class="btn btn-soporte">Soporte T&eacute;cnico</a></p>
+			<div class="col-md-4 text-center">
 				<p>
-					<a target="_blank" href="tel:+52-55-9130-1375"><img src="imgusr/ico-tel.png" class="img-responsive animated bouncer" alt="Tel&eacute;fono" border="0" /> (55) 9130 - 1375</a>
+					<a target="_blank" href="tel:+52-55-9130-1375"><img src="fondos/iconos/llamada.png" class="img-responsive animated bouncer" alt="Tel&eacute;fono" /> (55) 9130 - 1375</a>
 				</p>
 				<p>
-					<a target="_blank" href="https://wa.me/525539201357"><img src="imgusr/ico-whatsapp.png" class="img-responsive animated bouncer" alt="WhatsApp" border="0" /> (55) 3920 - 1357</a>
+					<a target="_blank" href="https://wa.me/525539201357"><img src="fondos/iconos/whatsapp.png" class="img-responsive animated bouncer" alt="WhatsApp" border="0" /> (55) 3920 - 1357</a>
 				</p>
 			</div>
-			
 		</div>
 	</div>
 </div>

@@ -12,6 +12,14 @@
 /* paralla< */
 .parallas, .texto{margin:0 auto}
 
+.fondo{
+
+  background-position: center;
+  background-repeat: no-repeat;
+  height:100%;
+  width: 100%;
+}
+
 .parallax{
   background-attachment: fixed;
   background-position: center;
@@ -33,6 +41,8 @@
   width: 80%
 }
 /* imagen aceca agregar para las demas */
+.img-fondo{background-image: url('../fondos/fondo.jpg')}
+
 .img-acerca{background-image: url('../fondos/acerca.jpg')}
 .img-servicios{background-image: url('../fondos/servicios.jpg')}
 .img-productos{background-image: url('../fondos/productos.jpg')}
