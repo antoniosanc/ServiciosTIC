@@ -82,7 +82,7 @@
 					<a href="solicitud_soporte.php" class="btn btn-soporte">Soporte T&eacute;cnico</a>
 				</p>
 				<p>
-					<a href="index.php?q=contacto"><img src="fondos/iconos/correo-electronico.png" class="img-responsive animated bouncer" alt="Correo" border="0"> ventas@serviciostic.com.mx</a>
+					<a href="mailto:ventas@serviciostic.com.mx"><img src="fondos/iconos/correo-electronico.png" class="img-responsive animated bouncer" alt="Correo" border="0"> ventas@serviciostic.com.mx</a>
 				</p>
 			</div>
 			<div class="col-md-4 text-center">
