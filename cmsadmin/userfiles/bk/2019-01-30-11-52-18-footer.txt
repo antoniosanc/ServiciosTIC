@@ -1,6 +1,0 @@
-	<div class="footer">
-		<div class="col-md-12">
-			<?=$base->base_crea_menu_footer() ?>
-		</div>
-		<p><a target="_blank" href="https://www.solucionesim.net">Soluciones IM</a> <?=date("Y")?></p>
-	</div>

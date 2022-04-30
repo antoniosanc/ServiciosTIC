@@ -31,6 +31,41 @@
 		</div>
 	</div>
 </div>
+<div class="container">
+	<div class="row">
+		<h1 class="text-center panel-seccion-titulo text-primary" style="color: #23527c"><strong>¿Por qué confiar en STIC?</strong><br><br><small>Somos una empresa que ofrece soluciones integrales en el manejo e implementación en tecnologías de la información, con el fin de proporcionar el mejor servicio a nuestros clientes. </small></h1>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
+			<div class="col-xs-6 col-sm-2 text-center">
+				<div class=""><img src="https://ftp3.syscom.mx/usuarios/ftp/web_img/trato-de-amigos.png"><p>Trato como Amigos y Familia</p></div>
+			</div>
+
+			<div class="col-xs-6 col-sm-2 text-center">
+				<div class=""><img src="https://ftp3.syscom.mx/usuarios/ftp/web_img/pasion-por-trabajo.png"><br><p>Pasión por Nuestro Trabajo</p></div>
+			</div>
+
+			<div class="col-xs-6 col-sm-2 text-center">
+				<div class=""><img src="https://ftp3.syscom.mx/usuarios/ftp/web_img/comprometidos-con-el-exito.png"><br><p>Comprometidos con el Éxito de Nuestros Clientes</p></div>
+			</div>
+
+			<div class="col-xs-6 col-sm-2 text-center">
+				<div class=""><img src="https://ftp3.syscom.mx/usuarios/ftp/web_img/servicio-rapido-y-amigable.png"><br><p>Servicio Rápido y Amigable</p></div>
+			</div>
+			<div class="clearfix visible-xs"></div>
+			<div class="col-xs-6 col-sm-2 text-center">
+				<div class=""><img src="https://ftp3.syscom.mx/usuarios/ftp/web_img/mercancia-entrega-inmediata.png"><br><p>99.8% de Mercancia en Entrega Inmediata</p></div>
+			</div>
+			<div class="col-xs-6 col-sm-2 text-center">
+				<div class=""><img src="https://ftp3.syscom.mx/usuarios/ftp/web_img/honestidad-y-transparencia.png"><br><p>Honestidad y Transparencia Total</p></div>
+			</div>
+	</div>
+</div>
+
+
+
 <div id="no-more-tables">
 				<div class="container contenido">
 					<div class="row">				
