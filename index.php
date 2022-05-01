@@ -1,12 +1,6 @@
 <?php include 'header.php';?>
 
-	<div class="carousel slide">
-		<div class="carousel-inner" style="background:url(fondos/fondo.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; min-height:500px;">	
-			<div class="carousel-caption">
-				<h4>Servicios en TIC</h4><p>Hacemos de su negocio un negocio exitoso</p>
-			</div>
-		</div>
-	</div>
+	<?php include 'slider.php' ?>
 
 	<!-- Bienvenida  -->	
 	<div class="hm-bienvenida" id="no-more-tables">
@@ -21,7 +15,7 @@
 					            	Somos una empresa dedicada a la venta de equipo de cómputo, telefonía y telecomunicaciones. <strong>telecomunicaciones</strong>
 					            	
 					            	Proporcionamos servicios de <strong>Soporte Técnico</strong>, Instalación e implementación de cableado estructurado y fibra óptica, Instalación y configuración de equipo de telecomunicaciones.
-					            	
+					            	<p>
 					            	Así mismo, somos <strong>Microsoft Partner Network</strong>, por lo que podemos vender todo tipo de licenciamiento Microsoft. Siendo también proveedores de servicios de la nube con On-Cloud y AWS (Amazon Web Services), de igual forma con Azure.
 					            </p>
 				            </td>
@@ -225,17 +219,5 @@
 	</div>	
 </div>
 
-<script>
-  window.watsonAssistantChatOptions = {
-      integrationID: "80d51e22-19a4-49d6-8ee4-c2c3f55d494c", // The ID of this integration.
-      region: "us-south", // The region your integration is hosted in.
-      serviceInstanceID: "80825f81-e5d9-4238-8fbc-dda30302d738", // The ID of your service instance.
-      onLoad: function(instance) { instance.render(); }
-    };
-  setTimeout(function(){
-    const t=document.createElement('script');
-    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js"
-    document.head.appendChild(t);
-  });
-</script>
+
 <?php include 'footer.php' ?>

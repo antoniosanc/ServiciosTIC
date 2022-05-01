@@ -11,8 +11,8 @@
 
 .carousel-caption{padding-bottom:80px;}
 
-h2{font-size: 60px;}
-p{padding:10px}
+h2{font-size: 50px;}
+p{padding:5px}
 
 /* Background images are set within the HTML using inline CSS, not here */
 
@@ -31,11 +31,13 @@ p{padding:10px}
  */
 .btn-transparent {
   background: #fff;
-  color: #fff;
-  /*border: 2px solid #fff;*/
+  color: #3f4995;
+  border: 2px solid #3f4995;
 }
 .btn-transparent:hover {
-  background-color: #fff;
+  background-color: #3f4995;
+  color: #fff;
+  border: 2px solid #fff;
 }
 
 .btn-rounded {
@@ -51,8 +53,8 @@ p{padding:10px}
  * Change animation duration
  */
 .animated {
-  -webkit-animation-duration: 3.5s;
-  animation-duration: 3.5s;
+  -webkit-animation-duration: 2.5s;
+  animation-duration: 2.5s;
 }
 
 @-webkit-keyframes fadeInRight {

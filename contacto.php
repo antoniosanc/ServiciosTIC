@@ -23,7 +23,7 @@
 			<div class="col-md-12 text-center">
 				<ol class="breadcrumb">
 					<li><a href="index.php?q=inicio">Inicio</a></li>
-										<li class="active">Contacto</li>
+					<li >Contacto</li>
 				</ol>			
 			</div>
 		</div>

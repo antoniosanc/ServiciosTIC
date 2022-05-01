@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 	<head>
 		<meta charset="utf-8">
@@ -103,6 +103,7 @@
 		</div>
 	</div>
 </div>
+
 <!-- menu -->
 <div class="menu">
 	<div class="container">

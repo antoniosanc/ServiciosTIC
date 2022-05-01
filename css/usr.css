@@ -442,11 +442,11 @@
 
 .btn-soporte{
 
-  color: #fff !important;
+  background: #fff;
 
-  border:1px solid ;
+  color: #3f4995;
 
-  background: #df4e12;
+  border: 2px solid #3f4995;
 
   font-family: 'Poppins-Medium', Arial;
 
@@ -463,10 +463,10 @@
 .btn-soporte:focus,
 
 .btn-soporte:active{
-
-    background:#fff;
-
-    color:#df4e12 !important;
+  
+  background: #fff;
+  
+  border: 2px solid #3f4995;
 
 }
 
@@ -830,7 +830,7 @@
 
 .footer{
 
-  background-color: #08275e;
+  background: url('../fondos/footer.jpg');
 
   background-size: cover;
 
@@ -842,7 +842,9 @@
 
   line-height: 1.7;
 
-  padding-bottom: 40px;
+  padding-top: 10px;
+
+  padding-bottom: 10px;
 
 }
 
