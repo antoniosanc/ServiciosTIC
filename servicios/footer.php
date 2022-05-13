@@ -44,17 +44,17 @@
 	</div>
 </div>
 
-		<script type="text/javascript" src="libs/bootstrap/js/jquery.js"></script>
-		<script type="text/javascript" src="libs/bootstrap/js/bootstrap.js"></script> 
-		<script type="text/javascript" src="libs/validate/jqvalidate.js"></script>
-		<script type="text/javascript" src="js/usr.js"></script>
-		<script type="text/javascript" src="libs/animate/js/animate.js"></script>
-		<script src="libs/waypoint/jquery.waypoints.js"></script>
+		<script type="text/javascript" src="../libs/bootstrap/js/jquery.js"></script>
+		<script type="text/javascript" src="../libs/bootstrap/js/bootstrap.js"></script> 
+		<script type="text/javascript" src="../libs/validate/jqvalidate.js"></script>
+		<script type="text/javascript" src="../js/usr.js"></script>
+		<script type="text/javascript" src="../libs/animate/js/animate.js"></script>
+		<script src="../libs/waypoint/jquery.waypoints.js"></script>
 
-		<link rel="stylesheet" type="text/css" href="libs/jcarousel/jcarousel.responsive.css">
-		<script type="text/javascript" src="libs/jcarousel/jquery.jcarousel.js"></script>
-		<script type="text/javascript" src="libs/jcarousel/jcarousel.responsive.js"></script>
-		<script type="text/javascript" src="libs/jcarousel/autoscroll.js"></script>
+		<link rel="stylesheet" type="text/css" href="../libs/jcarousel/jcarousel.responsive.css">
+		<script type="text/javascript" src="../libs/jcarousel/jquery.jcarousel.js"></script>
+		<script type="text/javascript" src="../libs/jcarousel/jcarousel.responsive.js"></script>
+		<script type="text/javascript" src="../libs/jcarousel/autoscroll.js"></script>
 		<script type="text/javascript">
 			$(function() {
 				$('.jcarousel')
@@ -85,7 +85,7 @@
 		</script>
 	
 	
-	<p class="whatsapp-icon"><a onclick="return gtag_report_conversion('https://api.whatsapp.com/send?phone=525539201357&text=¿Tienes alguna duda?');"  href="https://api.whatsapp.com/send?phone=525539201357&text=¿Tienes alguna duda?" target="_blank"> <img src="./imgusr/whatsapp-icon.png" /> </a></p>
+	<p class="whatsapp-icon"><a onclick="return gtag_report_conversion('https://api.whatsapp.com/send?phone=525539201357&text=¿Tienes alguna duda?');"  href="https://api.whatsapp.com/send?phone=525539201357&text=¿Tienes alguna duda?" target="_blank"> <img src="../imgusr/whatsapp-icon.png" /> </a></p>
 	
 	</body>
 </html>

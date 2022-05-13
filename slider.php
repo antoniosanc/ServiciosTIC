@@ -15,7 +15,7 @@
                 <div class="carousel-caption">
                      <center><h2 class="animated fadeInLeft">SERVICIOS EN TICS</h2></center>
                      <p class="animated fadeInUp">HACEMOS DE SU NEGOCIO UN NEGOCIO EXITOSO</p>
-                     <p class="animated fadeInUp"><a href="#" class="btn btn-transparent btn-rounded btn-large">nuestros servicios</a>
+                     <p class="animated fadeInUp"><a href="servicios.php?n=Servicios" class="btn btn-transparent btn-rounded btn-large">nuestros servicios</a>
                 </div>
             </div>
             <div class="item">

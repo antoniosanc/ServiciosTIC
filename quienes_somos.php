@@ -2,6 +2,7 @@
 	include 'header.php';
  ?>
 				
+
 <div class="wrapper">
 	<div class="main">
 		<section class="content">
@@ -96,6 +97,7 @@
 				</div>
 			</div>
 		</div>
+<br>
 
 
 

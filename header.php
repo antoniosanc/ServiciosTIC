@@ -3,7 +3,16 @@
 	<head>
 		<meta charset="utf-8">
 		
-		<title> Servicios en TIC S.A. de C.V. - Servicios en Tecnologías de la Información y Comunicaciones  </title>
+		<title><?php 
+		if (!isset($_GET['n'])) {
+			 echo "Servicios en TIC S.A. de C.V.";
+		}else{
+			$n=$_GET['n']; echo $n." - Servicios en TIC S.A. de C.V.";;
+		}
+		
+		?>
+			
+		</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="author" content="Servicios en TIC S.A. de C.V.">
 		<meta name="title" content="Servicios en TIC S.A. de C.V. | Servicios en Tecnologías de la Información y Comunicaciones Servicios en Tecnologías de la Información y Comunicaciones">
@@ -56,7 +65,7 @@
   gtag('config', 'UA-55472603-49');
   gtag('js', new Date()); gtag('config', 'AW-716540927');
 </script>		
-		<link rel="shortcut icon" type="image/x-icon" href="./imgusr/favicon.ico">
+		<link rel="shortcut icon" type="image/x-icon" href="fondos/iconos/fav.ico">
 		<!-- Google Tag Manager -->
 <script>
 		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -73,7 +82,45 @@
 		<!-- Google Tag Manager (noscript) -->
 		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MDLDJMM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->
-
+<div class="menu">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-1">
+			</div>
+			<div class="col-md-10">
+				
+			<nav class="navbar navbar-default hd-navbar" role="navigation">
+				<div class="navbar-header">
+					 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1"> <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button> 
+				</div>
+				<div class="collapse navbar-collapse" id="navbar-collapse-1">
+						<ul class="nav navbar-nav hd-nav"><li><a href="index.php" class=""> Inicio</a></li><li><a href="quienes_somos.php?n=Acerca" class=""> Acerca</a></li><li class="dropdown"><a href="servicios.php?n=Servicios"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Servicios <b class="caret"></b></a> 
+									  <ul class="dropdown-menu"><li><a href="index.php?q=soporte_tecnico&n=servicios">Soporte técnico</a></li> 
+													<li class='divider'></li><li><a href="index.php?q=seguridad_informatica_y_cctv&n=servicios">Seguridad Informática y CCTV</a></li> 
+													<li class='divider'></li><li><a href="index.php?q=hosting&n=servicios">Hosting</a></li> 
+													<li class='divider'></li><li><a href="index.php?q=comunicaciones_unificadas&n=servicios">Comunicaciones Unificadas</a></li> 
+													<li class='divider'></li><li><a href="index.php?q=telecomunicaciones&n=servicios">Telecomunicaciones</a></li> 
+													<li class='divider'></li><li><a href="index.php?q=virtualizacion&n=servicios">Virtualización</a></li> 
+													<li class='divider'></li><li><a href="index.php?q=cloud&n=servicios">Cloud</a></li> 
+													<li class='divider'></li><li><a href="index.php?q=cableado_estructurado_servicio&n=servicios">Cableado Estructurado</a></li> 
+													<li class='divider'></li>
+					</ul>
+					</li><li class="dropdown"><a href="index.php?q=productos"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Productos <b class="caret"></b></a> 
+									  <ul class="dropdown-menu"><li><a href="index.php?q=fibra_optica&n=productos">Fibra Óptica</a></li> 
+													<li class='divider'></li><li><a href="index.php?q=cableado_estructurado&n=productos">Cableado Estructurado</a></li> 
+													<li class='divider'></li><li><a href="index.php?q=hardware&n=productos">Hardware</a></li> 
+													<li class='divider'></li><li><a href="index.php?q=software&n=productos">Software</a></li> 
+													<li class='divider'></li><li><a href="index.php?q=energia&n=productos">Energía</a></li> 
+													<li class='divider'></li><li><a href="index.php?q=gabinetesracks&n=productos">Gabinetes</a></li> 
+													<li class='divider'></li><li><a href="index.php?q=etiquetadoras&n=productos">Etiquetadoras</a></li> 
+													<li class='divider'></li>
+					</ul>
+					</li><li><a href="index.php?q=contacto" class=""> Contacto</a></li></ul>
+					</div>
+				</nav>				</div>
+		</div>
+	</div>
+</div>
 <div class="header">
 	<div class="container">
 		<div class="row">
@@ -104,45 +151,6 @@
 	</div>
 </div>
 
-<!-- menu -->
-<div class="menu">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-1">
-			</div>
-			<div class="col-md-10">
-				
-			<nav class="navbar navbar-default hd-navbar" role="navigation">
-				<div class="navbar-header">
-					 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1"> <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button> 
-				</div>
-				<div class="collapse navbar-collapse" id="navbar-collapse-1">
-						<ul class="nav navbar-nav hd-nav">
-							<li><a href="index.php" class=" mnuhover "> Inicio</a></li><li><a href="quienes_somos.php" class=""> Acerca</a></li>
-							<li class="dropdown"><a href="servicios.php"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Servicios <b class="caret"></b></a> 
-									  <ul class="dropdown-menu"><li><a href="servicios/soporte_tecnico.php">Soporte técnico</a></li> 
-													<li class='divider'></li><li><a href="servicios/seguridad.php">Seguridad Informática y CCTV</a></li> 
-													<li class='divider'></li><li><a href="servicios/hosting.php">Hosting</a></li> 
-													<li class='divider'></li><li><a href="servicios/comunicaciones_unificadas.php">Comunicaciones Unificadas</a></li> 
-													<li class='divider'></li><li><a href="servicios/telecomunicaciones.php">Telecomunicaciones</a></li> 
-													<li class='divider'></li><li><a href="virtualizacion.php">Virtualización</a></li> 
-													<li class='divider'></li><li><a href="servicios/cloud.php">Cloud</a></li> 
-													<li class='divider'></li><li><a href="servicios/cableado_estructurado_servicio.php">Cableado Estructurado</a></li> 
-													<li class='divider'></li>
-					</ul>
-					</li><li class="dropdown"><a href="productos.php"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Productos <b class="caret"></b></a> 
-									  <ul class="dropdown-menu"><li><a href="index.php?q=fibra_optica&n=productos">Fibra Óptica</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=cableado_estructurado&n=productos">Cableado Estructurado</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=hardware&n=productos">Hardware</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=software&n=productos">Software</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=energia&n=productos">Energía</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=gabinetesracks&n=productos">Gabinetes</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=etiquetadoras&n=productos">Etiquetadoras</a></li> 
-													<li class='divider'></li>
-					</ul>
-					</li><li><a href="contacto.php" class=""> Contacto</a></li></ul>
-					</div>
-				</nav>				</div>
-		</div>
-	</div>
-</div>
+
+
+
