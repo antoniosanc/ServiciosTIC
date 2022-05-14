@@ -22,7 +22,8 @@
 			<div class="col-md-12 text-center">
 				<ol class="breadcrumb">
 					<li><a href="../index.php">Inicio</a></li>
-					<li><a href="comunicaciones_unificadas..">Comunicaciones Unificadas</a></li> 					<li class="active">Panasonic</li>
+					<li><a href="comunicaciones_unificadas..">Comunicaciones Unificadas</a></li> 		
+					<li>Panasonic</li>
 				</ol>			
 			</div>
 		</div>

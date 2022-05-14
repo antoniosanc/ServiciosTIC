@@ -22,7 +22,8 @@
 			<div class="col-md-12 text-center">
 				<ol class="breadcrumb">
 					<li><a href="../index.php">Inicio</a></li>
-					<li><a href="../servicios.php">Servicios </a></li> 					<li class="active">Comunicaciones Unificadas</li>
+					<li><a href="../servicios.php">Servicios </a></li> 					
+                    <li>Comunicaciones Unificadas</li>
 				</ol>			
 			</div>
 		</div>

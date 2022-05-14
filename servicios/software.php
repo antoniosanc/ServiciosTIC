@@ -20,7 +20,8 @@ div class="wrapper">
 			<div class="col-md-12 text-center">
 				<ol class="breadcrumb">
 					<li><a href="../index.php">Inicio</a></li>
-					<li><a href="cctv.php">Seguridad Informática y CCTV</a></li> 					<li class="active">Software de gestión</li>
+					<li><a href="cctv.php">Seguridad Informática y CCTV</a></li> 					
+					<li>Software de gestión</li>
 				</ol>			
 			</div>
 		</div>

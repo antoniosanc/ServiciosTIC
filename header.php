@@ -95,15 +95,14 @@
 				</div>
 				<div class="collapse navbar-collapse" id="navbar-collapse-1"style="color: #fff;">
 						<ul class="nav navbar-nav hd-nav"><li><a href="index.php" class=""> Inicio</a></li><li><a href="quienes_somos.php?n=Acerca" class=""> Acerca</a></li><li class="dropdown"><a href="servicios.php?n=Servicios"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Servicios <b class="caret"></b></a> 
-									  <ul class="dropdown-menu"><li><a href="index.php?q=soporte_tecnico&n=servicios">Soporte técnico</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=seguridad_informatica_y_cctv&n=servicios">Seguridad Informática y CCTV</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=hosting&n=servicios">Hosting</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=comunicaciones_unificadas&n=servicios">Comunicaciones Unificadas</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=telecomunicaciones&n=servicios">Telecomunicaciones</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=virtualizacion&n=servicios">Virtualización</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=cloud&n=servicios">Cloud</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=cableado_estructurado_servicio&n=servicios">Cableado Estructurado</a></li> 
-													<li class='divider'></li>
+							<ul class="dropdown-menu"><li><a href="servicios/soporte_tecnico.php?n=Soporte Técnico">Soporte técnico</a></li> 
+								<li class='divider'></li><li><a href="servicios/seguridad.phpp?n=Seguridad">Seguridad Informática y CCTV</a></li> 
+								<li class='divider'></li><li><a href="servicios/hosting.php?n=Hosting">Hosting</a></li> 
+								<li class='divider'></li><li><a href="servicios/comunicaciones_unificadas.php?n=Comunicaciones Unificadas">Comunicaciones Unificadas</a></li> 
+								<li class='divider'></li><li><a href="servicios/telecomunicaciones.php?n=Telecomunicaciones">Telecomunicaciones</a></li> 
+								<li class='divider'></li><li><a href="index.php?q=cloud&n=servicios">Cloud</a></li> 
+								<li class='divider'></li><li><a href="servicios/cableado_estructurado_servicio.php?n=Cableado Estructurado">Cableado Estructurado</a></li> 
+								<li class='divider'></li>
 					</ul>
 					</li><li class="dropdown"><a href="index.php?q=productos"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Productos <b class="caret"></b></a> 
 									  <ul class="dropdown-menu"><li><a href="index.php?q=fibra_optica&n=productos">Fibra Óptica</a></li> 

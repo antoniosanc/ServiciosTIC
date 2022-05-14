@@ -24,7 +24,7 @@
 				<ol class="breadcrumb">
 					<li><a href="../index.php">Inicio</a></li>
 					<li><a href="seguridad.php">Seguridad Informática y CCTV</a></li>
-					<li class="active">Videovigilancia</li>
+					<li>Videovigilancia</li>
 				</ol>			
 			</div>
 		</div>

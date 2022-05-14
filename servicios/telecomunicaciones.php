@@ -24,7 +24,7 @@
 				<ol class="breadcrumb">
 					<li><a href="../index.php">Inicio</a></li>
 					<li><a href="../servicios.php">Servicios </a></li>
-					<li class="active">Telecomunicaciones</li>
+					<li>Telecomunicaciones</li>
 				</ol>			
 			</div>
 		</div>

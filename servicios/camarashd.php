@@ -22,7 +22,8 @@
             <div class="col-md-12 text-center">
                 <ol class="breadcrumb">
                     <li><a href="../index.php">Inicio</a></li>
-                    <li><a href="cctv.php">Seguridad Informática y CCTV</a></li>                    <li class="active">Cámaras HD</li>
+                    <li><a href="cctv.php">Seguridad Informática y CCTV</a></li>                    
+                    <li>Cámaras HD</li>
                 </ol>           
             </div>
         </div>

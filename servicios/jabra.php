@@ -23,7 +23,7 @@
 				<ol class="breadcrumb">
 					<li><a href="../index.php">Inicio</a></li>
 					<li><a href="comunicaciones_unificadas.php">Comunicaciones Unificadas</a></li>
-					<li class="active">Jabra</li>
+					<li>Jabra</li>
 				</ol>			
 			</div>
 		</div>

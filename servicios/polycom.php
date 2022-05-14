@@ -22,7 +22,7 @@
 				<ol class="breadcrumb">
 					<li><a href="../index.php">Inicio</a></li>
 					<li><a href="comunicaciones_unificadas.php">Comunicaciones Unificadas</a></li> 
-					<li class="active">Polycom</li>
+					<li>Polycom</li>
 				</ol>			
 			</div>
 		</div>

@@ -21,7 +21,8 @@
 			<div class="col-md-12 text-center">
 				<ol class="breadcrumb">
 					<li><a href="../index.php">Inicio</a></li>
-					<li><a href="comunicaciones_unificadas.php">Comunicaciones Unificadas</a></li> 					<li class="active">Plantronics</li>
+					<li><a href="comunicaciones_unificadas.php">Comunicaciones Unificadas</a></li> 		
+					<li>Plantronics</li>
 				</ol>			
 			</div>
 		</div>

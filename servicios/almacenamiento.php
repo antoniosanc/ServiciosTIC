@@ -23,7 +23,8 @@
 			<div class="col-md-12 text-center">
 				<ol class="breadcrumb">
 					<li><a href="../index.php">Inicio</a></li>
-					<li><a href="seguridad.php">Seguridad Informática y CCTV</a></li> 					<li class="active">Almacenamiento  CCTV</li>
+					<li><a href="seguridad.php">Seguridad Informática y CCTV</a></li> 					
+                    <li>Almacenamiento  CCTV</li>
 				</ol>			
 			</div>
 		</div>

@@ -23,7 +23,7 @@
 				<ol class="breadcrumb">
 					<li><a href="../index.php">Inicio</a></li>
 					<li><a href="../servicios.php">Servicios </a></li>
-					<li class="active">Cloud</li>
+					<li>Cloud</li>
 				</ol>			
 			</div>
 		</div>
