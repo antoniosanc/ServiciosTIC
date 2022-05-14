@@ -82,16 +82,16 @@
 		<!-- Google Tag Manager (noscript) -->
 		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MDLDJMM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->
-<div class="menu">
+
+<div class="menu navbar-fixed-top container-fluid">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-1">
-			</div>
-			<div class="col-md-10">
-				
 			<nav class="navbar navbar-default hd-navbar" role="navigation">
 				<div class="navbar-header">
-					 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1"> <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button> 
+					 <button type="button" class="btn navbar-toggle navbar-btn collapsed" data-toggle="collapse" data-target="#navbar-collapse-1"> 
+					 	<span class="sr-only">Toggle navigation</span>
+					 	<span class="icon-bar"></span><span class="icon-bar"></span>
+					 	<span class="icon-bar"></span></button> 
 				</div>
 				<div class="collapse navbar-collapse" id="navbar-collapse-1">
 						<ul class="nav navbar-nav hd-nav"><li><a href="index.php" class=""> Inicio</a></li><li><a href="quienes_somos.php?n=Acerca" class=""> Acerca</a></li><li class="dropdown"><a href="servicios.php?n=Servicios"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Servicios <b class="caret"></b></a> 
