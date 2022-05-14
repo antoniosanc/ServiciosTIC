@@ -23,7 +23,7 @@
                 <div class="fill" style="background-image:url('fondos/fd.jpg');"></div>
                 <div class="carousel-caption">
                      <h2 class="animated fadeInDown">SERVICIOS EN TICS</h2>
-                     <p class="animated fadeInUp">LA MEJOR OPCION PARA TODOS TUS PROYECTOS</p>
+                     <p class="animated fadeInUp">LA MEJOR OPCIÓN PARA TODOS TUS PROYECTOS</p>
                      <p class="animated fadeInUp"><a href="productos.php" class="btn btn-transparent btn-rounded btn-large">Nuestros productos</a></p>
                 </div>
             </div>
@@ -32,7 +32,7 @@
                 <div class="fill" style="background-image:url('fondos/titulo.jpg');"></div>
                 <div class="carousel-caption">
                      <h2 class="animated fadeInRight">SERVICIOS EN TIC</h2>
-                     <p class="animated fadeInRight">Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+                     <p class="animated fadeInRight">HACE QUE TODO ESTE A TU ALCANCE</p>
                      
                 </div>
             </div>
