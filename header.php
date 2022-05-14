@@ -83,7 +83,7 @@
 		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MDLDJMM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->
 
-<div class="menu navbar-fixed-top container-fluid">
+<div class="menu navbar-fixed-top container-fluid " style="background: url(fondos/footer.jpg)">
 	<div class="container">
 		<div class="row">
 			<nav class="navbar navbar-default hd-navbar" role="navigation">
@@ -93,7 +93,7 @@
 					 	<span class="icon-bar"></span><span class="icon-bar"></span>
 					 	<span class="icon-bar"></span></button> 
 				</div>
-				<div class="collapse navbar-collapse" id="navbar-collapse-1">
+				<div class="collapse navbar-collapse" id="navbar-collapse-1"style="color: #fff;">
 						<ul class="nav navbar-nav hd-nav"><li><a href="index.php" class=""> Inicio</a></li><li><a href="quienes_somos.php?n=Acerca" class=""> Acerca</a></li><li class="dropdown"><a href="servicios.php?n=Servicios"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Servicios <b class="caret"></b></a> 
 									  <ul class="dropdown-menu"><li><a href="index.php?q=soporte_tecnico&n=servicios">Soporte técnico</a></li> 
 													<li class='divider'></li><li><a href="index.php?q=seguridad_informatica_y_cctv&n=servicios">Seguridad Informática y CCTV</a></li> 
@@ -121,6 +121,7 @@
 		</div>
 	</div>
 </div>
+<br><br><br>
 <div class="header">
 	<div class="container">
 		<div class="row">

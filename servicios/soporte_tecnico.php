@@ -31,123 +31,68 @@
 	</div>
 </div>
 <div id="no-more-tables">
-				<div class="container contenido">
-					<div class="row">				
-						<div class="col-md-12">
+	<div class="container contenido">
+		<div class="row">				
+			<div class="col-md-12">
+				<div class="row">
 
+					<h2 style="text-align: center;"><strong>Soporte T&eacute;cnico especializado</strong> a equipo de c&oacute;mputo y servidores, Redes Al&aacute;mbricas e Inal&aacute;mbricas.</h2><br>
+					<div class="container">
+						<div class="col-md-4">
+							<h2>Equipo de c&oacute;mputo </h2>
+						</div>
+						<div class="col-md-8">
+							<div class="col-md-6">
+								<img src="../fondos/soporte.jpg" width="100%" height="100%">
+							</div>
 
-
-
-
-
-		
-	<div class="row">
-	<h2 style="text-align: center;"><strong>Soporte T&eacute;cnico especializado</strong> a equipo de c&oacute;mputo y servidores, Redes Al&aacute;mbricas e Inal&aacute;mbricas.</h2>
-<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
-    <tbody>
-        <tr>
-            <td width="50%" valign="top">
-            <p style="text-align: justify;">Contamos con <strong>personal especializado</strong> y certificado para proporcionar soporte t&eacute;cnico en sitio y v&iacute;a remota:</p>
-            <ul>
-                <li>Sistemas Operativos Cliente.</li>
-                <li>Sistemas Operativos Servidores.</li>
-                <li>Implementaci&oacute;n y Administraci&oacute;n de Sistemas de Seguridad B&aacute;sicos.</li>
-                <li>Implementaci&oacute;n y Configuraci&oacute;n de Dispositivos de RED.</li>
-            </ul>
-            </td>
-            <td width="50%" valign="top">
-            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/img-soporte_tecnico.jpg" alt="Soporte T&eacute;cnico" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
-            </td>
-        </tr>
-    </tbody>
-</table></div>
-<div class="row">
-	<div class="col-md-12">
-		<div class="panel-group panel-int" id="panel-392526">
-			<div class="panel panel-default">
-				<div class="panel-heading">
-					<a id="panel1" class="panel-title collapsed icono-mas" data-toggle="collapse" data-parent="#panel-392526" href="#bloque1"> Herramientas para servidores </a>
-				</div> 
-				<div id="bloque1" class="panel-collapse collapse">
-					<div class="panel-body">
-						<table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
-    <tbody>
-        <tr>
-            <td width="50%" valign="top">
-            <ul>
-                <li>ARC Server Backup: Respaldo de servidores en producci&oacute;n&nbsp;</li>
-                <li>ARC Server Replicaci&oacute;n: Protecci&oacute;n de datos cr&iacute;ticos (SQL, EXCHANGE, SHAREPOINT, ORACLE, IIS y otros)</li>
-                <li>ARC Server D2D: Soluci&oacute;n de Backup basada en disco</li>
-                <li>Veeam Availability Suite: Respaldo de dispositivos virtuales</li>
-            </ul>
-            </td>
-            <td>
-            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/img-arcserve-logo_.jpg" alt="img arcserve logo" class="img-responsive" border="0" /></p>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<p style="text-align: right;"><a class="btn btn-conoce-int" href="../contacto.php">Conoce m&aacute;s </a></p>						
+							<div class="col-md-6">
+								<ul>
+								<li>ARC Server Backup: Respaldo de servidores en producción </li>
+								<li>ARC Server Replicación: Protección de datos críticos (SQL, EXCHANGE, SHAREPOINT, ORACLE, IIS y otros)</li>
+								<li>ARC Server D2D: Solución de Backup basada en disco</li>
+								<li>Veeam Availability Suite: Respaldo de dispositivos virtuales</li>
+							</ul>
+							</div>
+							
+						</div>
 					</div>
+					<br><br>
+					<div class="container" style="background-color: #f2f4f8;">
+						<div class="col-md-4">
+							<h2>Servidores</h2>
+						</div>
+						<div class="col-md-8">
+							<ul>
+								<li>LAN (Switch's, Ruteadores)</li>
+								<li>Redes Inalámbricas</li>
+								<li>Wan (Ruteadores)</li>
+								<li>VPN's</li>
+							</ul>
+						</div>
+					</div>
+					<br><br>
+					<div class="container">
+						<div class="col-md-4">
+							<h2>REDES ALÁMBRICAS e inalámbricas</h2>
+						</div>
+						<div class="col-md-8">
+							<ul>
+								<li>Conmutadores</li>
+								<li>Voz Sobre IP</li>
+								<li>Telefonía IP</li>
+								<li>Correo de Voz</li>
+								<li>Cableado Estructurado</li>
+								<li>Transmisión de Voz y Datos</li>
+								<li>Fibra óptica</li>
+								<li>Cable UTP Nivel 6</li>
+								<li>CCTV</li>
+							</ul>
+						</div>
+					</div>
+
+
 				</div>
-			</div>
-			<div class="panel panel-default">
-				<div class="panel-heading">
-					<a id="panel2" class="panel-title collapsed icono-mas" data-toggle="collapse" data-parent="#panel-392526" href="#bloque2">Datos</a>
-				</div> 
-				<div id="bloque2" class="panel-collapse collapse">
-					<div class="panel-body">
-						<table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
-    <tbody>
-        <tr>
-            <td width="50%" valign="top">
-            <ul>
-                <li>LAN (Switch's, Ruteadores)</li>
-                <li>Redes Inal&aacute;mbricas</li>
-                <li>Wan (Ruteadores)</li>
-                <li>VPN's</li>
-            </ul>
-            </td>
-            <td>
-            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/img-datos.jpg" alt="Datos" class="img-responsive" border="0" /></p>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<p style="text-align: right;"><a class="btn btn-conoce-int" href="../contacto.php">Conoce m&aacute;s </a></p>						
-					</div>
-				</div>
-			</div>
-			<div class="panel panel-default">
-				<div class="panel-heading">
-					<a id="panel3" class="panel-title collapsed icono-mas" data-toggle="collapse" data-parent="#panel-392526" href="#bloque3">Voz</a>
-				</div> 
-				<div id="bloque3" class="panel-collapse collapse">
-					<div class="panel-body">
-						<table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
-    <tbody>
-        <tr>
-            <td width="50%" valign="top">
-            <ul>
-                <li>Conmutadores</li>
-                <li>Voz Sobre IP</li>
-                <li>Telefon&iacute;a IP</li>
-                <li>Correo de Voz</li>
-                <li>Cableado Estructurado</li>
-                <li>Transmisi&oacute;n de Voz y Datos</li>
-                <li>Fibra &oacute;ptica</li>
-                <li>Cable UTP Nivel 6</li>
-                <li>CCTV</li>
-            </ul>
-            </td>
-            <td>
-            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/img-voz.jpg" alt="Voz" class="img-responsive" border="0" /></p>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<p style="text-align: right;"><a class="btn btn-conoce-int" href="../contacto.php">Conoce m&aacute;s </a></p>						
-					</div>
 				</div>
 			</div>
 		</div>
