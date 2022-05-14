@@ -37,7 +37,7 @@
 				<p><a >Copyright &#169 Servicios en TIC S.A. de C.V.  </a></p>
 			</div>
 			<div class="col-md-6 text-center">
-				<p><a href="index.php?q=aviso_de_privacidad">Aviso de Privacidad</a></p>
+				<p><a href="aviso_de_privacidad.php">Aviso de Privacidad</a></p>
 			</div>
 			
 		</div>
