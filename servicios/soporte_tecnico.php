@@ -42,11 +42,10 @@
 							<h2>Equipo de c&oacute;mputo </h2>
 						</div>
 						<div class="col-md-8">
-							<div class="col-md-6">
-								<img src="../fondos/soporte.jpg" width="100%" height="100%">
+							<div class="col-md-4">
+								<img src="../fondos/iconos/computadora.png" > 	
 							</div>
-
-							<div class="col-md-6">
+							<div class="col-md-8">
 								<ul>
 								<li>ARC Server Backup: Respaldo de servidores en producción </li>
 								<li>ARC Server Replicación: Protección de datos críticos (SQL, EXCHANGE, SHAREPOINT, ORACLE, IIS y otros)</li>
@@ -63,12 +62,17 @@
 							<h2>Servidores</h2>
 						</div>
 						<div class="col-md-8">
-							<ul>
-								<li>LAN (Switch's, Ruteadores)</li>
-								<li>Redes Inalámbricas</li>
-								<li>Wan (Ruteadores)</li>
-								<li>VPN's</li>
-							</ul>
+							<div class="col-md-4">
+								<img src="../fondos/soporte.jpg" width="100%" height="100%"> -->	
+							</div>
+							<div class="col-md-8">
+								<ul>
+									<li>LAN (Switch's, Ruteadores)</li>
+									<li>Redes Inalámbricas</li>
+									<li>Wan (Ruteadores)</li>
+									<li>VPN's</li>
+								</ul>
+							</div>
 						</div>
 					</div>
 					<br><br>
@@ -77,17 +81,22 @@
 							<h2>REDES ALÁMBRICAS e inalámbricas</h2>
 						</div>
 						<div class="col-md-8">
-							<ul>
-								<li>Conmutadores</li>
-								<li>Voz Sobre IP</li>
-								<li>Telefonía IP</li>
-								<li>Correo de Voz</li>
-								<li>Cableado Estructurado</li>
-								<li>Transmisión de Voz y Datos</li>
-								<li>Fibra óptica</li>
-								<li>Cable UTP Nivel 6</li>
-								<li>CCTV</li>
-							</ul>
+							<div class="col-md-4">
+								<img src="../fondos/soporte.jpg" width="100%" height="100%"> -->	
+							</div>
+							<div class="col-md-8">
+								<ul>
+									<li>Conmutadores</li>
+									<li>Voz Sobre IP</li>
+									<li>Telefonía IP</li>
+									<li>Correo de Voz</li>
+									<li>Cableado Estructurado</li>
+									<li>Transmisión de Voz y Datos</li>
+									<li>Fibra óptica</li>
+									<li>Cable UTP Nivel 6</li>
+									<li>CCTV</li>
+								</ul>
+							</div>
 						</div>
 					</div>
 

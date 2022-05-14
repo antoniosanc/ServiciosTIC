@@ -88,7 +88,7 @@
 		<div class="row">
 			<nav class="navbar navbar-default hd-navbar" role="navigation">
 				<div class="navbar-header">
-					 <button type="button" class="btn navbar-toggle navbar-btn collapsed" data-toggle="collapse" data-target="#navbar-collapse-1"> 
+					<button type="button" class="btn navbar-toggle navbar-btn collapsed" data-toggle="collapse" data-target="#navbar-collapse-1"> 
 					 	<span class="sr-only">Toggle navigation</span>
 					 	<span class="icon-bar"></span><span class="icon-bar"></span>
 					 	<span class="icon-bar"></span></button> 
@@ -104,7 +104,7 @@
 								<li class='divider'></li><li><a href="servicios/cableado_estructurado_servicio.php?n=Cableado Estructurado">Cableado Estructurado</a></li> 
 								<li class='divider'></li>
 					</ul>
-					</li><li class="dropdown"><a href="index.php?q=productos"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Productos <b class="caret"></b></a> 
+					</li><li class="dropdown"><a href="productos.php?n=Productos"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Productos <b class="caret"></b></a> 
 									  <ul class="dropdown-menu"><li><a href="index.php?q=fibra_optica&n=productos">Fibra Óptica</a></li> 
 													<li class='divider'></li><li><a href="index.php?q=cableado_estructurado&n=productos">Cableado Estructurado</a></li> 
 													<li class='divider'></li><li><a href="index.php?q=hardware&n=productos">Hardware</a></li> 
@@ -114,7 +114,7 @@
 													<li class='divider'></li><li><a href="index.php?q=etiquetadoras&n=productos">Etiquetadoras</a></li> 
 													<li class='divider'></li>
 					</ul>
-					</li><li><a href="index.php?q=contacto" class=""> Contacto</a></li></ul>
+					</li><li><a href="contacto.php?n=Contacto" class=""> Contacto</a></li></ul>
 					</div>
 				</nav>				</div>
 		</div>
