@@ -42,7 +42,7 @@
 							<h2>Equipo de c&oacute;mputo </h2>
 						</div>
 						<div class="col-md-8">
-							<div class="col-md-4">
+							<div class="col-md-4" >
 								<img src="../fondos/iconos/computadora.png" > 	
 							</div>
 							<div class="col-md-8">
