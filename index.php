@@ -77,6 +77,14 @@
 			</div>
 		</div>
 	</div>
+	<!-- cursos de clemente -->
+	<div class="hm-servicios">
+		<div class="container">
+			<div class="row">
+
+			</div>
+		</div>
+	</div>
 
 <div class="hm-tu_mejor_opcion">
 	<div class="container">

@@ -134,7 +134,7 @@
 			</div>
 			<div class="col-md-4 text-center">
 				<p>
-					<a href="index.php">
+					<a href="../index.php">
 						<img src="../imgusr/logo_servicios_tic.jpg" class="img-responsive" alt="Servicios Tic" border="0" width="250px" height="150px" />
 					</a>
 				</p>
