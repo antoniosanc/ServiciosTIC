@@ -30,7 +30,7 @@
 		</div>
 	</div>
 </div>
-<div id="no-more-tables">
+
 	<div class="container contenido">
 		<div class="row">				
 			<div class="col-md-12">
@@ -38,74 +38,79 @@
 
 					<h2 style="text-align: center;"><strong>Soporte T&eacute;cnico especializado</strong> a equipo de c&oacute;mputo y servidores, Redes Al&aacute;mbricas e Inal&aacute;mbricas.</h2><br>
 					<div class="container">
-						<div class="col-md-4">
-							<h2>Equipo de c&oacute;mputo </h2>
+						<div class="col-md-3" >
+							<center><h2>Equipo de c&oacute;mputo </h2></center>
 						</div>
-						<div class="col-md-8">
-							<div class="col-md-4" >
-								<img src="../fondos/iconos/computadora.png" > 	
+						<div class="col-md-9">
+							<div class="col-md-6" a >
+								<center><img src="../fondos/iconos/hardware.png" ></center>	
 							</div>
-							<div class="col-md-8">
+							<div class="col-md-6">
+								Contamos con <b>personal especializado</b> y certificado para proporcionar soporte técnico en sitio y vía remota:
 								<ul>
-								<li>ARC Server Backup: Respaldo de servidores en producción </li>
-								<li>ARC Server Replicación: Protección de datos críticos (SQL, EXCHANGE, SHAREPOINT, ORACLE, IIS y otros)</li>
-								<li>ARC Server D2D: Solución de Backup basada en disco</li>
-								<li>Veeam Availability Suite: Respaldo de dispositivos virtuales</li>
-							</ul>
+									<li>Sistemas Operativos Cliente.</li>
+									<li>Sistemas Operativos Servidores.</li>
+									<li>Implementación y Administración de Sistemas de Seguridad Básicos.</li>
+									<li>Implementación y Configuración de Dispositivos de RED.</li>
+								</ul>
 							</div>
-							
 						</div>
 					</div>
-					<br><br>
-					<div class="container" style="background-color: #f2f4f8;">
-						<div class="col-md-4">
-							<h2>Servidores</h2>
+					<br>
+					<div class="container">
+						<div class="col-md-3">
+							<center><h2>Servidores </h2></center>
 						</div>
-						<div class="col-md-8">
-							<div class="col-md-4">
-								<img src="../fondos/soporte.jpg" width="100%" height="100%"> -->	
+						<div class="col-md-9">
+							<div class="col-md-6" a >
+								<center><img src="../fondos/iconos/servidor-de-datos.png" ></center>	
 							</div>
-							<div class="col-md-8">
+							<div class="col-md-6">
+								<ul>
+									<li>ARC Server Backup: Respaldo de servidores en producción </li>
+									<li>ARC Server Replicación: Protección de datos críticos (SQL, EXCHANGE, SHAREPOINT, ORACLE, IIS y otros)</li>
+									<li>ARC Server D2D: Solución de Backup basada en disco</li>
+									<li>Veeam Availability Suite: Respaldo de dispositivos virtuales</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<br>
+					<div class="container">
+						<div class="col-md-3">
+							<center><h2>REDES ALÁMBRICAS E INALÁMBRICAS </h2></center>
+						</div>
+						<div class="col-md-9">
+							<div class="col-md-6" a >
+								<center><img src="../fondos/iconos/red.png" ></center>	
+							</div>
+							<div class="col-md-6">
+								<b>Datos</b>
 								<ul>
 									<li>LAN (Switch's, Ruteadores)</li>
 									<li>Redes Inalámbricas</li>
 									<li>Wan (Ruteadores)</li>
 									<li>VPN's</li>
 								</ul>
-							</div>
-						</div>
-					</div>
-					<br><br>
-					<div class="container">
-						<div class="col-md-4">
-							<h2>REDES ALÁMBRICAS e inalámbricas</h2>
-						</div>
-						<div class="col-md-8">
-							<div class="col-md-4">
-								<img src="../fondos/soporte.jpg" width="100%" height="100%"> -->	
-							</div>
-							<div class="col-md-8">
+								<b>Voz</b>
 								<ul>
 									<li>Conmutadores</li>
 									<li>Voz Sobre IP</li>
 									<li>Telefonía IP</li>
 									<li>Correo de Voz</li>
 									<li>Cableado Estructurado</li>
-									<li>Transmisión de Voz y Datos</li>
 									<li>Fibra óptica</li>
 									<li>Cable UTP Nivel 6</li>
-									<li>CCTV</li>
 								</ul>
 							</div>
 						</div>
 					</div>
 
-
-				</div>
 				</div>
 			</div>
 		</div>
-	</div>
+	</div><br><br>
+
 </div>
 <!-- <p class="text-left"><a class="btn btn-conoce-int" href="../servicios.php"><span class="glyphicon glyphicon-chevron-left"></span> Regresar a los servicios</a></p> -->
 </div>

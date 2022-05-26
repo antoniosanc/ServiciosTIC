@@ -33,7 +33,7 @@
 </div>
 <div class="container">
 	<div class="row">
-		<h4 class="text-center panel-seccion-titulo text-primary" style="color: #000; text-align: justify;" ><br><br>
+		<h4 class="text-justify" ><br><br>
 
 		<p><b> SERVICIOS EN TIC, S.A. DE C.V. (SERTICSA), con domicilio en Chiclayo #639, Col. Lindavista Sur, Alcaldía de Gustavo A. Madero, Ciudad de México, C.P. 07300  (SERTICSA),</b> es responsable de la confidencialidad, uso y protección de la información personal que nos llegaré a proporcionar por los distintos medios que utilizamos para la prestación y difusión de nuestros servicios profesionales. Por lo anterior su información personal será utilizada para fines de identificación en cualquier tipo de relación jurídica o de negocios que realice con nosotros, incluyendo la asesoría y prestación de servicios profesionales en materia legal. </p>
 

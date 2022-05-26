@@ -29,10 +29,11 @@
             </div>
             <div class="item">
                 <!-- Set the third background image using inline CSS below. -->
-                <div class="fill" style="background-image:url('fondos/titulo.jpg');"></div>
+                <div class="fill" style="background-image:url('fondos/cursos.png');"></div>
                 <div class="carousel-caption">
                      <h2 class="animated fadeInRight">SERVICIOS EN TIC</h2>
-                     <p class="animated fadeInRight">HACE QUE TODO ESTE A TU ALCANCE</p>
+                     <p class="animated fadeInRight">CCNA 200-301 CURSO</p>
+                     <p class="animated fadeInUp"><a href="cursos.php" class="btn btn-transparent btn-rounded btn-large">Obtener más información </a></p>
                      
                 </div>
             </div>
