@@ -35,7 +35,7 @@
 			<div class="col-md-12">
 	        <h2 style="text-align: center;">Seguridad <strong>Inform&aacute;tica</strong></h2>
                 <table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
-                    <tbody>
+                    <tbody> 
                         <tr>
                             <td width="50%" valign="top">
                             <p style="text-align: justify;">Te asesoramos en la mejor soluci&oacute;n de seguridad de tu infraestructura en  donde se encuentra contenida la red de computadoras, con el objetivo  para poder identificar y eliminar las vulnerabilidades, salvaguardando  tu informaci&oacute;n y equipos f&iacute;sicos.</p>
@@ -52,26 +52,70 @@
                             </ul>
                             </td>
                             <td width="50%" valign="top">
-                            <p style="text-align: center;"><img src="../fondos/cyber.gif" alt="Seguridad Inform&aacute;tica" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
+                            <p style="text-align: center;"><img src="../fondos/cyber.gif" alt="Seguridad Inform&aacute;tica" class="img-responsive img-thumbnail image_effects animated" border="0" width="350" height="150" /></p>
                             </td>
                         </tr>
                     </tbody>
                 </table>
                 <table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
+                    <h2 style="text-align: center;">Conoce nuestras <strong>categorías</strong></h2>
+                            <p style="text-align: center;">Te ofrecemos las mejores soluciones dentro del rango de seguridad en informática, presentandote desde firewall de las alta calidad hasta CCTV para tu empresa y/o hogar.</p>
                     <tbody>
                         <tr>
-                            <td width="33%" valign="top">
-                            <h2 style="text-align: center;">Firewall</h2>
-                            <p style="text-align: center;"><a href="firewall.php"><img src="../fondos/firewall.jpg" alt="Firewall" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-                            </td>
-                            <td width="33%" valign="top">
-                            <h2 style="text-align: center;">Antivirus</h2>
-                            <p style="text-align: center;"><a href="antivirus.php"><img src="../fondos/anti.jpg" alt="Antivirus" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-                            </td>
-                            <td width="33%" valign="top">
-                            <h2 style="text-align: center;">CCTV</h2>
-                            <p style="text-align: center;"><a href="cctv.php"><img src="../fondos/cctv.jpg" alt="CCTV" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-                            </td>
+                            <br>
+                            
+                            <!-- Tabla de catalogo inicial -->
+                            <div class="hm-servicios">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="row" >
+                                            <div class="col-sm-4 col-md-4 cards br_col1" >
+                                                <h3 style="text-align:center;">Firewall</h3>
+                                                <p style="text-align: center;"><a href="firewall.php"><img class="img-responsive image_effects animated img-thumbnail" alt="Firewall" src="../fondos/iconos/firewall.png" width="60%" border="0" /></a></p>
+                                                <h3>M&oacute;dulos:</h3>
+                                                <ul>
+                                                    <li>Balanceo de Cargas</li>
+                                                    <li>QoS</li>
+                                                    <li>VPN</li>
+                                                    <li>Antiphishing</li>
+                                                    <li>Antispyware</li>
+                                                    <li>Filtrado de contenidos</li>
+                                                    <li>Detecci&oacute;n/Prevenci&oacute;n de Intrusos(IDS/IPS)</li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-sm-4 col-md-4 cards br_col2" >
+                                                <h3 style="text-align:center;">Antivirus</h3>
+                                                <p style="text-align: center;"><a href="antivirus.php"><img class="img-responsive image_effects animated img-thumbnail" alt="Antivirus" src="../fondos/iconos/ssl.png" width="60%"border="0" /></a></p>
+                                                <h3>M&oacute;dulos:</h3>
+                                                <ul>
+                                                    <li>Panda</li>
+                                                    <li>BitDefender</li>
+                                                    <li>HAURI</li>
+                                                    <li>KASPERSKY</li>
+                                                    <li>McAfee</li>
+                                                    <li>Norton</li>
+                                                    <li>TREND MIDRO</li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-sm-4 col-md-4 cards br_col1" >
+                                                <h3 style="text-align:center;">CCTV</h3>
+                                                <p style="text-align: center;"><a href="cctv.php"><img class="img-responsive image_effects animated img-thumbnail" alt="CCTV" src="../fondos/iconos/camara-de-cctv.png" width="60%" border="0" /></a></p>
+                                                <h3>M&oacute;dulos:</h3>
+                                                <ul>
+                                                    <li>Cámaras HD</li>
+                                                    <li>Almacenamiento</li>
+                                                    <li>Software de Gestión</li>
+                                                    <li>Nodo de Vídeo Cloud VCN</li>
+                                                    <li>Camáras IP</li>
+                                                    <li>Diversidad en DVR´s</li>
+                                                    <li>Sistema de Software de Vigilancia</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+    <!-- cursos de clemente -->
                         </tr>
                     </tbody>
                 </table>
