@@ -37,7 +37,7 @@
 				<div class="row">
 
 					<h2 style="text-align: center;"><strong>Soporte T&eacute;cnico especializado</strong> a equipo de c&oacute;mputo y servidores, Redes Al&aacute;mbricas e Inal&aacute;mbricas.</h2><br>
-					<div class="container">
+					<div class="col-lg-12" style="background: #f1f3f9ee;">
 						<div class="col-md-3" >
 							<center><h2>Equipo de c&oacute;mputo </h2></center>
 						</div>
@@ -57,7 +57,8 @@
 						</div>
 					</div>
 					<br>
-					<div class="container">
+
+					<div class="col-lg-12">
 						<div class="col-md-3">
 							<center><h2>Servidores </h2></center>
 						</div>
@@ -76,7 +77,7 @@
 						</div>
 					</div>
 					<br>
-					<div class="container">
+					<div class="col-lg-12" style="background: #f1f3f9ee;">
 						<div class="col-md-3">
 							<center><h2>REDES ALÁMBRICAS E INALÁMBRICAS </h2></center>
 						</div>
