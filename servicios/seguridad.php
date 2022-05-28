@@ -38,21 +38,21 @@
                     <tbody> 
                         <tr>
                             <td width="50%" valign="top">
-                            <p style="text-align: justify;">Te asesoramos en la mejor soluci&oacute;n de seguridad de tu infraestructura en  donde se encuentra contenida la red de computadoras, con el objetivo  para poder identificar y eliminar las vulnerabilidades, salvaguardando  tu informaci&oacute;n y equipos f&iacute;sicos.</p>
+                            <p style="text-align: justify;">Te asesoramos en la mejor soluci&oacute;n de seguridad de tu infraestructura en  donde se encuentra contenida la red de computadoras, con el objetivo  de poder identificar y eliminar las vulnerabilidades, salvaguardando  tu informaci&oacute;n y equipos f&iacute;sicos.</p>
                             <ul class="lista">
                                 <li>
-                                <div style="text-align: justify;">Protegemos Peque&ntilde;as &ndash; Medianas y Grandes Empresas (Firewall, Filtrado Web, Anti-Spam, Anti-Spyware, Antivirus)</div>
+                                <div style="text-align: justify;">Protegemos Peque&ntilde;as &ndash; Medianas y Grandes Empresas (Firewall, Filtrado Web, Anti-Spam, Anti-Spyware, Antivirus).</div>
                                 </li>
                                 <li>
-                                <div style="text-align: justify;">Garantizamos su seguridad sin comprometer la conectividad y su productividad</div>
+                                <div style="text-align: justify;">Garantizamos su seguridad sin comprometer la conectividad y su productividad.</div>
                                 </li>
                                 <li>
-                                <div style="text-align: justify;">Arquitectura de Seguridad Escalable</div>
+                                <div style="text-align: justify;">Arquitectura de Seguridad Escalable.</div>
                                 </li>
                             </ul>
                             </td>
-                            <td width="50%" valign="top">
-                            <p style="text-align: center;"><img src="../fondos/cyber.gif" alt="Seguridad Inform&aacute;tica" class="img-responsive img-thumbnail image_effects animated" border="0" width="350" height="150" /></p>
+                            <td width="20%" valign="top">
+                            <p style="text-align: center;"><img src="../fondos/cyber.gif" alt="Seguridad Inform&aacute;tica" class="img-responsive img-thumbnail image_effects animated" border="0" width="300" height="100" /></p>
                             </td>
                         </tr>
                     </tbody>

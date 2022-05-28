@@ -30,42 +30,7 @@
 	</div>
 </div>
 
-<div id="no-more-tables">
-	<div class="container contenido">
-		<div class="row">				
-			<div class="col-md-12">
-				<h2 style="text-align: center;">FIREWALL</h2>
-				<table width="90%" cellspacing="1" cellpadding="10" border="0" align="center">
-					<tbody>
-						<tr>
-						    <td width="50%" valign="top">
-						    <h3>M&oacute;dulos:</h3>
-						    <ul>
-						        <li>Balanceo de Cargas</li>
-						        <li>QoS</li>
-						        <li>VPN</li>
-						        <li>Antispam</li>
-						        <li>Antiphishing</li>
-						        <li>Antispyware</li>
-						        <li>Filtrado de contenidos</li>
-						        <li>Antivirus</li>
-						        <li>Detecci&oacute;n/Prevenci&oacute;n de Intrusos(IDS/IPS)</li>
-						    </ul>
-						    </td>
-						    <td width="50%" valign="top">
-						    <p style="text-align: center;"><img src="../fondos/network.jpg" alt="Firewall" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
-						    </td>
-						</tr>
-					</tbody>
-				</table>
-
-			</div>
-		</div>
-	</div>
-</div>
-
-
-
+<?php include 'catalogo_firewall.php' ?>
 
 
 <?php include 'footer.php';?>

@@ -43,7 +43,7 @@
 								<h3 style="text-align:center;">Seguridad Informática y CCTV</h3>
 								<p style="text-align:justify;">Te asesoramos en la mejor solución de seguridad de tu infraestructura en donde se...</p>
 								<p style="text-align:center;">
-									<a href="index.php?q=seguridad_informatica_y_cctv&n=servicios" class="btn btn-conoce">CONOCE M&Aacute;S </a>
+									<a href="../ServiciosTIC/servicios/seguridad.php" class="btn btn-conoce">CONOCE M&Aacute;S </a>
 								</p>
 							</div>
 							<div class="col-sm-4 col-md-4 cards br_col2" >
@@ -56,7 +56,7 @@
 								<p style="text-align:justify;">Creación y Administración de Dominios (Hosting) Servicios TIC </p>
 								<p></p>
 								<p style="text-align:center;">
-									<a href="index.php?q=hosting&n=servicios" class="btn btn-conoce">CONOCE M&Aacute;S </a>
+									<a href="../ServiciosTIC/servicios/hosting.php" class="btn btn-conoce">CONOCE M&Aacute;S </a>
 								</p>
 							</div>
 							
@@ -69,7 +69,7 @@
 								<h3 style="text-align:center;">Telecomunicaciones</h3>
 								<p style="text-align:justify;">Se realiza la instalación de equipos dentro del site del cliente de acuerdo a su...</p>
 								<p style="text-align:center;">
-									<a href="index.php?q=telecomunicaciones&n=servicios" class="btn btn-conoce">CONOCE M&Aacute;S </a>
+									<a href="../ServiciosTIC/servicios/telecomunicaciones.php" class="btn btn-conoce">CONOCE M&Aacute;S </a>
 								</p>
 							</div>
 							
