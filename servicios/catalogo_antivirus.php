@@ -11,19 +11,19 @@
 				    <tbody>
 				        <tr>
 				            <td width="20%">
-				            	<p style="text-align: center;"><a href="javascript:checkpoint()"><img class="img-responsive image_effects animated img-thumbnail" alt="Checkpoint" src="../userfiles/servicios_tic20/image/servicios/firewall/bitdefender.jpg" width="60%" border="0" /></a></p>
+				            	<p style="text-align: center;"><a href="javascript:bitdefender();"><img class="img-responsive image_effects animated img-thumbnail" alt="Bitdefender" src="../userfiles/servicios_tic20/image/servicios/firewall/bitdefender.jpg" width="60%" border="0" /></a></p>
 				            </td>
 				            <td width="20%">
-				            	<p style="text-align: center;"><a href="javascript:fortinet();"><img class="img-responsive image_effects animated img-thumbnail" alt="Fortinet" src="../userfiles/servicios_tic20/image/servicios/firewall/hauri.png" width="70%" border="0" /></a></p>
+				            	<p style="text-align: center;"><a href="javascript:hauri();"><img class="img-responsive image_effects animated img-thumbnail" alt="Hauri" src="../userfiles/servicios_tic20/image/servicios/firewall/hauri.png" width="70%" border="0" /></a></p>
 				            </td>
 				            <td width="20%">
-				            	<p style="text-align: center;"><a href="javascript:fortinet();"><img class="img-responsive image_effects animated img-thumbnail" alt="Fortinet" src="../userfiles/servicios_tic20/image/servicios/firewall/kaspersky.png" width="80%" border="0" /></a></p>
+				            	<p style="text-align: center;"><a href="javascript:kaspersky();"><img class="img-responsive image_effects animated img-thumbnail" alt="Kaspersky" src="../userfiles/servicios_tic20/image/servicios/firewall/kaspersky.png" width="80%" border="0" /></a></p>
 				            </td>
 				        </tr>
 				    </tbody>
 				</table>
 				<!-- Bitdefender -->
-				<div id="Bitdefender">
+				<div id="bitdefender">
 					<h2 style="text-align: center;">Soluciones <strong>Bitdefender</strong></h2>
 					<table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
 					    <tbody>
@@ -86,29 +86,29 @@
 					</table>
 				</div>
 				<!-- Hauri -->
-				<div id="fortinet" >
+				<div id="hauri" >
 					<h2 style="text-align: center;">Soluciones <strong>Hauri</strong></h2>
 					<table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
 					    <tbody>
 					        <tr>
 					            <td width="25%">
 						            <h3 style="text-align: center;">Tel&eacute;fono Empresarial Multimedia VVX1500</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Hauri" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 						            <h3 style="text-align: center;">Sound Structure C-Series</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstructure-c-series_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstructure-c-series_001.jpg" alt="Hauri" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 						            <h3 style="text-align: center;">Tel&eacute;fono Escritorio Polycom CX500</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Hauri" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 						            <h3 style="text-align: center;">Sound Station IP7000</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstation-ip-7000-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstation-ip-7000_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstation-ip-7000-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstation-ip-7000_001.jpg" alt="Hauri" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/soundstation-ip-7000-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					        </tr>
@@ -116,29 +116,29 @@
 					</table>
 				</div>
 				<!-- Kaspersky -->
-				<div id="fortinet" >
+				<div id="kaspersky" >
 					<h2 style="text-align: center;">Soluciones <strong>Kaspersky</strong></h2>
 					<table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
 					    <tbody>
 					        <tr>
 					            <td width="25%">
 						            <h3 style="text-align: center;">Tel&eacute;fono Empresarial Multimedia VVX1500</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Kaspersky" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 						            <h3 style="text-align: center;">Sound Structure C-Series</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstructure-c-series_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstructure-c-series_001.jpg" alt="Kaspersky" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 						            <h3 style="text-align: center;">Tel&eacute;fono Escritorio Polycom CX500</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Kaspersky" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 						            <h3 style="text-align: center;">Sound Station IP7000</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstation-ip-7000-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstation-ip-7000_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstation-ip-7000-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstation-ip-7000_001.jpg" alt="Kaspersky" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/soundstation-ip-7000-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					        </tr>
@@ -154,16 +154,24 @@
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 <script type="text/javascript">
 
-	function checkpoint() {
-	    var x = document.getElementById("checkpoint");
+	function bitdefender() {
+	    var x = document.getElementById("bitdefender");
 	    if (x.style.display === "none") {
 	        x.style.display = "block";
 	    } else {
 	        x.style.display = "none";
 	    }
 	}
-	function fortinet() {
-	    var x = document.getElementById("fortinet");
+	function hauri() {
+	    var x = document.getElementById("hauri");
+	    if (x.style.display === "none") {
+	        x.style.display = "block";
+	    } else {
+	        x.style.display = "none";
+	    }
+	}
+	function kaspersky() {
+	    var x = document.getElementById("kaspersky");
 	    if (x.style.display === "none") {
 	        x.style.display = "block";
 	    } else {
