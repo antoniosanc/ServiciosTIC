@@ -83,8 +83,8 @@
 					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender_GravityZone_Security_for_Mobile_Devices_Datasheet_en.pdf" target="_blank">Ver especificaciones</a></p>
 					            <td width="25%">
 						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Kaspersky/KES_Cloud_Datasheet_SP_Final.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Kaspersky/KES_Cloud_Datasheet_SP_Final.pdf" target="_blank">Contactanos</a></p>
+						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
 					            </td>
 					        </tr>
 					    </tbody>
@@ -113,8 +113,8 @@
 					            </td>
 					            <td width="25%">
 						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Kaspersky/KES_Cloud_Datasheet_SP_Final.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Hauri" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Kaspersky/KES_Cloud_Datasheet_SP_Final.pdf" target="_blank">Contactanos</a></p>
+						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Hauri" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
 					            </td>
 					        </tr>
 					    </tbody>
@@ -153,10 +153,10 @@
 						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Kaspersky/KSOS-DataSheet-mx.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/KTotalSecurity.jpg" alt="Kaspersky" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Kaspersky/KSOS-DataSheet-mx.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
-					            <td width="25%">
+					          	<td width="25%">
 						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Kaspersky/KES_Cloud_Datasheet_SP_Final.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Kaspersky" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Kaspersky/KES_Cloud_Datasheet_SP_Final.pdf" target="_blank">Contactanos</a></p>
+						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Hauri" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
 					            </td>
 					        </tr>
 					    </tbody>
