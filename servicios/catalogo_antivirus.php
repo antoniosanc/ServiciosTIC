@@ -22,83 +22,102 @@
 				        </tr>
 				    </tbody>
 				</table>
-				<!-- Ckeckpoint -->
-				<div id="checkpoint">
-					<h2 style="text-align: center;">Soluciones <strong>Check Point</strong></h2>
+				<!-- Bitdefender -->
+				<div id="Bitdefender">
+					<h2 style="text-align: center;">Soluciones <strong>Bitdefender</strong></h2>
+					<table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
+					    <tbody>
+					        <tr>
+					            <td width="24%">
+					            <h3 style="text-align: center;">GravityZone Business Security</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Bitdefender/bitdefender-business-security-datasheet.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/businessSecurity.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Bitdefender/bitdefender-business-security-datasheet.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+					            <h3 style="text-align: center;">GravityZone Business Security Premium</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender_GravityZone_Business_Security_Premium_Datasheet_en.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/securityPremium.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender_GravityZone_Business_Security_Premium_Datasheet_en.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="20%">
+					            <h3 style="text-align: center;">GravityZone Patch Management</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender_GravityZone_Patch_Management_Datasheet_en.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/patchmanagement.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender_GravityZone_Patch_Management_Datasheet_en.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+					            <h3 style="text-align: center;">GravityZone Full Disk Encryption</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender-2017-NGZ-Encryption-DS-crea1407-A4-en_EN-web.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/disk.jpeg" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender-2017-NGZ-Encryption-DS-crea1407-A4-en_EN-web.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					        </tr>
+					        <tr>
+					            <td width="24%">
+					            <h3 style="text-align: center;">GravityZone Security for Email</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender_GravityZone_Security_for_Email_Datasheet_en.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/emailSecurity.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender_GravityZone_Security_for_Email_Datasheet_en.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="20%">
+					            <h3 style="text-align: center;">GravityZone Security for Containers</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender_GravityZone_Security_for_Containers_Datasheet_en.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/containers.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender_GravityZone_Security_for_Containers_Datasheet_en.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+					            <h3 style="text-align: center;">GravityZone Security EDR Cloud</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender_GravityZone_Endpoint_Detection_Response_Cloud_Datasheet_en.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Bgeneric.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender_GravityZone_Endpoint_Detection_Response_Cloud_Datasheet_en.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+					            <h3 style="text-align: center;">GravityZone Business Security Enterprise</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender_GravityZone_Business_Security_Enterprise_Datasheet_en.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/enterpriseSecurity.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender_GravityZone_Business_Security_Enterprise_Datasheet_en.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					        </tr>
+					        <tr>
+					            <td width="25%">
+					            <h3 style="text-align: center;">Managed Detection & Response (MDR)</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender-Managed_Detection_Response_Datasheet_en.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/managedDR.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender-Managed_Detection_Response_Datasheet_en.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+					            <h3 style="text-align: center;">GravityZone Security for Mobile Devices</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender_GravityZone_Security_for_Mobile_Devices_Datasheet_en.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/SecurityMD3.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender_GravityZone_Security_for_Mobile_Devices_Datasheet_en.pdf" target="_blank">Ver especificaciones</a></p>
+					        </tr>
+					    </tbody>
+					</table>
+				</div>
+				<!-- Hauri -->
+				<div id="fortinet" >
+					<h2 style="text-align: center;">Soluciones <strong>Hauri</strong></h2>
 					<table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
 					    <tbody>
 					        <tr>
 					            <td width="25%">
-					            <h3 style="text-align: center;">Quantum Maestro</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_BIZ2400II_USB_FINAL_ES - LR.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/biz2400_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_BIZ2400II_USB_FINAL_ES - LR.pdf" target="_blank">Ver especificaciones</a></p>
+						            <h3 style="text-align: center;">Tel&eacute;fono Empresarial Multimedia VVX1500</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
-					            <h3 style="text-align: center;">Jabra Biz 1500</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Jabra BIZ 1500_Datasheet.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/biz1500_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Jabra BIZ 1500_Datasheet.pdf" target="_blank">Ver especificaciones</a></p>
+						            <h3 style="text-align: center;">Sound Structure C-Series</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstructure-c-series_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
-					            <h3 style="text-align: center;">Jabra Biz 2300</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_Jabra_BIZ 2300_50171_ESMX_V01_1310.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/biz2300_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_Jabra_BIZ 2300_50171_ESMX_V01_1310.pdf" target="_blank">Ver especificaciones</a></p>
+						            <h3 style="text-align: center;">Tel&eacute;fono Escritorio Polycom CX500</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
-					            <h3 style="text-align: center;">Jabra Pro 900</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_PRO 900_50202_ESMX_V01_1312.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/pro_900_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_PRO 900_50202_ESMX_V01_1312.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					        </tr>
-					        <tr>
-					            <td>
-					            <h3 style="text-align: center;">Jabra Motion</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_MOTION_50199_ESMX_V01_1402.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/motion_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_MOTION_50199_ESMX_V01_1402.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td>
-					            <h3 style="text-align: center;">Jabra Evolve 65</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Jabra_Evolve65_Datasheet_2017.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/evolve65_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Jabra_Evolve65_Datasheet_2017.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td>
-					            <h3 style="text-align: center;">Jabra Link 265</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_LINK265_50214_V01_1402.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/link_265_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_LINK265_50214_V01_1402.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td>
-					            <h3 style="text-align: center;">Jabra Speak 510</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_SPEAK_50082_CALA_ES_V01_1210.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/speak510_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_SPEAK_50082_CALA_ES_V01_1210.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					        </tr>
-					        <tr>
-					            <td>
-					            <h3 style="text-align: center;">Jabra Link 180</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_LINK180_50196_V01_1403_low.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/link_180_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_LINK180_50196_V01_1403_low.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td>
-					            <h3 style="text-align: center;">Jabra Link 14201-16</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_Cisco_HHC_Adapter.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/14201-16_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_Cisco_HHC_Adapter.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td>
-					            <h3 style="text-align: center;">Jabra Evolve 80</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Jabra_Evolve_80_Datasheet_ESMX.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/evolve80_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Jabra_Evolve_80_Datasheet_ESMX.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td>
-					            <h3 style="text-align: center;">Jabra GN 2000</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_GN2000_Desk_V02_1005_low.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/gn2000_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_GN2000_Desk_V02_1005_low.pdf" target="_blank">Ver especificaciones</a></p>
+						            <h3 style="text-align: center;">Sound Station IP7000</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstation-ip-7000-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstation-ip-7000_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/soundstation-ip-7000-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					        </tr>
 					    </tbody>
 					</table>
 				</div>
-				<!-- Fortinet -->
+				<!-- Kaspersky -->
 				<div id="fortinet" >
-					<h2 style="text-align: center;">Soluciones <strong>Fortinet</strong></h2>
+					<h2 style="text-align: center;">Soluciones <strong>Kaspersky</strong></h2>
 					<table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
 					    <tbody>
 					        <tr>
