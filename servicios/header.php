@@ -100,7 +100,8 @@
 								<li class='divider'></li><li><a href="hosting.php?n=Hosting">Hosting</a></li> 
 								<li class='divider'></li><li><a href="comunicaciones_unificadas.php?n=Comunicaciones Unificadas">Comunicaciones Unificadas</a></li> 
 								<li class='divider'></li><li><a href="telecomunicaciones.php?n=Telecomunicaciones">Telecomunicaciones</a></li> 
-								<li class='divider'></li><li><a href="cloud.php&n=Cloud">Cloud</a></li> 
+								<li class='divider'></li><li><a href="virtualizacion.php?n=Virtualización">Virtualización</a></li>
+								<li class='divider'></li><li><a href="cloud.php?n=Cloud">Cloud</a></li> 
 								<li class='divider'></li><li><a href="cableado_estructurado_servicio.php?n=Cableado Estructurado">Cableado Estructurado</a></li> 
 								<li class='divider'></li>
 					</ul>

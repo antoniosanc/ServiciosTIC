@@ -1,35 +1,35 @@
 
 <?php include'header.php'; ?>
 
-<div class="wrapper">
-	<div class="main">
-		<section class="content">
-				<div class="parallax img-soporte" id="m">
-					<div class="titulo_principal">
-						<div class="container">
-							<div class="col-md-12">
-								<h1>Soporte Técnico </h1>
+	<div class="wrapper">
+		<div class="main">
+			<section class="content">
+					<div class="parallax img-soporte" id="m">
+						<div class="titulo_principal">
+							<div class="container">
+								<div class="col-md-12">
+									<h1>Soporte Técnico </h1>
+								</div>			
 							</div>			
-						</div>			
-					</div>
-				</div><!-- .parallax -->
-		</section> <!-- .content -->
-	</div><!--.main -->
-</div>  <!-- wrapper -->
+						</div>
+					</div><!-- .parallax -->
+			</section> <!-- .content -->
+		</div><!--.main -->
+	</div>  <!-- wrapper -->
 
-<div class="hd_navegacion">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12 text-center">
-				<ol class="breadcrumb">
-					<li><a href="../index.php">Inicio</a></li>
-					<li><a href="../servicios.php">Servicios </a></li>
-					<li>Soporte técnico</li>
-				</ol>			
+	<div class="hd_navegacion">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<ol class="breadcrumb">
+						<li><a href="../index.php">Inicio</a></li>
+						<li><a href="../servicios.php">Servicios </a></li>
+						<li>Soporte técnico</li>
+					</ol>			
+				</div>
 			</div>
 		</div>
 	</div>
-</div>
 
 	<div class="container contenido">
 		<div class="row">				
@@ -113,7 +113,7 @@
 	</div><br><br>
 
 </div>
-<!-- <p class="text-left"><a class="btn btn-conoce-int" href="../servicios.php"><span class="glyphicon glyphicon-chevron-left"></span> Regresar a los servicios</a></p> -->
+
 </div>
 			</div>
 		</div>
