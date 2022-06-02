@@ -13,7 +13,7 @@
                 <!-- Set the first background image using inline CSS below. -->
                 <div class="fill" style="background-image:url('fondos/fondo.jpg');"></div>
                 <div class="carousel-caption">
-                     <center><h2 class="animated fadeInLeft">SERVICIOS EN TICS</h2></center>
+                     <center><h2 class="animated fadeInLeft">SERVICIOS EN TIC</h2></center>
                      <p class="animated fadeInUp">HACEMOS DE SU NEGOCIO UN NEGOCIO EXITOSO</p>
                      <p class="animated fadeInUp"><a href="servicios.php?n=Servicios" class="btn btn-transparent btn-rounded btn-large">nuestros servicios</a>
                 </div>
@@ -22,7 +22,7 @@
                 <!-- Set the second background image using inline CSS below. -->
                 <div class="fill" style="background-image:url('fondos/fd.jpg');"></div>
                 <div class="carousel-caption">
-                     <h2 class="animated fadeInDown">SERVICIOS EN TICS</h2>
+                     <h2 class="animated fadeInDown">SERVICIOS EN TIC</h2>
                      <p class="animated fadeInUp">LA MEJOR OPCIÓN PARA TODOS TUS PROYECTOS</p>
                      <p class="animated fadeInUp"><a href="productos.php" class="btn btn-transparent btn-rounded btn-large">Nuestros productos</a></p>
                 </div>

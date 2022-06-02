@@ -25,7 +25,7 @@
 				<p><a href="mailto:ventas@serviciostic.com.mx"><img src="fondos/iconos/correo-electronico.png" alt="Correo" border="0">ventas@serviciostic.com.mx</a></p>
 
 				<p><a href="tel:+52-55-1320-5021"><img src="fondos/iconos/telefono-inteligente.png" alt="Celular" border="0"> (55) 1320 - 5021</a></p>
-				<p><a href="https://wa.me/525539201357"><img src="fondos/iconos/whatsapp.png" alt="WhatsApp" border="0"> (55) 2540 - 6538 </a></p>
+				<p><a href="https://wa.me/525525406538"><img src="fondos/iconos/whatsapp.png" alt="WhatsApp" border="0"> (55) 2540 - 6538 </a></p>
 			</div>
 		</div>
 	</div>
@@ -91,7 +91,7 @@
 		</script>
 	
 	
-	<p class="whatsapp-icon"><a onclick="return gtag_report_conversion('https://api.whatsapp.com/send?phone=525539201357&text=¿Tienes alguna duda?');"  href="https://api.whatsapp.com/send?phone=525539201357&text=¿Tienes alguna duda?" target="_blank"> <img src="./imgusr/whatsapp-icon.png" /> </a></p>
+	<p class="whatsapp-icon"><a onclick="return gtag_report_conversion('https://api.whatsapp.com/send?phone=525525406538&text=¿Tienes alguna duda?');"  href="https://api.whatsapp.com/send?phone=525525406538&text=¿Tienes alguna duda?" target="_blank"> <img src="./imgusr/whatsapp-icon.png" /> </a></p>
 	
 	</body>
 </html>

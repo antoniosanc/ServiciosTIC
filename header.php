@@ -146,7 +146,7 @@
 					<a target="_blank" href="tel:+52-55-9130-1375"><img src="fondos/iconos/llamada.png" class="img-responsive animated bouncer" alt="Tel&eacute;fono" /> (55) 9130 - 1375</a>
 				</p>
 				<p>
-					<a target="_blank" href="https://wa.me/525539201357"><img src="fondos/iconos/whatsapp.png" class="img-responsive animated bouncer" alt="WhatsApp" border="0" /> (55) 3920 - 1357</a>
+					<a target="_blank" href="https://wa.me/525525406538"><img src="fondos/iconos/whatsapp.png" class="img-responsive animated bouncer" alt="WhatsApp" border="0" /> (55) 2540 - 6538</a>
 				</p>
 			</div>
 		</div>
