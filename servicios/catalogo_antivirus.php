@@ -14,7 +14,7 @@
 				            	<p style="text-align: center;"><a href="javascript:bitdefender();"><img class="img-responsive image_effects animated img-thumbnail" alt="Bitdefender" src="../userfiles/servicios_tic20/image/servicios/firewall/bitdefender.jpg" width="60%" border="0" /></a></p>
 				            </td>
 				            <td width="20%">
-				            	<p style="text-align: center;"><a href="javascript:hauri();"><img class="img-responsive image_effects animated img-thumbnail" alt="Hauri" src="../userfiles/servicios_tic20/image/servicios/firewall/hauri.png" width="70%" border="0" /></a></p>
+				            	<p style="text-align: center;"><a href="javascript:hauri();"><img class="img-responsive image_effects animated img-thumbnail" alt="Hauri" src="../userfiles/servicios_tic20/image/servicios/firewall/trendmicro.png" width="70%" border="0" /></a></p>
 				            </td>
 				            <td width="20%">
 				            	<p style="text-align: center;"><a href="javascript:kaspersky();"><img class="img-responsive image_effects animated img-thumbnail" alt="Kaspersky" src="../userfiles/servicios_tic20/image/servicios/firewall/kaspersky.png" width="80%" border="0" /></a></p>
@@ -92,7 +92,7 @@
 				</div>
 				<!-- Hauri -->
 				<div id="hauri" >
-					<h2 style="text-align: center;">Soluciones <strong>Hauri</strong></h2>
+					<h2 style="text-align: center;">Soluciones <strong>Trendmicro</strong></h2>
 					<table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
 					    <tbody>
 					        <tr>
