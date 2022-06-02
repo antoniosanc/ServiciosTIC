@@ -33,7 +33,7 @@
                 <div class="carousel-caption">
                      <h2 class="animated fadeInRight">SERVICIOS EN TIC</h2>
                      <p class="animated fadeInRight">CCNA 200-301 CURSO</p>
-                     <p class="animated fadeInUp"><a href="cursos.php" class="btn btn-transparent btn-rounded btn-large">Obtener más información </a></p>
+                     <p class="animated fadeInUp"><a href="cursos.php" class="btn btn-transparent btn-rounded btn-large">Obten más información </a></p>
                      
                 </div>
             </div>

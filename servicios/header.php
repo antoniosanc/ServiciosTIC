@@ -94,7 +94,10 @@
 					 	<span class="icon-bar"></span></button> 
 				</div>
 				<div class="collapse navbar-collapse" id="navbar-collapse-1"style="color: #fff;">
-						<ul class="nav navbar-nav hd-nav"><li><a href="../index.php" class=""> Inicio</a></li><li><a href="../quienes_somos.php?n=Acerca" class=""> Acerca</a></li><li class="dropdown"><a href="../servicios.php?n=Servicios"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Servicios <b class="caret"></b></a> 
+						<ul class="nav navbar-nav hd-nav">
+							<li><a href="../index.php" class=""> Inicio</a></li>
+							<li><a href="../quienes_somos.php?n=Acerca" class=""> Acerca</a></li>
+							<li class="dropdown"><a href="../servicios.php?n=Servicios"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Servicios <b class="caret"></b></a> 
 							<ul class="dropdown-menu"><li><a href="soporte_tecnico.php?n=Soporte Técnico">Soporte técnico</a></li> 
 								<li class='divider'></li><li><a href="seguridad.php?n=Seguridad">Seguridad Informática y CCTV</a></li> 
 								<li class='divider'></li><li><a href="hosting.php?n=Hosting">Hosting</a></li> 

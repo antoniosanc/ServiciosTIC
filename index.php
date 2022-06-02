@@ -152,7 +152,8 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 clientes">
-				
+				<h2 style="text-align: center;"><strong>MARCAS</strong></h2>
+				<p style="text-align: justify;">Contamos con relaciones comerciales de las distintas marcas ofrecemos los mejores precios y <strong>descuentos promocionales</strong>, cualquier marca que manejamos garantiza el &eacute;xito que necesitas para tus proyectos.</p>
 				<div class="jcarousel-wrapper">
 					<div class="jcarousel carrusel_conv">
 						<ul class="text-center"><li>
@@ -183,6 +184,33 @@
 			</div>
 		</div>
 	</div>	
+</div>
+<!-- casos de exito -->
+<div class="container contenido">
+	<div class="row">
+		<h2 style="text-align: center;">ALGUNOS <strong>CASOS DE &Eacute;XITO</strong></h2>
+		<p style="text-align: justify;"><strong>Empresas reconocidas a nivel internacional</strong> donde realizamos constantes implementaciones de <strong>cableado estructura y fibra &oacute;ptica</strong>, nosotros somos su principal opci&oacute;n, por la alta calidad y compromiso en nuestros servicios.</p>
+		<table width="100%" cellspacing="1" cellpadding="1" border="0" align="center">
+			<tbody>
+				<tr>
+					
+					<td width="20%">
+					<p><img src="fondos/atc.png" alt="Casos de &eacute;xito" class="img-responsive animated image_effects" /></p>
+					</td>
+					<td width="20%">
+					<p><img src="userfiles/servicios_tic20/image/servicios/cableado_estructurado/logo_kio.jpg" alt="Casos de &eacute;xito" class="img-responsive animated image_effects" /></p>
+					</td>
+					<td width="20%">
+					<p><img src="userfiles/servicios_tic20/image/servicios/cableado_estructurado/logo_dell.jpg" alt="Casos de &eacute;xito" class="img-responsive animated image_effects" /></p>
+					</td>
+					<td width="20%">
+					<p><img src="userfiles/servicios_tic20/image/servicios/cableado_estructurado/logo_att.jpg" alt="Casos de &eacute;xito" class="img-responsive animated image_effects" /></p>
+					</td>
+					
+				</tr>
+			</tbody>
+		</table>
+	</div>
 </div>
 <script type="text/javascript">
 const hamburger = document.querySelector(".hamburger");
