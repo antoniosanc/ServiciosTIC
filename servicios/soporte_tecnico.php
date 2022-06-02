@@ -39,13 +39,16 @@
 					<h2 style="text-align: center;"><strong>Soporte T&eacute;cnico especializado</strong> a equipo de c&oacute;mputo y servidores, Redes Al&aacute;mbricas e Inal&aacute;mbricas.</h2><br>
 					<div class="col-lg-12" style="background: #f1f3f9ee;">
 						<div class="col-md-3" >
+							<p></p>
 							<center><h2>Equipo de c&oacute;mputo </h2></center>
 						</div>
 						<div class="col-md-9">
 							<div class="col-md-6" a >
+								<p></p>
 								<center><img src="../fondos/iconos/hardware.png" ></center>	
 							</div>
 							<div class="col-md-6">
+								<p></p>
 								Contamos con <b>personal especializado</b> y certificado para proporcionar soporte técnico en sitio y vía remota:
 								<ul>
 									<li>Sistemas Operativos Cliente.</li>
@@ -60,13 +63,16 @@
 
 					<div class="col-lg-12">
 						<div class="col-md-3">
+							<p></p>
 							<center><h2>Servidores </h2></center>
 						</div>
 						<div class="col-md-9">
-							<div class="col-md-6" a >
+							<div class="col-md-6">
+								<p></p>
 								<center><img src="../fondos/iconos/servidor-de-datos.png" ></center>	
 							</div>
 							<div class="col-md-6">
+								<p></p>
 								<ul>
 									<li>ARC Server Backup: Respaldo de servidores en producción </li>
 									<li>ARC Server Replicación: Protección de datos críticos (SQL, EXCHANGE, SHAREPOINT, ORACLE, IIS y otros)</li>
@@ -79,13 +85,16 @@
 					<br>
 					<div class="col-lg-12" style="background: #f1f3f9ee;">
 						<div class="col-md-3">
+							<p></p>
 							<center><h2>REDES ALÁMBRICAS E INALÁMBRICAS </h2></center>
 						</div>
 						<div class="col-md-9">
-							<div class="col-md-6" a >
+							<div class="col-md-6">
+								<p></p>
 								<center><img src="../fondos/iconos/red.png" ></center>	
 							</div>
 							<div class="col-md-6">
+								<p></p>
 								<b>Datos</b>
 								<ul>
 									<li>LAN (Switch's, Ruteadores)</li>
