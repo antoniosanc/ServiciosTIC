@@ -185,49 +185,43 @@
 		</div>
 	</div>	
 </div>
-<!-- casos de exito -->
-<div class="container contenido">
-	<div class="row">
-		<h2 style="text-align: center;">ALGUNOS <strong>CASOS DE &Eacute;XITO</strong></h2>
-		<p style="text-align: justify;"><strong>Empresas reconocidas a nivel internacional</strong> donde realizamos constantes implementaciones de <strong>cableado estructura y fibra &oacute;ptica</strong>, nosotros somos su principal opci&oacute;n, por la alta calidad y compromiso en nuestros servicios.</p>
-		<table width="100%" cellspacing="1" cellpadding="1" border="0" align="center">
-			<tbody>
-				<tr>
-					
-					<td width="20%">
-					<p><img src="fondos/atc.png" alt="Casos de &eacute;xito" class="img-responsive animated image_effects" /></p>
-					</td>
-					<td width="20%">
-					<p><img src="userfiles/servicios_tic20/image/servicios/cableado_estructurado/logo_kio.jpg" alt="Casos de &eacute;xito" class="img-responsive animated image_effects" /></p>
-					</td>
-					<td width="20%">
-					<p><img src="userfiles/servicios_tic20/image/servicios/cableado_estructurado/logo_dell.jpg" alt="Casos de &eacute;xito" class="img-responsive animated image_effects" /></p>
-					</td>
-					<td width="20%">
-					<p><img src="userfiles/servicios_tic20/image/servicios/cableado_estructurado/logo_att.jpg" alt="Casos de &eacute;xito" class="img-responsive animated image_effects" /></p>
-					</td>
-					
-				</tr>
-			</tbody>
-		</table>
+
+<div class="hm-tu_marca">
+	<div class="container">
+		<div class="row" >
+			<h2 style="text-align: center;">ALGUNOS <strong>CASOS DE &Eacute;XITO</strong></h2>
+			<p style="text-align: justify;"><strong>Empresas reconocidas a nivel internacional</strong> donde realizamos constantes implementaciones de <strong>cableado estructura y fibra &oacute;ptica</strong>, nosotros somos su principal opci&oacute;n, por la alta calidad y compromiso en nuestros servicios.</p>
+			<table width="100%" cellspacing="1" cellpadding="1" border="0" align="center">
+				<tbody>
+					<tr>
+						<td width="20%">
+						<p><img src="fondos/atc.png" alt="Casos de &eacute;xito" class="img-responsive animated image_effects" width="213px" /></p>
+						</td>
+						<td width="20%">
+						<p><img src="userfiles/servicios_tic20/image/servicios/cableado_estructurado/logo_kio.jpg" alt="Casos de &eacute;xito" class="img-responsive animated image_effects" /></p>
+						</td>
+						<td width="20%">
+						<p><img src="userfiles/servicios_tic20/image/servicios/cableado_estructurado/logo_dell.jpg" alt="Casos de &eacute;xito" class="img-responsive animated image_effects" /></p>
+						</td>
+						<td width="20%">
+						<p><img src="userfiles/servicios_tic20/image/servicios/cableado_estructurado/logo_att.jpg" alt="Casos de &eacute;xito" class="img-responsive animated image_effects" /></p>
+						</td>
+						
+					</tr>
+				</tbody>
+			</table>
+		</div>
 	</div>
 </div>
-<script type="text/javascript">
-const hamburger = document.querySelector(".hamburger");
-const navLinks = document.querySelector(".nav-links");
-const links = document.querySelectorAll(".nav-links li");
 
-hamburger.addEventListener('click', ()=>{
-   //Animate Links
-    navLinks.classList.toggle("open");
-    links.forEach(link => {
-        link.classList.toggle("fade");
-    });
 
-    //Hamburger Animation
-    hamburger.classList.toggle("toggle");
-});	
-</script>
+
+
+<!-- casos de exito -->
+
+
+<br>
+
 
 
 <?php include 'footer.php' ?>
