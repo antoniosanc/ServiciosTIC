@@ -10,7 +10,7 @@
 					<div class="titulo_principal">
 						<div class="container">
 							<div class="col-md-12">
-								<h1>Acerca</h1>
+								<h1>Acerca de nosotros</h1>
 							</div>			
 						</div>			
 					</div>

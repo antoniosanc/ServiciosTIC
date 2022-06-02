@@ -11,12 +11,14 @@
 				            <td class="text-bienvenida" width="45%">
 				            <h2>BIENVENIDOS</h2>
 					            <p style="text-align: justify;">
-					            	Somos una empresa dedicada a la venta de equipo de cómputo, telefonía y telecomunicaciones. <strong>telecomunicaciones</strong>
+					            	Somos una empresa dedicada a la venta de hardware, telefonía y <strong>telecomunicaciones.</strong>
 					            	
-					            	Proporcionamos servicios de <strong>Soporte Técnico</strong>, Instalación e implementación de cableado estructurado y fibra óptica, Instalación y configuración de equipo de telecomunicaciones.
+					            	Proporcionamos servicios de <strong>soporte técnico preventivo y correctivo</strong>, implementación de infraestructura, cableado estructurado y fibra óptica, instalación y configuración de equipo de telecomunicaciones.
 					            	<p>
-					            	Así mismo, somos <strong>Microsoft Partner Network</strong>, por lo que podemos vender todo tipo de licenciamiento Microsoft. Siendo también proveedores de servicios de la nube con On-Cloud y AWS (Amazon Web Services), de igual forma con Azure.
+					            	Somos <strong>Microsoft Partner Network</strong>, venta de todo tipo de licencimaiento Microsoft. Somos proveedores de servicios de nube con AWS (Amazon Web Services) y Azure.
 					            </p>
+					            <br>
+					            <br>
 				            </td>
 				            <td class="img-bienvenida" width="55%">
 				            <p style="text-align: center;"><img src="fondos/sop.jpg" alt="Bienvenido" class="img-responsive" border="0" /></p>
@@ -99,37 +101,10 @@
 						<div id="bloque1" class="panel-collapse collapse">
 							<div class="panel-body">
 								<ul>
-									<li>Todos nuestros equipos cuentan m&iacute;nimamente con 1 a&ntilde;o de garant&iacute;a</li>
+									<li>Todos nuestros equipos cuentan con 1 a&ntilde;o de garant&iacute;a</li>
 									<li>Dependiendo del fabricante hasta 3 a&ntilde;os de garant&iacute;a</li>
 									<li>Nosotros nos hacemos responsables de nuestros equipos en garant&iacute;a</li>
 									<li>En caso de alg&uacute;n problema nuestro cliente nos llama y nosotros realizamos todo el proceso de garant&iacute;a ante el fabricante</li>
-								</ul>
-								
-							</div>
-						</div>
-					</div>
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							<a id="panel2" class="panel-title collapsed icono-mas" data-toggle="collapse" data-parent="#panel-392526" href="#bloque2">Garant&iacute;a extendida</a>
-						</div> 
-						<div id="bloque2" class="panel-collapse collapse">
-							<div class="panel-body">
-								<ul>
-									<li>Con algunos fabricantes podemos realizar extensi&oacute;n de garant&iacute;as, con un peque&ntilde;o importe</li>
-								</ul>
-								
-							</div>
-						</div>
-					</div>
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							<a id="panel3" class="panel-title collapsed icono-mas" data-toggle="collapse" data-parent="#panel-392526" href="#bloque3">Tecnolog&iacute;a de punta</a>
-						</div> 
-						<div id="bloque3" class="panel-collapse collapse">
-							<div class="panel-body">
-								<ul>
-									<li>En todos nuestros productos manejamos la &uacute;ltima tecnolog&iacute;a de punta</li>
-									<li>En software manejamos las &uacute;ltimas versiones disponibles en el mercado</li>
 								</ul>
 								
 							</div>
@@ -159,22 +134,6 @@
 									<li>Soporte t&eacute;cnico especializado en sitio o v&iacute;a remota</li>
 									<li>Aplican restricciones</li>
 									<li>P&oacute;lizas de soporte t&eacute;cnico preventivo y correctivo</li>
-								</ul>
-								
-							</div>
-						</div>
-					</div>
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							<a id="panel6" class="panel-title collapsed icono-mas" data-toggle="collapse" data-parent="#panel-392526" href="#bloque6">Software original</a>
-						</div> 
-						<div id="bloque6" class="panel-collapse collapse">
-							<div class="panel-body">
-								<ul>
-									<li>Somos distribuidores de una gran variedad de software</li>
-									<li>Sistemas operativos</li>
-									<li>Desarrollo</li>
-									<li>Seguridad</li>
 								</ul>
 								
 							</div>

@@ -127,7 +127,7 @@
 		<div class="row">
 			<div class="col-md-4 text-center">
 				<p>
-					<a href="solicitud_soporte.php" class="btn btn-soporte">Soporte T&eacute;cnico</a>
+					<a href="solicitud_soporte.php" class="btn btn-soporte">Solicitar Soporte T&eacute;cnico</a>
 				</p>
 				<p>
 					<a href="mailto:ventas@serviciostic.com.mx"><img src="fondos/iconos/correo-electronico.png" class="img-responsive animated bouncer" alt="Correo" border="0"> ventas@serviciostic.com.mx</a>

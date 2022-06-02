@@ -88,13 +88,9 @@
                                                 <p style="text-align: center;"><a href="antivirus.php"><img class="img-responsive image_effects animated img-thumbnail" alt="Antivirus" src="../fondos/iconos/ssl.png" width="60%"border="0" /></a></p>
                                                 <h3>M&oacute;dulos:</h3>
                                                 <ul>
-                                                    <li>Panda</li>
-                                                    <li>BitDefender</li>
-                                                    <li>HAURI</li>
-                                                    <li>KASPERSKY</li>
-                                                    <li>McAfee</li>
-                                                    <li>Norton</li>
-                                                    <li>TREND MIDRO</li>
+                                                    <li>Bitdefender</li>
+                                                    <li>Kaspersky</li>
+                                                    <li>Trend Micro</li>
                                                 </ul>
                                             </div>
                                             <div class="col-sm-4 col-md-4 cards br_col1" >

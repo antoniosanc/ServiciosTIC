@@ -68,10 +68,10 @@
 							</div>
 							<div class="col-md-6">
 								<ul>
-									<li>ARC Server Backup: Respaldo de servidores en producción </li>
-									<li>ARC Server Replicación: Protección de datos críticos (SQL, EXCHANGE, SHAREPOINT, ORACLE, IIS y otros)</li>
-									<li>ARC Server D2D: Solución de Backup basada en disco</li>
-									<li>Veeam Availability Suite: Respaldo de dispositivos virtuales</li>
+									<li>Pendiente de información </li>
+									<li>Pendiente de información</li>
+									<li>Pendiente de información</li>
+									<li>Pendiente de información</li>
 								</ul>
 							</div>
 						</div>

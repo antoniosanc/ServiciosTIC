@@ -20,12 +20,12 @@
 			</div>
 			<div class="col-sm-4 align-left">
 				<center><h3>Contacto</h3></center>
-				<p><a href="tel:+52-55-9130-1375"><img src="fondos/iconos/llamada.png" alt="Tel&eacute;fono" border="0"> (55) 9130-1375 / (55) 6732-4800</a></p>
+				<p><a href="tel:+52-55-9130-1375"><img src="fondos/iconos/llamada.png" alt="Tel&eacute;fono" border="0"> (55) 6732-4800 / (55) 9130-1375</a></p>
 				<p><a href="mailto:soporte@serviciostic.com.mx"><img src="fondos/iconos/correo-electronico.png" alt="Correo" border="0">soporte@serviciostic.com.mx</a></p>
 				<p><a href="mailto:ventas@serviciostic.com.mx"><img src="fondos/iconos/correo-electronico.png" alt="Correo" border="0">ventas@serviciostic.com.mx</a></p>
 
 				<p><a href="tel:+52-55-1320-5021"><img src="fondos/iconos/telefono-inteligente.png" alt="Celular" border="0"> (55) 1320 - 5021</a></p>
-				<p><a href="https://wa.me/525539201357"><img src="fondos/iconos/whatsapp.png" alt="WhatsApp" border="0"> (55) 3920 - 1357 </a></p>
+				<p><a href="https://wa.me/525539201357"><img src="fondos/iconos/whatsapp.png" alt="WhatsApp" border="0"> (55) 2540 - 6538 </a></p>
 			</div>
 		</div>
 	</div>

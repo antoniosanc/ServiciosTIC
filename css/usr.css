@@ -442,19 +442,19 @@
 
 .btn-soporte{
 
-  background: #fff;
+    color: #fff !important;
 
-  color: #3f4995;
+    border: 1px solid;
 
-  border: 2px solid #3f4995;
+    background: #ffbb2f;
 
-  font-family: 'Poppins-Medium', Arial;
+    font-family: 'Poppins-Medium', Arial;
 
-  width: 190px;
+    width: 250px;
 
-  margin-top: 20px;
+    margin-top: 20px;
 
-  transition: all 400ms;
+    transition: all 400ms;
 
 }
 
@@ -464,9 +464,10 @@
 
 .btn-soporte:active{
   
-  background: #fff;
+  background: #012168;
   
-  border: 2px solid #3f4995;
+  border: 1px solid #012168;
+
 
 }
 
