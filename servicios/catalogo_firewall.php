@@ -134,140 +134,145 @@
 					        <tr>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Dispositivos de escritorio de la serie XGS 87 y XGS 87w</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_BIZ2400II_USB_FINAL_ES - LR.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/biz2400_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_BIZ2400II_USB_FINAL_ES - LR.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-87.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/xgs87.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-87.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Dispositivos de escritorio de la serie XGS 107, XGS 107w</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Jabra BIZ 1500_Datasheet.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/biz1500_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Jabra BIZ 1500_Datasheet.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-107.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/xgs107.png" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-107.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Dispositivos de escritorio de la serie XGS 116, XGS 116w</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_Jabra_BIZ 2300_50171_ESMX_V01_1310.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/biz2300_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_Jabra_BIZ 2300_50171_ESMX_V01_1310.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-116.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/xgs116.png" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-116.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Dispositivos de escritorio de la serie XGS 126, XGS 126w</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_PRO 900_50202_ESMX_V01_1312.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/pro_900_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_PRO 900_50202_ESMX_V01_1312.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-126-136.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/xgs126.png" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-126-136.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					        </tr>
 					        <tr>
-					            <td>
+					            <td width="25%">
 					            <h3 style="text-align: center;">Dispositivos de escritorio de la serie XGS 136, XGS 136w</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_MOTION_50199_ESMX_V01_1402.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/motion_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_MOTION_50199_ESMX_V01_1402.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-126-136.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/xgs136.png" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-126-136.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Serie 1U de Sophos XGS. Perímetro distribuido - XGS 2100</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Jabra BIZ 1500_Datasheet.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/biz1500_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Jabra BIZ 1500_Datasheet.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-2100-2300.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/xgs2100.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-2100-2300.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Serie 1U de Sophos XGS. Perímetro distribuido - XGS 2300</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_Jabra_BIZ 2300_50171_ESMX_V01_1310.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/biz2300_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_Jabra_BIZ 2300_50171_ESMX_V01_1310.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-2100-2300.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/xgs2300.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-2100-2300.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Serie 1U de Sophos XGS. Perímetro distribuido - XGS 3100</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_PRO 900_50202_ESMX_V01_1312.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/pro_900_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_PRO 900_50202_ESMX_V01_1312.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-3100-3300.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/xgs3100.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-3100-3300.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					        </tr>
 					        <tr>
-					            <td>
+					            <td width="25%">
 					            <h3 style="text-align: center;">Serie 1U de Sophos XGS. Perímetro distribuido - XGS 3300</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_LINK180_50196_V01_1403_low.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/link_180_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_LINK180_50196_V01_1403_low.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-3100-3300.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/xgs3300.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-3100-3300.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
-					            <td>
+					            <td width="25%">
 					            <h3 style="text-align: center;">Serie 1U de Sophos XGS. Perímetro distribuido - XGS 4300</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_Cisco_HHC_Adapter.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/14201-16_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_Cisco_HHC_Adapter.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-4300-4500.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/xgs4300.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-4300-4500.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
-					            <td>
+					            <td width="25%">
 					            <h3 style="text-align: center;">Serie 1U de Sophos XGS. Perímetro distribuido - XGS 4500</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Jabra_Evolve_80_Datasheet_ESMX.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/evolve80_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Jabra_Evolve_80_Datasheet_ESMX.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-4300-4500.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/xgs4500.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-4300-4500.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
-					            <td>
+					            <td width="25%">
 					            <h3 style="text-align: center;">Serie 2U de Sophos XGS. Perímetro empresarial - XGS 5500</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_GN2000_Desk_V02_1005_low.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/gn2000_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_GN2000_Desk_V02_1005_low.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-5500.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/xgs5500.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-5500.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					        </tr>
 					        <tr>
-					            <td>
+					            <td width="25%">
 					            <h3 style="text-align: center;">Serie 2U de Sophos XGS. Perímetro empresarial - XGS 6500</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_LINK180_50196_V01_1403_low.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/link_180_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_LINK180_50196_V01_1403_low.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-6500.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/link_180_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-6500.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
-					            <td>
-					            <h3 style="text-align: center;">Sophos Mobile</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_Cisco_HHC_Adapter.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/14201-16_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_Cisco_HHC_Adapter.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td>
-					            <h3 style="text-align: center;">Endpoint Protection</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Jabra_Evolve_80_Datasheet_ESMX.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/evolve80_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Jabra_Evolve_80_Datasheet_ESMX.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td>
+					            <td width="25%">
 					            <h3 style="text-align: center;">Modulos de conectividad - Serie XGS</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_GN2000_Desk_V02_1005_low.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/gn2000_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_GN2000_Desk_V02_1005_low.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-modulosdeconectividad.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/14201-16_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-modulosdeconectividad.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+					            <h3 style="text-align: center;">Módulos flexi port para Serie 1U y Serie 2U de Sophos XGS</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-modulosflexiport.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/evolve80_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-modulosflexiport.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+					            <h3 style="text-align: center;">Sophos Firewall y los dispositivos de la serie XGS</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-info.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/sophos-xgs-firewall.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-info.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					        </tr>
 					        <tr>
-					            <td>
-					            <h3 style="text-align: center;">Módulos flexi port para 1U y 2U</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_LINK180_50196_V01_1403_low.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/link_180_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_LINK180_50196_V01_1403_low.pdf" target="_blank">Ver especificaciones</a></p>
+					            <td width="25%">
+					            <h3 style="text-align: center;">Endpoint Protection</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/Sophos-Endpoint.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/sophos-endpoint.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/Sophos-Endpoint.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
-					            <td>
+					            <td width="25%">
 					            <h3 style="text-align: center;">Protección inalámbrica</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_Cisco_HHC_Adapter.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/14201-16_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_Cisco_HHC_Adapter.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-proteccioninalambrica.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/14201-16_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-proteccioninalambrica.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
-					            <td>
+					            <td width="25%">
 					            <h3 style="text-align: center;">SD - RED</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Jabra_Evolve_80_Datasheet_ESMX.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/evolve80_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Jabra_Evolve_80_Datasheet_ESMX.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-sdred.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/evolve80_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-sdred.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
-					            <td>
+					            <td width="25%">
 					            <h3 style="text-align: center;">XG Firewall Features</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_GN2000_Desk_V02_1005_low.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/gn2000_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_GN2000_Desk_V02_1005_low.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-nextgen-firewall.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/gn2000_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-nextgen-firewall.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					        </tr>
 					         <tr>
-					            <td>
+					            <td width="25%">
 					            <h3 style="text-align: center;">Sophos Sandstorm</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_LINK180_50196_V01_1403_low.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/link_180_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_LINK180_50196_V01_1403_low.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-sandstorm.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/link_180_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-sandstorm.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
-					            <td>
+					            <td width="25%">
 					            <h3 style="text-align: center;">Sophos Email</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_Cisco_HHC_Adapter.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/14201-16_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_Cisco_HHC_Adapter.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-secure-email-gateway.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/14201-16_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-secure-email-gateway.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
-					            <td>
+					            <td width="25%">
 					            <h3 style="text-align: center;">Sophos Web Gateway</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Jabra_Evolve_80_Datasheet_ESMX.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/evolve80_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Jabra_Evolve_80_Datasheet_ESMX.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-secure-web-gateway.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/evolve80_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-secure-web-gateway.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
-					            <td>
-					            <h3 style="text-align: center;">Sophos Protection</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_GN2000_Desk_V02_1005_low.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/gn2000_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_GN2000_Desk_V02_1005_low.pdf" target="_blank">Ver especificaciones</a></p>
+					            <td width="25%">
+					            <h3 style="text-align: center;">Server Protection</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-server-protection.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/gn2000_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-server-protection.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					        </tr>
 					         <tr>
-					            <td>
+					            <td width="25%">
 					            <h3 style="text-align: center;">Sophos Wireless</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_LINK180_50196_V01_1403_low.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/link_180_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_LINK180_50196_V01_1403_low.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-wireless.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/link_180_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-wireless.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+					            <h3 style="text-align: center;">Sophos Mobile</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos -mobile-control.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/gn2000_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos -mobile-control.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					        </tr>
 					    </tbody>
