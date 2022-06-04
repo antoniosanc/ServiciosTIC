@@ -200,22 +200,22 @@
 					        <tr>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Serie 2U de Sophos XGS. Perímetro empresarial - XGS 6500</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-6500.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/link_180_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-6500.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/xgs6500.png" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-6500.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Modulos de conectividad - Serie XGS</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-modulosdeconectividad.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/14201-16_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-modulosdeconectividad.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/modconectividad.png" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-modulosdeconectividad.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Módulos flexi port para Serie 1U y Serie 2U de Sophos XGS</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-modulosflexiport.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/evolve80_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-modulosflexiport.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/sophosicon.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-modulosflexiport.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
-					            <td width="25%">
+					            <td width="30%">
 					            <h3 style="text-align: center;">Sophos Firewall y los dispositivos de la serie XGS</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-info.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/sophos-xgs-firewall.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-info.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/sophosicon.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-info.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					        </tr>
@@ -227,51 +227,51 @@
 					            </td>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Protección inalámbrica</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-proteccioninalambrica.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/14201-16_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-proteccioninalambrica.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/sophosicon.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-proteccioninalambrica.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 					            <h3 style="text-align: center;">SD - RED</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-sdred.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/evolve80_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-sdred.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/sophosicon.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-firewall-sdred.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 					            <h3 style="text-align: center;">XG Firewall Features</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-nextgen-firewall.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/gn2000_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-nextgen-firewall.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/sophosicon.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-nextgen-firewall.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					        </tr>
 					         <tr>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Sophos Sandstorm</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-sandstorm.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/link_180_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-sandstorm.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/sandstorm.png" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-sandstorm.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Sophos Email</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-secure-email-gateway.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/14201-16_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-secure-email-gateway.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/sophosicon.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-secure-email-gateway.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Sophos Web Gateway</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-secure-web-gateway.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/evolve80_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-secure-web-gateway.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/sophos-Gateway.png" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-secure-web-gateway.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Server Protection</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-server-protection.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/gn2000_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-server-protection.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Server-Protection.png" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-server-protection.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					        </tr>
 					         <tr>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Sophos Wireless</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-wireless.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/link_180_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos-wireless.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Sophos-Wireless.png" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos-wireless.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Sophos Mobile</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos -mobile-control.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/gn2000_001.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Sophos/sophos -mobile-control.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/sophos-mobile.jpg" alt="Sophos" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Sophos/sophos -mobile-control.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					        </tr>
