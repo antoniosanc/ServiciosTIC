@@ -156,27 +156,42 @@
 				<p style="text-align: justify;">Contamos con relaciones comerciales de las distintas marcas ofrecemos los mejores precios y <strong>descuentos promocionales</strong>, cualquier marca que manejamos garantiza el &eacute;xito que necesitas para tus proyectos.</p>
 				<div class="jcarousel-wrapper">
 					<div class="jcarousel carrusel_conv">
-						<ul class="text-center"><li>
-										<a href="index.php?q=marcas"><img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_tripp_litejpg-e380.jpg" alt="tripp-lite" /></a>
-									</li><li>
-										<a href="index.php?q=marcas"><img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_img_hpjpg-3620.jpg" alt="HP logo" /></a>
-									</li><li>
-										<a href="index.php?q=marcas"><img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_img_sbe_techjpg-c37c.jpg" alt="SBE Tech" /></a>
-									</li><li>
-										<a href="index.php?q=marcas"><img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_sl_mirosoftjpg-ac0d.jpg" alt="Microsoft" /></a>
-									</li><li>
-										<a href="index.php?q=marcas"><img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_sl_aspeljpg-6208.jpg" alt="Aspel" /></a>
-									</li><li>
-										<a href="index.php?q=marcas"><img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slawsjpg-813d.jpg" alt="AWS LOGO" /></a>
-									</li><li>
-										<a href="index.php?q=marcas"><img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slfortinetjpg-0811.jpg" alt="FORTINET" /></a>
-									</li><li>
-										<a href="index.php?q=marcas"><img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slpanduitjpg-e920.jpg" alt="PANDUIT" /></a>
-									</li><li>
-										<a href="index.php?q=marcas"><img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slthorsmanjpg-1537.jpg" alt="THORSMAN" /></a>
-									</li><li>
-										<a href="index.php?q=marcas"><img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slviavijpg-8124.jpg" alt="VIAVI SOLUTIONS" /></a>
-									</li></ul>			
+						<ul class="text-center">
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_tripp_litejpg-e380.jpg" alt="tripp-lite" />
+									</li>
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_img_sbe_techjpg-c37c.jpg" alt="SBE Tech" />
+									</li>
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_sl_mirosoftjpg-ac0d.jpg" alt="Microsoft" />
+									</li>
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_sl_aspeljpg-6208.jpg" alt="Aspel" />
+									</li>
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slawsjpg-813d.jpg" alt="AWS LOGO" />
+									</li>
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slfortinetjpg-0811.jpg" alt="FORTINET" />
+									</li>
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slpanduitjpg-e920.jpg" alt="PANDUIT" />
+									</li>
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slthorsmanjpg-1537.jpg" alt="THORSMAN" />
+									</li>
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slviavijpg-8124.jpg" alt="VIAVI SOLUTIONS" />
+									</li>
+									<li>
+										<img class="img-responsive" src="fondos/iconos/hornet.png" width="215px" height="150px" />
+									</li>
+									<li>
+										<img class="img-responsive" src="fondos/iconos/op.png" 
+										 width="215px" height="150px"/>
+									</li>
+								</ul>			
 					</div>
 					<a href="#" class="jcarousel-control-prev carousel-control2"><img src="./imgusr/sl-izq.png" class="img-responsive" border="0" alt="<-" /></a>
 					<a href="#" class="jcarousel-control-next carousel-control2"><img src="./imgusr/sl-der.png" class="img-responsive" border="0" alt="->" /></a>
@@ -216,9 +231,6 @@
 </div>
 
 
-
-
-<!-- casos de exito -->
 
 
 <br>

@@ -66,12 +66,13 @@
 		    </div>
 		    <br>	
 		    <div class="col-sm-12" >
-		    	<center><a  data-toggle="modal" data-target="#exampleModal" target="_blank" class="btn btn-primary btn-lg" type="button">Ir al Registro <i class="fa fa-external-link" aria-hidden="true"></i></a></center>
+		    	<center><a  data-toggle="modal" data-target="#exampleModal" target="_blank" class="btn btn-primary btn-lg" type="button">Regístrate <i class="fa fa-external-link" aria-hidden="true"></i></a></center>
 				<br><br>
 			</div>
 		</div>
 	</div>
-			            
+
+		            
 
 <!-- Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -85,39 +86,44 @@
       </div>
       <div class="modal-body">
        
-        	<form action="">
+        	<form action="control/curso.php" method="post">
         		<div class="col-lg-12">
         			<div class="col-md-6">
 					    <label for="exampleInputEmail1">Nombre(s):</label>
-					    <input type="text" class="form-control"  aria-describedby="emailHelp" placeholder="Enter email">
+					    <input type="text" class="form-control" name="nombre" placeholder="Nombre" required>
 				    </div>
 				    <div class="col-md-6">
 					    <label for="exampleInputEmail1">Apellido:</label>
-					    <input type="text" class="form-control"  aria-describedby="emailHelp" placeholder="Enter email">
+					    <input type="text" class="form-control" name="apellido" placeholder="Apellido" required>
 				    </div>	
 				</div>
 				<div class="col-lg-12">
         			<div class="col-md-6">
 					    <label for="exampleInputEmail1">Correo electrónico:</label>
-					    <input type="mail" class="form-control"  aria-describedby="emailHelp" placeholder="Enter email">
+					    <input type="email" class="form-control" name="email" placeholder="Correo electronico" required>
 				    </div>
 				    <div class="col-md-6">
 					    <label for="exampleInputEmail1">Telefono</label>
-					    <input type="number" class="form-control"  aria-describedby="emailHelp" placeholder="Enter email">
+					    <input type="tel" class="form-control" name="telephone" placeholder="Telefono" required>
 				    </div>	
 				</div>
+				<!-- Mensajes de Validación -->
+  				<div class="msg mt-3 mb-3"></div>
 					
-					<center><button type="submit" class="btn btn-primary" style="margin-top: 20px;">Submit</button></center>
+					<center><button type="submit" class="btn btn-primary" id="btnenviar" name="btnenviar"style="margin-top: 20px;">Enviar</button></center>
         	</form>
         
 
       </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
-       	<!-- <button type="button" class="btn btn-primary">Enviar</button> --> 
-      </div>
+    	<div class="modal-footer">
+        	<button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+      	</div>
     </div>
   </div>
 </div>
+
+<!-- Page specific script -->
+
+
 				
 <?php include 'footer.php' ?>
