@@ -64,7 +64,7 @@
 					<div class="col-lg-12">
 						<div class="col-md-3">
 							<p></p>
-							<center><h2>Servidores </h2></center>
+							<center><h2>Soporte Técnico </h2></center>
 						</div>
 						<div class="col-md-9">
 							<div class="col-md-6">
@@ -74,10 +74,8 @@
 							<div class="col-md-6">
 								<p></p>
 								<ul>
-									<li>Pendiente de información </li>
-									<li>Pendiente de información</li>
-									<li>Pendiente de información</li>
-									<li>Pendiente de información</li>
+									<li>Se brinda Soporte Técnico en sus diferentes niveles (N1, N2, N3, N4 y N5) vía remota o presencial.</li>
+									<li>Ponte en contacto con nosotros para asesorarte con respecto al nivel que te seria de ayuda.</li>
 								</ul>
 							</div>
 						</div>

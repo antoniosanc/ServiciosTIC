@@ -96,6 +96,13 @@
 					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_GN2000_Desk_V02_1005_low.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					        </tr>
+					        <tr>
+					        	<td width="25%">
+						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
+						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
+					            </td>
+					        </tr>
 					    </tbody>
 					</table>
 				</div>
@@ -124,6 +131,13 @@
 						            <h3 style="text-align: center;">Sound Station IP7000</h3>
 						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstation-ip-7000-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstation-ip-7000_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/soundstation-ip-7000-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					        </tr>
+					        <tr>
+					        	<td width="25%">
+						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
+						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
 					            </td>
 					        </tr>
 					    </tbody>
@@ -185,6 +199,11 @@
 					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Plantronics/backbeat-fit_ps_en-us.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/backbeat-fit_002.jpg" alt="Plantronics" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Plantronics/backbeat-fit_ps_en-us.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
+						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
+					            </td>
 					        </tr>
 					    </tbody>
 					</table>
@@ -211,7 +230,11 @@
 						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Panasonic/KX-DT500_spec_sheet_-_es.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/kx-dt500_001.jpg" alt="Panasonic" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Panasonic/KX-DT500_spec_sheet_-_es.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
-					            
+					            <td width="25%">
+						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
+						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
+					            </td>
 					        </tr>
 					    </tbody>
 					</table>

@@ -111,7 +111,6 @@
                                     </div>
                                 </div>
                             </div>
-    <!-- cursos de clemente -->
                         </tr>
                     </tbody>
                 </table>
