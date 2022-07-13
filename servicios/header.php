@@ -52,6 +52,8 @@
 		<link href="../css/usr.css" rel="stylesheet">
 		<link href="../css/usr_fixed.css" rel="stylesheet">
 		<link href="../css/slider.css" rel="stylesheet">
+		<!-- libreria de gallery baguetteBox -->
+		<link rel="stylesheet" href="../css/baguetteBox/baguetteBox.min.css">
 
 		
 		<!-- Global site tag (gtag.js) - Google Analytics -->
