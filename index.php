@@ -88,6 +88,62 @@
 		</div>
 	</div>
 
+
+	<!-- marcas -->
+<div class="hm-marcas" id="no-more-tables">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 clientes">
+				<h2 style="text-align: center;"><strong>MARCAS</strong></h2>
+				<p style="text-align: justify;">Contamos con relaciones comerciales de las distintas marcas ofrecemos los mejores precios y <strong>descuentos promocionales</strong>, cualquier marca que manejamos garantiza el &eacute;xito que necesitas para tus proyectos.</p>
+				<div class="jcarousel-wrapper">
+					<div class="jcarousel carrusel_conv">
+						<ul class="text-center">
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_tripp_litejpg-e380.jpg" alt="tripp-lite" />
+									</li>
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_img_sbe_techjpg-c37c.jpg" alt="SBE Tech" />
+									</li>
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_sl_mirosoftjpg-ac0d.jpg" alt="Microsoft" />
+									</li>
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_sl_aspeljpg-6208.jpg" alt="Aspel" />
+									</li>
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slawsjpg-813d.jpg" alt="AWS LOGO" />
+									</li>
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slfortinetjpg-0811.jpg" alt="FORTINET" />
+									</li>
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slpanduitjpg-e920.jpg" alt="PANDUIT" />
+									</li>
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slthorsmanjpg-1537.jpg" alt="THORSMAN" />
+									</li>
+									<li>
+										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slviavijpg-8124.jpg" alt="VIAVI SOLUTIONS" />
+									</li>
+									<li>
+										<img class="img-responsive" src="fondos/iconos/hornet.png" width="215px" height="150px" />
+									</li>
+									<li>
+										<img class="img-responsive" src="fondos/iconos/op.png" 
+										 width="215px" height="150px"/>
+									</li>
+								</ul>			
+					</div>
+					<a href="#" class="jcarousel-control-prev carousel-control2"><img src="./imgusr/sl-izq.png" class="img-responsive" border="0" alt="<-" /></a>
+					<a href="#" class="jcarousel-control-next carousel-control2"><img src="./imgusr/sl-der.png" class="img-responsive" border="0" alt="->" /></a>
+				</div>
+			</div>
+		</div>
+	</div>	
+</div>
+
+<!-- somos tu mejor -->
 <div class="hm-tu_mejor_opcion">
 	<div class="container">
 		<div class="row">
@@ -148,92 +204,13 @@
 	</div>
 </div>
 
-<div class="hm-marcas" id="no-more-tables">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12 clientes">
-				<h2 style="text-align: center;"><strong>MARCAS</strong></h2>
-				<p style="text-align: justify;">Contamos con relaciones comerciales de las distintas marcas ofrecemos los mejores precios y <strong>descuentos promocionales</strong>, cualquier marca que manejamos garantiza el &eacute;xito que necesitas para tus proyectos.</p>
-				<div class="jcarousel-wrapper">
-					<div class="jcarousel carrusel_conv">
-						<ul class="text-center">
-									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_tripp_litejpg-e380.jpg" alt="tripp-lite" />
-									</li>
-									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_img_sbe_techjpg-c37c.jpg" alt="SBE Tech" />
-									</li>
-									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_sl_mirosoftjpg-ac0d.jpg" alt="Microsoft" />
-									</li>
-									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_sl_aspeljpg-6208.jpg" alt="Aspel" />
-									</li>
-									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slawsjpg-813d.jpg" alt="AWS LOGO" />
-									</li>
-									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slfortinetjpg-0811.jpg" alt="FORTINET" />
-									</li>
-									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slpanduitjpg-e920.jpg" alt="PANDUIT" />
-									</li>
-									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slthorsmanjpg-1537.jpg" alt="THORSMAN" />
-									</li>
-									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slviavijpg-8124.jpg" alt="VIAVI SOLUTIONS" />
-									</li>
-									<li>
-										<img class="img-responsive" src="fondos/iconos/hornet.png" width="215px" height="150px" />
-									</li>
-									<li>
-										<img class="img-responsive" src="fondos/iconos/op.png" 
-										 width="215px" height="150px"/>
-									</li>
-								</ul>			
-					</div>
-					<a href="#" class="jcarousel-control-prev carousel-control2"><img src="./imgusr/sl-izq.png" class="img-responsive" border="0" alt="<-" /></a>
-					<a href="#" class="jcarousel-control-next carousel-control2"><img src="./imgusr/sl-der.png" class="img-responsive" border="0" alt="->" /></a>
-				</div>
-			</div>
-		</div>
-	</div>	
-</div>
-<br>
-<br>
-<div class="hm-tu_marca">
-	<div class="container">
-		<div class="row" >
-			<h2 style="text-align: center;">ALGUNOS <strong>CASOS DE &Eacute;XITO</strong></h2>
-			<p style="text-align: justify;"><strong>Empresas reconocidas a nivel internacional</strong> donde realizamos constantes implementaciones de <strong>cableado estructura y fibra &oacute;ptica</strong>, nosotros somos su principal opci&oacute;n, por la alta calidad y compromiso en nuestros servicios.</p>
-			<table width="100%" cellspacing="1" cellpadding="1" border="0" align="center">
-				<tbody>
-					<tr>
-						<td width="20%">
-						<p><img src="fondos/atc.png" alt="Casos de &eacute;xito" class="img-responsive animated image_effects" width="213px" /></p>
-						</td>
-						<td width="20%">
-						<p><img src="userfiles/servicios_tic20/image/servicios/cableado_estructurado/logo_kio.jpg" alt="Casos de &eacute;xito" class="img-responsive animated image_effects" /></p>
-						</td>
-						<td width="20%">
-						<p><img src="userfiles/servicios_tic20/image/servicios/cableado_estructurado/logo_dell.jpg" alt="Casos de &eacute;xito" class="img-responsive animated image_effects" /></p>
-						</td>
-						<td width="20%">
-						<p><img src="userfiles/servicios_tic20/image/servicios/cableado_estructurado/logo_att.jpg" alt="Casos de &eacute;xito" class="img-responsive animated image_effects" /></p>
-						</td>
-						
-					</tr>
-				</tbody>
-			</table>
-		</div>
-	</div>
-</div>
-
-
+<!-- casos de exito -->
+<?php include 'casos.php' ?>
 
 
 <br>
+
+
 
 
 

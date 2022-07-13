@@ -108,5 +108,79 @@
 
 	</div>
 </div>
+
+<br>
+<div class="container gallery-container">
+
+    <div class="tz-gallery">
+        <div class="container contenido">
+            <h2 style="text-align: center;">Proyectos <strong>Telecomunicaciones</strong>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="../fondos/instal1.jpg">
+                    <img src="../fondos/instal1.jpg" alt="Park">
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="../userfiles/servicios_tic20/image/servicios/telecomunicaciones/insercion.jpg">
+                    <img src="../userfiles/servicios_tic20/image/servicios/telecomunicaciones/insercion.jpg" alt="Bridge">
+                </a>
+            </div>
+            <div class="col-sm-12 col-md-4">
+                <a class="lightbox" href="../fondos/pruebas.jpg">
+                    <img src="../fondos/pruebas.jpg" alt="Tunnel">
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="../fondos/1.jpeg">
+                    <img src="../fondos/1.jpeg" alt="Coast">
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="../fondos/2.jpg">
+                    <img src="../fondos/2.jpg" alt="Rails">
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="../fondos/3.jpg">
+                    <img src="../fondos/3.jpg" alt="Traffic">
+                </a>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="../fondos/4.jpg">
+                    <img src="../fondos/4.jpg" alt="Rocks">
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="../fondos/5.jpg">
+                    <img src="../fondos/5.jpg" alt="Benches">
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="../fondos/6.jpg">
+                    <img src="../fondos/6.jpg" alt="Sky">
+                </a>
+            </div>
+        </div>
+
+        <div class="row" style="display: flex; align-items: center; justify-content: center; padding-top: 30px;">
+        	<a type="button" href="../contacto.php" class="btn btn-primary">COTIZA TUS PROYECTOS CON NOSOTROS</a>
+        </div>
+
+    </div>
+
+</div>
+
+<script src="../css/baguetteBox/baguetteBox.min.js"></script>
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
 <br><br>
 <?php include 'footer.php' ?>
