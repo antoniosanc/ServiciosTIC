@@ -57,8 +57,7 @@
                 <div class="caption">
                     <h3>Inserción</h3>
                     
-                    <p align="justify">Se realiza la <strong>integraci&oacute;n de los equipos</strong> a la red del proveedor.</p>
-                    <p align="justify">En esta fase se establece comunicaci&oacute;n con el <strong>NOC </strong>para coordinar la conexi&oacute;n de los puertos y validar la comunicaci&oacute;n.</p>
+                    <p align="justify">Se realiza la <strong>integraci&oacute;n de los equipos</strong> a la red del proveedor. En esta fase se establece comunicaci&oacute;n con el <strong>NOC </strong>para coordinar la conexi&oacute;n de los puertos y validar la comunicaci&oacute;n.</p>
                     <p> </p>
                     <p> </p>
                 </div>
@@ -87,6 +86,7 @@
                 <div class="caption">
                     <h3>Reubicación de equipos</h3>
                     <p align="justify">Se realizan la <strong>reubicación</strong> de distitos equipos de telecomunicaciones, teniendo en cuenta la disponibilidad del servicio de nuestros clientes.</p>
+                    <p> </p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
@@ -95,7 +95,8 @@
                 </a>
                 <div class="caption">
                     <h3>Prueba de medio con equipo JDSU</h3>
-                    <p align="justify">------</p>
+                    <p align="justify">Es una herramienta suficientemente versátil que da la capacidad a los ingenieros de campo para activar y dar mantenimiento a sus redes. </p>
+                    <p> </p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
@@ -104,7 +105,7 @@
                 </a>
                 <div class="caption">
                     <h3> Banco de Baterias</h3>
-                    <p align="justify">Estos bancos de baterías deben estar alimentados por su cargador - <strong>rectificador</strong>  que convierte la corriente alterna en corriente directa para la carga de los mismos.</p>
+                    <p align="justify">Estos bancos de baterías deben estar alimentados por su cargador <strong>rectificador</strong>  que convierte la corriente alterna en corriente directa para la carga de los mismos.</p>
                     
                 </div>
             </div>

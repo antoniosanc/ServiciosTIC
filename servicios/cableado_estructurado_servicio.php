@@ -114,7 +114,7 @@
 
     <div class="tz-gallery">
         <div class="container contenido">
-            <h2 style="text-align: center;">Proyectos <strong>Telecomunicaciones</strong>
+            <h2 style="text-align: center;">Proyectos en <strong>cableado estructurado</strong>
         </div>
 
         <div class="row">

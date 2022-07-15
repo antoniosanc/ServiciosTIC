@@ -435,7 +435,7 @@
 	                    <span><i class="fa fa-quote-left"></i></span>
 	                </div>
 	                <div class="client-info">
-	                    <h3>LUFTHANSA CITY CENTER</h3>
+	                    <h3>LUFTHANSA SIGNUM</h3>
 	                </div>
 	            </div>
 	           

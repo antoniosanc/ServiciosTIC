@@ -100,44 +100,55 @@
 					<div class="jcarousel carrusel_conv">
 						<ul class="text-center">
 									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_tripp_litejpg-e380.jpg" alt="tripp-lite" />
+										<a type="button" data-toggle="modal" data-target="#marcas"><img class="img-responsive" src="fondos/marcas/aspel.png" alt="tripp-lite" /></a>
 									</li>
 									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_img_sbe_techjpg-c37c.jpg" alt="SBE Tech" />
+										<a type="button" data-toggle="modal" data-target="#marcas"><img class="img-responsive" src="fondos/marcas/aws.png" alt="tripp-lite" /></a>
 									</li>
 									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_sl_mirosoftjpg-ac0d.jpg" alt="Microsoft" />
+										<a type="button" data-toggle="modal" data-target="#marcas"><img class="img-responsive" src="fondos/marcas/azure.png" alt="tripp-lite" /></a>
 									</li>
 									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_sl_aspeljpg-6208.jpg" alt="Aspel" />
+										<a type="button" data-toggle="modal" data-target="#marcas"><img class="img-responsive" src="fondos/marcas/bitdefender.png" alt="tripp-lite" /></a>
 									</li>
 									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slawsjpg-813d.jpg" alt="AWS LOGO" />
+										<a type="button" data-toggle="modal" data-target="#marcas"><img class="img-responsive" src="fondos/marcas/fortinet.png" alt="FORTINET" /></a>
 									</li>
 									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slfortinetjpg-0811.jpg" alt="FORTINET" />
+										<a type="button" data-toggle="modal" data-target="#marcas"><img class="img-responsive" src="fondos/marcas/hitachi.png" alt="FORTINET" /></a>
 									</li>
 									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slpanduitjpg-e920.jpg" alt="PANDUIT" />
+										<a type="button" data-toggle="modal" data-target="#marcas"><img class="img-responsive" src="fondos/marcas/hornet.png" alt="FORTINET" /></a>
 									</li>
 									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slthorsmanjpg-1537.jpg" alt="THORSMAN" />
+										<a type="button" data-toggle="modal" data-target="#marcas"><img class="img-responsive" src="fondos/marcas/microsoft.png" alt="FORTINET" /></a>
 									</li>
 									<li>
-										<img class="img-responsive" src="userfiles/servicios_tic20/image/marcas/sl_slviavijpg-8124.jpg" alt="VIAVI SOLUTIONS" />
+										<a type="button" data-toggle="modal" data-target="#marcas"><img class="img-responsive" src="fondos/marcas/optronics.png" alt="FORTINET" /></a>
 									</li>
 									<li>
-										<img class="img-responsive" src="fondos/iconos/hornet.png" width="215px" height="150px" />
+										<a type="button" data-toggle="modal" data-target="#marcas"><img class="img-responsive" src="fondos/marcas/panduit.png" alt="FORTINET" /></a>
 									</li>
 									<li>
-										<img class="img-responsive" src="fondos/iconos/op.png" 
-										 width="215px" height="150px"/>
+										<a type="button" data-toggle="modal" data-target="#marcas"><img class="img-responsive" src="fondos/marcas/sbe.png" alt="FORTINET" /></a>
 									</li>
+									<li>
+										<a type="button" data-toggle="modal" data-target="#marcas"><img class="img-responsive" src="fondos/marcas/tasmicro.png" alt="FORTINET" /></a>
+									</li>
+									<li>
+										<a type="button" data-toggle="modal" data-target="#marcas"><img class="img-responsive" src="fondos/marcas/viavi.png" alt="FORTINET" /></a>
+									</li>
+									<li>
+										<a type="button" data-toggle="modal" data-target="#marcas"><img class="img-responsive" src="fondos/marcas/vmware.png" alt="FORTINET" /></a>
+									</li>
+
+									
 								</ul>			
 					</div>
 					<a href="#" class="jcarousel-control-prev carousel-control2"><img src="./imgusr/sl-izq.png" class="img-responsive" border="0" alt="<-" /></a>
 					<a href="#" class="jcarousel-control-next carousel-control2"><img src="./imgusr/sl-der.png" class="img-responsive" border="0" alt="->" /></a>
 				</div>
+
 			</div>
 		</div>
 	</div>	
@@ -207,11 +218,78 @@
 <!-- casos de exito -->
 <?php include 'casos.php' ?>
 
-
 <br>
 
-
-
-
-
+<!-- footer -->
 <?php include 'footer.php' ?>
+
+
+<!-- Modal -->
+<div id="marcas" class="modal fade" role="dialog" >
+  <div class="modal-dialog ">
+
+    <!-- Modal content-->
+    <div class="modal-content project-details-popup">
+      <img class="prof-icon" src="fondos/st.png">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      
+      <div class="modal-body">
+      	<br><br><br>
+      	<div class="row">
+      		<div class="col-md-4">
+	          <img class="img-responsive" src="fondos/marcas/aspel.png" alt="tripp-lite" />
+	        </div>
+	        <div class="col-md-4">
+	          <img class="img-responsive" src="fondos/marcas/aws.png" alt="tripp-lite" />
+	        </div>
+	        <div class="col-md-4">
+	          <img class="img-responsive" src="fondos/marcas/azure.png" alt="tripp-lite" />
+	        </div>
+	    </div>
+	    <div class="row">
+	        <div class="col-md-4">
+	          <img class="img-responsive" src="fondos/marcas/bitdefender.png" alt="tripp-lite" />
+	        </div>
+	        <div class="col-md-4">
+	          <img class="img-responsive" src="fondos/marcas/fortinet.png" alt="FORTINET" />
+	        </div>
+	        <div class="col-md-4">
+	          <img class="img-responsive" src="fondos/marcas/hitachi.png" alt="tripp-lite" />
+	        </div>
+      	</div>
+      	<div class="row">
+	        <div class="col-md-4">
+	          <img class="img-responsive" src="fondos/marcas/hornet.png" alt="FORTINET" />
+	        </div>
+	        <div class="col-md-4">
+	          <img class="img-responsive" src="fondos/marcas/microsoft.png" alt="FORTINET" />
+	        </div>
+	        <div class="col-md-4">
+	          <img class="img-responsive" src="fondos/marcas/optronics.png" alt="tripp-lite" />
+	        </div>
+      	</div>
+      	<div class="row">
+	        <div class="col-md-4">
+	          <img class="img-responsive" src="fondos/marcas/panduit.png" alt="FORTINET" />
+	        </div>
+	        <div class="col-md-4">
+	          <img class="img-responsive" src="fondos/marcas/sbe.png" alt="FORTINET" />
+	        </div>
+	        <div class="col-md-4">
+	          <img class="img-responsive" src="fondos/marcas/tasmicro.png" alt="tripp-lite" />
+	        </div>
+      	</div>
+      	<div class="row">
+	        <div class="col-md-6">
+	          <img class="img-responsive" src="fondos/marcas/viavi.png" alt="FORTINET" />
+	        </div>
+	        <div class="col-md-6">
+	          <img class="img-responsive" src="fondos/marcas/vmware.png" alt="FORTINET" />
+	        </div>
+      	</div>
+      </div>
+      <div class="modal-footer">  
+      </div>
+    </div>
+  </div>
+</div>

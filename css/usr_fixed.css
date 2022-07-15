@@ -190,3 +190,28 @@
 .baguetteBox-button {
     background-color: transparent !important;
 }
+/* modal de las marcas de */
+.project-details-popup .close {
+  position: absolute;
+  right: -25px;
+  top: -25px;
+  botom
+}
+.project-details-popup .prof-icon {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  position: absolute;
+  left: 0;  
+  right: 0;
+  margin: auto;
+  top: -30px;
+}
+.project-details-popup .modal-header {
+  margin: 0;
+  padding: 0;
+}
+.project-details-popup .modal-header .header-img {
+  width: 100%;
+  max-width: 100%;
+}
