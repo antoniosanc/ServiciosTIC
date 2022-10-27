@@ -13,6 +13,8 @@
 }
 
 .client-single {
+
+  
   margin-top: 20px;
   text-align: center;
   position: absolute;
