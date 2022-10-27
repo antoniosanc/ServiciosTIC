@@ -480,7 +480,7 @@
 	          
 	            <div class="client-single inactive position-7" data-position="position-7">
 	                <div class="client-img">
-	                    <img src="fondos/ahyg.svg" width="40px" alt="">
+	                    <img src="fondos/calcu.jpg" width="40px" alt="">
 	                </div>
 	                <div class="client-comment">
 	                    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </h3>
