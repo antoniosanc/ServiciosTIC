@@ -50,10 +50,7 @@
                                 <div style="text-align: justify;">Arquitectura de Seguridad Escalable.</div>
                                 </li>
                             </ul>
-                            </td>
-                            <td width="20%" valign="top">
-                            <p style="text-align: center;"><img src="../fondos/cyber.gif" alt="Seguridad Inform&aacute;tica" class="img-responsive img-thumbnail image_effects animated" border="0" width="300" height="100" /></p>
-                            </td>
+                            </td>  
                         </tr>
                     </tbody>
                 </table>

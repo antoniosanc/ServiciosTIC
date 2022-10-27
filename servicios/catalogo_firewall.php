@@ -1,6 +1,3 @@
-
-
-
 <div id="no-more-tables">
 	<div class="container contenido">
 		<div class="row">				
@@ -102,18 +99,214 @@
 					<table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
 					    <tbody>
 					        <tr>
+					        	<h3 style="text-align: center;"><strong>FortiGate/FortiWifi</strong></h3>
 					            <td width="25%">
-						            <h3 style="text-align: center;">Tel&eacute;fono Empresarial Multimedia VVX1500</h3>
+						            <h3 style="text-align: center;">FG-40F/FG-40F-BDL-950-12</h3>
+						            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/firewall/FG-40F.jpg" alt="fortinet" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" type="button" data-toggle="modal" data-target="#Caracteristicas1" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FWF-40F/FWF-40-BDL-950-12</h3>
+						            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/firewall/FWF40F-front.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" type="button" data-toggle="modal" data-target="#Caracteristicas2" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FWF-50E/FWF-50E-BDL-950-12</h3>
+						            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" type="button" data-toggle="modal" data-target="#Caracteristicas3" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FG-60F/FG-60F-BDL-950-12</h3>
+						            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" type="button" data-toggle="modal" data-target="#Caracteristicas4" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					        </tr>
+					         <tr>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FWF-60F/FWF-60F-BDL-950-12</h3>
+						            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/firewall/FWF-60F.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" type="button" data-toggle="modal" data-target="#Caracteristicas5" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FG-80F/FG-80F-BDL-950-12</h3>
+						            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstructure-c-series_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" type="button" data-toggle="modal" data-target="#Caracteristicas6" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FG-100F/FG-100F-BDL-950-12</h3>
+						            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" type="button" data-toggle="modal" data-target="#Caracteristicas7" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FG-101F/FG-101F-BDL-950-12</h3>
+						            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" type="button" data-toggle="modal" data-target="#Caracteristicas8" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					        </tr>
+					         <tr>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FG-200F/FG-200F-BDL-950-12</h3>
+						            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" type="button" data-toggle="modal" data-target="#Caracteristicas9" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
+						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contacto.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
+					            </td>
+					        </tr>
+					    </tbody>
+					</table>
+					<table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
+					    <tbody>
+					        <tr>
+					        	<h3 style="text-align: center;"><strong>FortiAP</strong></h3>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FAP-221E-N</h3>
 						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
-						            <h3 style="text-align: center;">Sound Structure C-Series</h3>
+						            <h3 style="text-align: center;">FAP-223E-N</h3>
 						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstructure-c-series_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
-						            <h3 style="text-align: center;">Tel&eacute;fono Escritorio Polycom CX500</h3>
+						            <h3 style="text-align: center;">FAP-224E-N</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FAP-231F-N</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					        </tr>
+					         <tr>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FAP-321F-N</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
+						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
+					            </td>
+					        </tr>
+					    </tbody>
+					</table>
+					<table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
+					    <tbody>
+					        <tr>
+					        	<h3 style="text-align: center;"><strong>FortiSwitch</strong></h3>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FS-108E/FS-108F</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">[FS-108E/FS-108F]-POE</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstructure-c-series_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FS-124E/FS-124F</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">F[FS-124E/FS-124F]-POE</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					        </tr>
+					         <tr>
+					            <td width="25%">
+						            <h3 style="text-align: center;">[FS-124E/FS-124F]-FPOE</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FFS-148E/FS-148F</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstructure-c-series_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">[FS-148E/FS-148F]-POE</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FS-148F-FPOE</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					        </tr>
+					         <tr>
+					            <td width="25%">
+						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
+						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
+					            </td>
+					        </tr>
+					    </tbody>
+					</table>
+					<table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
+					    <tbody>
+					        <tr>
+					        	<h3 style="text-align: center;"><strong>FortiVoice/FortiPhone</strong></h3>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FVE-20E2-BDL-247-12</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FVE-100E-BDL-247-12</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstructure-c-series_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FVC-200D</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FON-600</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					        </tr>
+					         <tr>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FON-370I</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
+						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
+					            </td>
+					        </tr>
+					    </tbody>
+					</table>
+					<table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
+					    <tbody>
+					        <tr>
+					        	<h3 style="text-align: center;"><strong>FortiClient</strong></h3>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FC1-10-EMS04-428-01-12</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FC1-10-EMS04-429-01-12</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstructure-c-series_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            </td>
+					            <td width="25%">
+						            <h3 style="text-align: center;">FVC-200D</h3>
 						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
@@ -318,6 +511,502 @@
 	}
 </script>
 
+<!-- Modal - FortiGate/FortiWifi  -->	
+<div class="modal" tabindex="-1" role="dialog" id="Caracteristicas1">
+  	<div class="modal-dialog " role="document">
+    	<div class="modal-content">
+      		<div class="modal-header">
+      			<h4 class="modal-title"><strong>Especificaciones</strong></h4>
+        		<button type="button" class="close" data-dismiss="modal" aria-label="Close"></button>
+      		</div>
+	      	<div class="modal-body">
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Estándares conformes</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>UL, VCCI, C-Tick, cUL, CB, FCC Parte 15 Clase B.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Factor de forma</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Escritorio.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Tecnología de conectividad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Cableado.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Protocolo de enlace de datos</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Ethernet, Ethernet rápido, Gigabit Ethernet.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Protocolo de red/transporte</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>IPSec.</li>
+	      		</ul>
+	      		<h5 align = "justify"><strong>&nbsp;&nbsp;&nbsp;Actuación</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Rendimiento de IPS: 1 Gbps ¦ Rendimiento de NGFW: 800 Mbps ¦ Rendimiento de protección contra amenazas: 600 Mbps ¦ Rendimiento de VPN (IPSec de 512 bits): 4,4 Gbps ¦ Rendimiento de inspección de SSL: 310 Mbps ¦ Rendimiento de inspección de SSL: 320 conexiones por segundo ¦ Rendimiento de firewall ( UDP de 1518 bytes): 5 Gbps ¦ Rendimiento del firewall (UDP de 512 bytes): 5 Gbps ¦ Rendimiento del firewall (UDP de 64 bytes): 5 Gbps ¦ Rendimiento del firewall: 7,5 Mpps ¦ Control de aplicaciones (HTTP 64K): 990 Mbps ¦ VPN rendimiento (SSL): 490 Mbps ¦ Rendimiento CAPWAP: 3,5 Gbps.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Capacidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Latencia: 4 µs ¦ Sesiones simultáneas: 700000 ¦ Sesiones nuevas: 35000 ¦ Políticas de firewall: 5000 ¦ Túneles VPN IPSec de puerta de enlace a puerta de enlace: 200 ¦ Túneles VPN IPSec de puerta de enlace a cliente: 250 ¦ Dominios virtuales: 10 ¦ Número de FortiSwitches: 8 ¦ Número de dispositivos FortiAP: 10 ¦ Número de dispositivos FortiToken: 500 ¦ Usuarios de SSL VPN simultáneos: 200 ¦ Sesiones simultáneas de inspección SSL: 55000 ¦ Número de dispositivos FortiClient: 200.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Características</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Protección de firewall, sistema de prevención de intrusiones (IPS), red privada virtual (VPN) IPSec, sin ventilador, protección contra amenazas web, modo FortiLink.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Algoritmo de cifrado</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>SSL, TLS 1.3.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Temperatura mínima de funcionamiento</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>32 °F.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Temperatura máxima de funcionamiento</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>104 °F.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Rango de humedad Funcionamiento</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>10 - 90% (sin condensación).</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Tipo de dispositivo</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Dispositivo de seguridad.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Servicios combinados</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>1 año de protección 24x7 FortiCare y FortiGuard Unified (UTM).</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Ancho</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>8,5 pulgadas.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Profundidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>5,5 pulgadas.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Altura</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>1,4 pulgadas.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Procesadores instalados</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>1 x Fortinet FortiASIC ​​SOC4.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Interfaces</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>3 x 1000Base-T - RJ-45 ¦ 1 x FortiLink - RJ-45 ¦ 1 x 1000Base-T - RJ-45 (WAN / DMZ) ¦ 1 x consola - RJ-45 ¦ 1 x USB 3.0 - Tipo A.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Dispositivo de potencia</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Adaptador de corriente externo.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Cantidad instalada</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>1.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Voltaje requerido</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>CA 120/230 V (50 - 60 Hz).</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Consumo de energía en funcionamiento</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>16,6 vatios.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Sistema operativo proporcionado</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>FortiOS.</li>
+	      		</ul>
+	      	</div>
+	      	<div class="modal-footer">
+	        	<button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+	      	</div>
+	    </div>
+    </div>
+</div>
+
+<div class="modal" tabindex="-1" role="dialog" id="Caracteristicas2">
+  	<div class="modal-dialog " role="document">
+    	<div class="modal-content">
+      		<div class="modal-header">
+      			<h4 class="modal-title"><strong>Funciones de seguridad del producto</strong></h4>
+        		<button type="button" class="close" data-dismiss="modal" aria-label="Close"></button>
+      		</div>
+	      	<div class="modal-body">
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja todos sus dispositivos</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Proporcione la misma seguridad a su PC, Mac y a sus dispositivos móviles.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Asegure sus transacciones</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Apóyese de Pay Guard para asegurar la legitimidad de los sitios financieros mientras utiliza la banca en línea.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Bloquee amenazas en la web</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Defiéndase contra el ransomware y otros peligros en línea.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja su privacidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Bloquee sitios web peligrosos que puedan robar sus datos personales.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja la seguridad de sus hijos</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Permita que los niños exploren la web de manera segura, con límites tanto de tiempo como de contenidos.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Optimice el rendimiento</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Solucione problemas comunes y logre que todo funcione a máxima velocidad.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Evite los fraudes y las estafas</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Protéjase contra los correos electrónicos de phishing.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Administre sus contraseñas con facilidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Cree y administre contraseñas complejas e inicios de sesión seguros a sus sitios web favoritos.</li>
+	      		</ul>
+	      	</div>
+	      	<div class="modal-footer">
+	        	<button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+	      	</div>
+	    </div>
+    </div>
+</div>
+
+<div class="modal" tabindex="-1" role="dialog" id="Caracteristicas3">
+  	<div class="modal-dialog " role="document">
+    	<div class="modal-content">
+      		<div class="modal-header">
+      			<h4 class="modal-title"><strong>Funciones de seguridad del producto</strong></h4>
+        		<button type="button" class="close" data-dismiss="modal" aria-label="Close"></button>
+      		</div>
+	      	<div class="modal-body">
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja todos sus dispositivos</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Proporcione la misma seguridad a su PC, Mac y a sus dispositivos móviles.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Asegure sus transacciones</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Apóyese de Pay Guard para asegurar la legitimidad de los sitios financieros mientras utiliza la banca en línea.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Bloquee amenazas en la web</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Defiéndase contra el ransomware y otros peligros en línea.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja su privacidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Bloquee sitios web peligrosos que puedan robar sus datos personales.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja la seguridad de sus hijos</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Permita que los niños exploren la web de manera segura, con límites tanto de tiempo como de contenidos.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Optimice el rendimiento</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Solucione problemas comunes y logre que todo funcione a máxima velocidad.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Evite los fraudes y las estafas</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Protéjase contra los correos electrónicos de phishing.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Administre sus contraseñas con facilidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Cree y administre contraseñas complejas e inicios de sesión seguros a sus sitios web favoritos.</li>
+	      		</ul>
+	      	</div>
+	      	<div class="modal-footer">
+	        	<button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+	      	</div>
+	    </div>
+    </div>
+</div>
+
+<div class="modal" tabindex="-1" role="dialog" id="Caracteristicas4">
+  	<div class="modal-dialog " role="document">
+    	<div class="modal-content">
+      		<div class="modal-header">
+      			<h4 class="modal-title"><strong>Funciones de seguridad del producto</strong></h4>
+        		<button type="button" class="close" data-dismiss="modal" aria-label="Close"></button>
+      		</div>
+	      	<div class="modal-body">
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja todos sus dispositivos</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Proporcione la misma seguridad a su PC, Mac y a sus dispositivos móviles.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Asegure sus transacciones</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Apóyese de Pay Guard para asegurar la legitimidad de los sitios financieros mientras utiliza la banca en línea.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Bloquee amenazas en la web</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Defiéndase contra el ransomware y otros peligros en línea.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja su privacidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Bloquee sitios web peligrosos que puedan robar sus datos personales.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja la seguridad de sus hijos</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Permita que los niños exploren la web de manera segura, con límites tanto de tiempo como de contenidos.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Optimice el rendimiento</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Solucione problemas comunes y logre que todo funcione a máxima velocidad.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Evite los fraudes y las estafas</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Protéjase contra los correos electrónicos de phishing.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Administre sus contraseñas con facilidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Cree y administre contraseñas complejas e inicios de sesión seguros a sus sitios web favoritos.</li>
+	      		</ul>
+	      	</div>
+	      	<div class="modal-footer">
+	        	<button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+	      	</div>
+	    </div>
+    </div>
+</div>
+
+<div class="modal" tabindex="-1" role="dialog" id="Caracteristicas5">
+  	<div class="modal-dialog " role="document">
+    	<div class="modal-content">
+      		<div class="modal-header">
+      			<h4 class="modal-title"><strong>Funciones de seguridad del producto</strong></h4>
+        		<button type="button" class="close" data-dismiss="modal" aria-label="Close"></button>
+      		</div>
+	      	<div class="modal-body">
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja todos sus dispositivos</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Proporcione la misma seguridad a su PC, Mac y a sus dispositivos móviles.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Asegure sus transacciones</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Apóyese de Pay Guard para asegurar la legitimidad de los sitios financieros mientras utiliza la banca en línea.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Bloquee amenazas en la web</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Defiéndase contra el ransomware y otros peligros en línea.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja su privacidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Bloquee sitios web peligrosos que puedan robar sus datos personales.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja la seguridad de sus hijos</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Permita que los niños exploren la web de manera segura, con límites tanto de tiempo como de contenidos.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Optimice el rendimiento</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Solucione problemas comunes y logre que todo funcione a máxima velocidad.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Evite los fraudes y las estafas</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Protéjase contra los correos electrónicos de phishing.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Administre sus contraseñas con facilidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Cree y administre contraseñas complejas e inicios de sesión seguros a sus sitios web favoritos.</li>
+	      		</ul>
+	      	</div>
+	      	<div class="modal-footer">
+	        	<button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+	      	</div>
+	    </div>
+    </div>
+</div>
+
+<div class="modal" tabindex="-1" role="dialog" id="Caracteristicas6">
+  	<div class="modal-dialog " role="document">
+    	<div class="modal-content">
+      		<div class="modal-header">
+      			<h4 class="modal-title"><strong>Funciones de seguridad del producto</strong></h4>
+        		<button type="button" class="close" data-dismiss="modal" aria-label="Close"></button>
+      		</div>
+	      	<div class="modal-body">
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja todos sus dispositivos</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Proporcione la misma seguridad a su PC, Mac y a sus dispositivos móviles.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Asegure sus transacciones</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Apóyese de Pay Guard para asegurar la legitimidad de los sitios financieros mientras utiliza la banca en línea.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Bloquee amenazas en la web</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Defiéndase contra el ransomware y otros peligros en línea.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja su privacidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Bloquee sitios web peligrosos que puedan robar sus datos personales.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja la seguridad de sus hijos</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Permita que los niños exploren la web de manera segura, con límites tanto de tiempo como de contenidos.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Optimice el rendimiento</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Solucione problemas comunes y logre que todo funcione a máxima velocidad.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Evite los fraudes y las estafas</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Protéjase contra los correos electrónicos de phishing.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Administre sus contraseñas con facilidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Cree y administre contraseñas complejas e inicios de sesión seguros a sus sitios web favoritos.</li>
+	      		</ul>
+	      	</div>
+	      	<div class="modal-footer">
+	        	<button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+	      	</div>
+	    </div>
+    </div>
+</div>
+
+<div class="modal" tabindex="-1" role="dialog" id="Caracteristicas7">
+  	<div class="modal-dialog " role="document">
+    	<div class="modal-content">
+      		<div class="modal-header">
+      			<h4 class="modal-title"><strong>Funciones de seguridad del producto</strong></h4>
+        		<button type="button" class="close" data-dismiss="modal" aria-label="Close"></button>
+      		</div>
+	      	<div class="modal-body">
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja todos sus dispositivos</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Proporcione la misma seguridad a su PC, Mac y a sus dispositivos móviles.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Asegure sus transacciones</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Apóyese de Pay Guard para asegurar la legitimidad de los sitios financieros mientras utiliza la banca en línea.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Bloquee amenazas en la web</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Defiéndase contra el ransomware y otros peligros en línea.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja su privacidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Bloquee sitios web peligrosos que puedan robar sus datos personales.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja la seguridad de sus hijos</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Permita que los niños exploren la web de manera segura, con límites tanto de tiempo como de contenidos.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Optimice el rendimiento</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Solucione problemas comunes y logre que todo funcione a máxima velocidad.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Evite los fraudes y las estafas</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Protéjase contra los correos electrónicos de phishing.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Administre sus contraseñas con facilidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Cree y administre contraseñas complejas e inicios de sesión seguros a sus sitios web favoritos.</li>
+	      		</ul>
+	      	</div>
+	      	<div class="modal-footer">
+	        	<button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+	      	</div>
+	    </div>
+    </div>
+</div>
+
+<div class="modal" tabindex="-1" role="dialog" id="Caracteristicas8">
+  	<div class="modal-dialog " role="document">
+    	<div class="modal-content">
+      		<div class="modal-header">
+      			<h4 class="modal-title"><strong>Funciones de seguridad del producto</strong></h4>
+        		<button type="button" class="close" data-dismiss="modal" aria-label="Close"></button>
+      		</div>
+	      	<div class="modal-body">
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja todos sus dispositivos</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Proporcione la misma seguridad a su PC, Mac y a sus dispositivos móviles.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Asegure sus transacciones</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Apóyese de Pay Guard para asegurar la legitimidad de los sitios financieros mientras utiliza la banca en línea.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Bloquee amenazas en la web</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Defiéndase contra el ransomware y otros peligros en línea.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja su privacidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Bloquee sitios web peligrosos que puedan robar sus datos personales.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja la seguridad de sus hijos</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Permita que los niños exploren la web de manera segura, con límites tanto de tiempo como de contenidos.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Optimice el rendimiento</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Solucione problemas comunes y logre que todo funcione a máxima velocidad.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Evite los fraudes y las estafas</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Protéjase contra los correos electrónicos de phishing.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Administre sus contraseñas con facilidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Cree y administre contraseñas complejas e inicios de sesión seguros a sus sitios web favoritos.</li>
+	      		</ul>
+	      	</div>
+	      	<div class="modal-footer">
+	        	<button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+	      	</div>
+	    </div>
+    </div>
+</div>
+
+<div class="modal" tabindex="-1" role="dialog" id="Caracteristicas9">
+  	<div class="modal-dialog " role="document">
+    	<div class="modal-content">
+      		<div class="modal-header">
+      			<h4 class="modal-title"><strong>Funciones de seguridad del producto</strong></h4>
+        		<button type="button" class="close" data-dismiss="modal" aria-label="Close"></button>
+      		</div>
+	      	<div class="modal-body">
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja todos sus dispositivos</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Proporcione la misma seguridad a su PC, Mac y a sus dispositivos móviles.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Asegure sus transacciones</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Apóyese de Pay Guard para asegurar la legitimidad de los sitios financieros mientras utiliza la banca en línea.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Bloquee amenazas en la web</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Defiéndase contra el ransomware y otros peligros en línea.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja su privacidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Bloquee sitios web peligrosos que puedan robar sus datos personales.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Proteja la seguridad de sus hijos</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Permita que los niños exploren la web de manera segura, con límites tanto de tiempo como de contenidos.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Optimice el rendimiento</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Solucione problemas comunes y logre que todo funcione a máxima velocidad.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Evite los fraudes y las estafas</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Protéjase contra los correos electrónicos de phishing.</li>
+	      		</ul>
+	      		<h5><strong>&nbsp;&nbsp;&nbsp;Administre sus contraseñas con facilidad</strong></h5>
+	      		<ul style= "list-style-type: square;">
+	      			<li>Cree y administre contraseñas complejas e inicios de sesión seguros a sus sitios web favoritos.</li>
+	      		</ul>
+	      	</div>
+	      	<div class="modal-footer">
+	        	<button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+	      	</div>
+	    </div>
+    </div>
+</div>
 
 
 
