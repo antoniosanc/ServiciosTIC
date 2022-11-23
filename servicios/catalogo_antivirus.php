@@ -79,9 +79,9 @@
 					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender_GravityZone_Security_for_Mobile_Devices_Datasheet_en.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/SecurityMD.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Bitdefender/Bitdefender_GravityZone_Security_for_Mobile_Devices_Datasheet_en.pdf" target="_blank">Ver especificaciones</a></p>
 					            <td width="25%">
-						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
-						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
+						        <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
+						        <p style="text-align: center;"><a href="../contacto.php"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contacto.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						        <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php">Contactanos</a></p>
 					            </td>
 					        </tr>
 					    </tbody>
@@ -110,8 +110,8 @@
 					            </td>
 					            <td width="22%">
 						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
-						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Hauri" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
+						            <p style="text-align: center;"><a href="../contacto.php"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contacto.png" alt="Hauri" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php">Contactanos</a></p>
 					            </td>
 					        </tr>
 					    </tbody>
@@ -152,8 +152,8 @@
 					            </td>
 					          	<td width="25%">
 						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
-						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Hauri" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
+						            <p style="text-align: center;"><a href="../contacto.php"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contacto.png" alt="Hauri" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php">Contactanos</a></p>
 					            </td>
 					        </tr>
 					    </tbody>
