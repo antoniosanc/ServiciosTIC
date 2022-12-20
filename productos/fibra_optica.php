@@ -23,7 +23,7 @@
 			<div class="col-md-12 text-center">
 				<ol class="breadcrumb">
 					<li><a href="index.php?q=inicio">Inicio</a></li>
-					<li><a href="index.php?q=productos">Productos</a></li> 					
+					<li><a href="../productos.php?q=Productos">Productos</a></li> 					
 					<li>Fibra Óptica</li>
 				</ol>			
 			</div>

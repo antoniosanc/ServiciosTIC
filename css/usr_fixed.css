@@ -58,7 +58,9 @@
 .img-seguridad{background-image: url('../fondos/seguridad.jpg')}
 .img-solicitud{background-image: url('../fondos/solicitud.jpg')}
 .img-aviso{background-image: url('../fondos/aviso.jpg')}
-
+/*productos*/
+.img-cableadoestructurado{background-image: url('../fondos/cableadoestruct.jpg')}
+.img-hardware{background-image: url('../fondos/hardware.png')}
 
 /* galeria */
 .container.gallery-container {
