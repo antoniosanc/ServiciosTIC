@@ -113,7 +113,7 @@
 									  	<li><a href="productos/fibra_optica.php.php?q=fibra_optica&n=productos">Fibra Óptica</a></li> 
 										<li class='divider'></li><li><a href="productos/cableado_estructurado.php?n=Cableado Estructurado">Cableado Estructurado</a></li> 
 										<li class='divider'></li><li><a href="productos/hardware_gen.php?q=hardware&n=productos">Hardware</a></li> 
-										<li class='divider'></li><li><a href="index.php?q=software&n=productos">Software</a></li> 
+										<li class='divider'></li><li><a href="productos/software_gen.php?q=software&n=productos">Software</a></li>
 										<li class='divider'></li><li><a href="index.php?q=energia&n=productos">Energía</a></li> 
 										<li class='divider'></li><li><a href="index.php?q=gabinetesracks&n=productos">Gabinetes</a></li> 
 										<li class='divider'></li><li><a href="index.php?q=etiquetadoras&n=productos">Etiquetadoras</a></li> 
