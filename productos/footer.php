@@ -3,7 +3,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-4 align-left">
-<<<<<<< HEAD
+
 				<center><h3>Ubicación</h3></center>
 				<p>Chiclayo 639-Oficina 3, Lindavista Sur, Gustavo A. Madero, 07300 Ciudad de México, CDMX</p>
 				<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3761.241796902573!2d-99.13410048578068!3d19.48823024395088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1feaf1f19b185%3A0xd1e5d29d3850a4b1!2sServicios%20en%20Tic%20SA%20de%20CV!5e0!3m2!1ses-419!2smx!4v1651267189501!5m2!1ses-419!2smx" width="auto" height="auto" style="border:0;"  loading="lazy" referrerpolicy="no-referrer-when-downgrade" align="center"></iframe></center>
@@ -23,7 +23,7 @@
 				<center><h3>Contacto</h3></center>
 				<p><a href="tel:+52-55-9130-1375"><img src="../fondos/iconos/llamada.png" alt="Tel&eacute;fono" border="0"> (55) 9130-1375 / (55) 6732-4800</a></p>
 				<p><a href="mailto:soporte@serviciostic.com.mx"><img src="../fondos/iconos/correo-electronico.png" alt="Correo" border="0">soporte@serviciostic.com.mx</a></p>
-=======
+
 				<center><h3>Oficinas CDMX</h3></center>
 				<p>Ing. Basiliso Romo Anguiano No. 165, Oficina 3, Col. Industrial, Alcaldía Gustavo A Madero, CP 07800, CDMX</p>
 				<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3761.6034889521875!2d-99.13208798255614!3d19.472655099999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f90e919c0573%3A0xfd1ca41fe1b41aeb!2sAv.%20Ing.%20Basiliso%20Romo%20Anguiano%20165%2C%20Industrial%2C%20Gustavo%20A.%20Madero%2C%2007800%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses!2smx!4v1671150476867!5m2!1ses!2smx" width="auto" height="auto" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade" align="center"></iframe></center>
@@ -50,7 +50,6 @@
 				<p><a href="tel:+52-55-9130-1375"><img src="../fondos/iconos/llamada.png" alt="Tel&eacute;fono" border="0"> (55) 6732-4800 / (55) 9130-1375</a></p>
 				<p><a href="mailto:soporte@serviciostic.com.mx"><img src="../fondos/iconos/correo-electronico.png" alt="Correo" border="0">soporte@serviciostic.com.mx</a></p>
 				<p><a href="mailto:soportegdl@serviciostic.com.mx"><img src="../fondos/iconos/correo-electronico.png" alt="Correo" border="0">soportegdl@serviciostic.com.mx</a></p>
->>>>>>> 839dc6d1f4f2723fbad1dab8da55f090408bcb64
 				<p><a href="mailto:ventas@serviciostic.com.mx"><img src="../fondos/iconos/correo-electronico.png" alt="Correo" border="0">ventas@serviciostic.com.mx</a></p>
 
 				<p><a href="tel:+52-55-1320-5021"><img src="../fondos/iconos/telefono-inteligente.png" alt="Celular" border="0"> (55) 1320 - 5021</a></p>
@@ -64,17 +63,17 @@
 		<div class="row">
 			<div class="col-md-6 text-center">
 				<p><a >Copyright &#169 Servicios en TIC S.A. de C.V.  </a></p>
-<<<<<<< HEAD
+
 			</div>
 			<div class="col-md-6 text-center">
 				<p><a href="index.php?q=aviso_de_privacidad">Aviso de Privacidad</a></p>
 			</div>
-=======
+
 			</div>
 			<div class="col-md-6 text-center">
 				<p><a href="aviso_de_privacidad.php">Aviso de Privacidad</a></p>
 			</div>
->>>>>>> 839dc6d1f4f2723fbad1dab8da55f090408bcb64
+
 			
 		</div>
 	</div>
@@ -110,7 +109,6 @@
 		<script type="text/javascript" src="libs/jcarousel/jquery.jcarousel.js"></script>
 		<script type="text/javascript" src="libs/jcarousel/jcarousel.responsive.js"></script>
 		<script type="text/javascript" src="libs/jcarousel/autoscroll.js"></script>
->>>>>>> 839dc6d1f4f2723fbad1dab8da55f090408bcb64
 		<script type="text/javascript">
 			$(function() {
 				$('.jcarousel')
@@ -124,9 +122,6 @@
 					});
 			});
 		</script>
-<<<<<<< HEAD
-=======
-
 		<!-- chatboot -->
 		<script>
 		  	window.watsonAssistantChatOptions = {
@@ -141,7 +136,7 @@
 		    	document.head.appendChild(t);
 		  	});
 		</script>
->>>>>>> 839dc6d1f4f2723fbad1dab8da55f090408bcb64
+
 	
 	
 	<p class="whatsapp-icon"><a onclick="return gtag_report_conversion('https://api.whatsapp.com/send?phone=525525406538&text=¿Tienes alguna duda?');"  href="https://api.whatsapp.com/send?phone=525525406538&text=¿Tienes alguna duda?" target="_blank"> <img src="../imgusr/whatsapp-icon.png" /> </a></p>
