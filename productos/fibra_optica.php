@@ -219,13 +219,10 @@
 		<div class="row">
 			<div class="col-md-12 text-center">
 				<ol class="breadcrumb">
-<<<<<<< HEAD
 					<li><a href="../index.php">Inicio</a></li>
 					<li><a href="../productos.php">Productos</a></li> 					
-=======
 					<li><a href="index.php?q=inicio">Inicio</a></li>
 					<li><a href="../productos.php?q=Productos">Productos</a></li> 					
->>>>>>> 839dc6d1f4f2723fbad1dab8da55f090408bcb64
 					<li>Fibra Óptica</li>
 				</ol>			
 			</div>
