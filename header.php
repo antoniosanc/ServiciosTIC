@@ -110,12 +110,12 @@
 					</ul>
 					</li><li class="dropdown"><a href="productos.php?n=Productos"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Productos <b class="caret"></b></a> 
 									  <ul class="dropdown-menu">
-									  	<li><a href="productos/fibra_optica.php.php?q=fibra_optica&n=productos">Fibra Óptica</a></li> 
+									  	<li><a href="productos/fibra_optica.php?n=Fibra Optica">Fibra Óptica</a></li> 
 										<li class='divider'></li><li><a href="productos/cableado_estructurado.php?n=Cableado Estructurado">Cableado Estructurado</a></li> 
-										<li class='divider'></li><li><a href="productos/hardware_gen.php?q=hardware&n=productos">Hardware</a></li> 
-										<li class='divider'></li><li><a href="productos/software_gen.php?q=software&n=productos">Software</a></li>
+										<li class='divider'></li><li><a href="productos/hardware_gen.php?n=Hardware">Hardware</a></li> 
+										<li class='divider'></li><li><a href="productos/software_gen.php?n=Software">Software</a></li>
 										<li class='divider'></li><li><a href="index.php?q=energia&n=productos">Energía</a></li> 
-										<li class='divider'></li><li><a href="index.php?q=gabinetesracks&n=productos">Gabinetes</a></li> 
+										<li class='divider'></li><li><a href="index.php?q=gabinetesracks">Gabinetes</a></li> 
 										<li class='divider'></li><li><a href="index.php?q=etiquetadoras&n=productos">Etiquetadoras</a></li> 
 										<li class='divider'></li>
 					</ul>

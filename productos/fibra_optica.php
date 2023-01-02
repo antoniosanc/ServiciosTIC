@@ -253,9 +253,9 @@
 		            <center><a href="planta_externa.php" class="preview-card__button">CONOCE MÁS</a></center>
 		          </div>
 		        </div>
-
 		      </div>
 		    </div>
+
 		    <div class="preview-card">
 		      <div class="preview-card__wrp">
 		        <div class="preview-card__item swiper-slide">
@@ -268,9 +268,24 @@
 		            <center><a href="#" class="preview-card__button">CONOCE MÁS</a></center>
 		          </div>
 		        </div>
-
 		      </div>
 		    </div>
+
+		   	<div class="preview-card">
+		      <div class="preview-card__wrp">
+		        <div class="preview-card__item swiper-slide">
+		          <div class="preview-card__img">
+		            <img src="../fondos/equiposdered.jpg" alt="">
+		          </div>
+		          <div class="preview-card__content">
+		            <div class="preview-card__title">Instalación de <b>Equipos de Red</b></div>
+		            <div class="preview-card__text"><p style="text-align: justify;">Los <strong>equipos de red</strong> son los equipos físicos necesarios para la interacción y comunicación del hardware de una red informática. Se utilizan para conectar un ordenador y otros dispositivos para que puedan compartir archivos y recursos.</p></div>
+		            <center><a href="../contacto.php" class="preview-card__button">CONOCE MÁS</a></center>
+		          </div>
+		        </div>
+		      </div>
+		    </div>
+
 		  </div>
 		</div>
 	</div>
