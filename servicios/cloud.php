@@ -35,6 +35,7 @@
 			<div class="col-md-12">
 				<div class="row">
 					<h2 style="text-align: center;">Servicios <strong>Cloud</strong> </h2>
+					<!--
 					<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
 					    <tbody>
 					        <tr>
@@ -54,7 +55,7 @@
 					            </td>
 					        </tr>
 					    </tbody>
-					</table>
+					</table> -->
 				</div>
 			</div>
 		</div>

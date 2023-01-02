@@ -109,14 +109,15 @@
 								<li class='divider'></li>
 					</ul>
 					</li><li class="dropdown"><a href="productos.php?n=Productos"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Productos <b class="caret"></b></a> 
-									  <ul class="dropdown-menu"><li><a href="index.php?q=fibra_optica&n=productos">Fibra Óptica</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=cableado_estructurado&n=productos">Cableado Estructurado</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=hardware&n=productos">Hardware</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=software&n=productos">Software</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=energia&n=productos">Energía</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=gabinetesracks&n=productos">Gabinetes</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=etiquetadoras&n=productos">Etiquetadoras</a></li> 
-													<li class='divider'></li>
+									  <ul class="dropdown-menu">
+									  	<li><a href="productos/fibra_optica.php.php?q=fibra_optica&n=productos">Fibra Óptica</a></li> 
+										<li class='divider'></li><li><a href="productos/cableado_estructurado.php?n=Cableado Estructurado">Cableado Estructurado</a></li> 
+										<li class='divider'></li><li><a href="productos/hardware_gen.php?q=hardware&n=productos">Hardware</a></li> 
+										<li class='divider'></li><li><a href="productos/software_gen.php?q=software&n=productos">Software</a></li>
+										<li class='divider'></li><li><a href="index.php?q=energia&n=productos">Energía</a></li> 
+										<li class='divider'></li><li><a href="index.php?q=gabinetesracks&n=productos">Gabinetes</a></li> 
+										<li class='divider'></li><li><a href="index.php?q=etiquetadoras&n=productos">Etiquetadoras</a></li> 
+										<li class='divider'></li>
 					</ul>
 					</li><li><a href="contacto.php?n=Contacto" class=""> Contacto</a></li></ul>
 					</div>

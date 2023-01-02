@@ -108,15 +108,15 @@
 								<li class='divider'></li><li><a href="../servicios/cableado_estructurado_servicio.php?n=Cableado Estructurado">Cableado Estructurado</a></li> 
 								<li class='divider'></li>
 					</ul>
-					</li><li class="dropdown"><a href="index.php?q=productos"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Productos <b class="caret"></b></a> 
-									  <ul class="dropdown-menu"><li><a href="fibra_optica.php?n=Fibra Óptica">Fibra Óptica</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=cableado_estructurado&n=productos">Cableado Estructurado</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=hardware&n=productos">Hardware</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=software&n=productos">Software</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=energia&n=productos">Energía</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=gabinetesracks&n=productos">Gabinetes</a></li> 
-													<li class='divider'></li><li><a href="index.php?q=etiquetadoras&n=productos">Etiquetadoras</a></li> 
-													<li class='divider'></li>
+					</li><li class="dropdown"><a href="../productos.php?q=Productos"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Productos <b class="caret"></b></a> 
+									<ul class="dropdown-menu"><li><a href="../productos/fibra_optica.php?n=Fibra Óptica">Fibra Óptica</a></li> 
+									<li class='divider'></li><li><a href="../productos/cableado_estructurado.php?n=Cableado Estructurado">Cableado Estructurado</a></li> 
+									<li class='divider'></li><li><a href="../productos/hardware_gen.php?q=hardware&n=Hardware">Hardware</a></li> 
+									<li class='divider'></li><li><a href="../productos/software_gen.php?q=software&n=productos">Software</a></li> 
+									<li class='divider'></li><li><a href="index.php?q=energia&n=productos">Energía</a></li> 
+								    <li class='divider'></li><li><a href="index.php?q=gabinetesracks&n=productos">Gabinetes</a></li> 
+									<li class='divider'></li><li><a href="index.php?q=etiquetadoras&n=productos">Etiquetadoras</a></li> 
+									<li class='divider'></li>
 					</ul>
 					</li><li><a href="../contacto.php?n=Contacto" class=""> Contacto</a></li></ul>
 					</div>

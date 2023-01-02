@@ -47,7 +47,7 @@
 							<h3 style="text-align:center;">Cableado Estructurado</h3>
 							
 							<p style="text-align:center;">
-								<a href="index.php?q=cableado_estructurado&n=productos" class="btn btn-mas-servicios">M&Aacute;S INFORMACI&Oacute;N</a>
+								<a href="productos/cableado_estructurado.php" class="btn btn-mas-servicios">M&Aacute;S INFORMACI&Oacute;N</a>
 							</p>
 						</div></div>
 							<div class="row " >
@@ -55,14 +55,14 @@
 							<h3 style="text-align:center;">Hardware</h3>
 							
 							<p style="text-align:center;">
-								<a href="index.php?q=hardware&n=productos" class="btn btn-mas-servicios">M&Aacute;S INFORMACI&Oacute;N</a>
+								<a href="productos/hardware_gen.php" class="btn btn-mas-servicios">M&Aacute;S INFORMACI&Oacute;N</a>
 							</p>
 						</div>
 						<div class="col-sm-6 col-md-6 serv-interno text-center" style="background : url(fondos/software.jpg) no-repeat center; background-size: cover;">						
 							<h3 style="text-align:center;">Software</h3>
 							
 							<p style="text-align:center;">
-								<a href="index.php?q=software&n=productos" class="btn btn-mas-servicios">M&Aacute;S INFORMACI&Oacute;N</a>
+								<a href="productos/software_gen.php" class="btn btn-mas-servicios">M&Aacute;S INFORMACI&Oacute;N</a>
 							</p>
 						</div></div>
 							<div class="row " >

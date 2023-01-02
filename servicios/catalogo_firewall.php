@@ -27,67 +27,52 @@
 					        <tr>
 					            <td width="25%">
 					            <h3 style="text-align: center;">Quantum Maestro</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_BIZ2400II_USB_FINAL_ES - LR.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/biz2400_001.jpg" alt="checkpoint" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_BIZ2400II_USB_FINAL_ES - LR.pdf" target="_blank">Ver especificaciones</a></p>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Checkpoint/maestro-hyperscale-orchestrator-datasheet.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/q-maestro.png" alt="Checkpoint" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Checkpoint/maestro-hyperscale-orchestrator-datasheet.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
-					            <h3 style="text-align: center;">Jabra Biz 1500</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Jabra BIZ 1500_Datasheet.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/biz1500_001.jpg" alt="Checkpoint" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Jabra BIZ 1500_Datasheet.pdf" target="_blank">Ver especificaciones</a></p>
+					            <h3 style="text-align: center;">Quantum Security Gateway</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Checkpoint/quantum security appliance brochure.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/q-securitygateway.png" alt="Checkpoint" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Checkpoint/quantum security appliance brochure.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
-					            <h3 style="text-align: center;">Jabra Biz 2300</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_Jabra_BIZ 2300_50171_ESMX_V01_1310.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/biz2300_001.jpg" alt="Checkpoint" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_Jabra_BIZ 2300_50171_ESMX_V01_1310.pdf" target="_blank">Ver especificaciones</a></p>
+					            <h3 style="text-align: center;">Quantum Spark</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Checkpoint/quantum security appliance brochure.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/q-spark.png" alt="Checkpoint" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Checkpoint/quantum security appliance brochure.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
-					            <h3 style="text-align: center;">Jabra Pro 900</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_PRO 900_50202_ESMX_V01_1312.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/pro_900_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_PRO 900_50202_ESMX_V01_1312.pdf" target="_blank">Ver especificaciones</a></p>
+					            <h3 style="text-align: center;">Quantum Scalable Chassis</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Checkpoint/44000-64000-security-systems-datasheet.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/q-scalablechassis.png" alt="Checkpoint" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Checkpoint/44000-64000-security-systems-datasheet.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					        </tr>
 					        <tr>
-					            <td>
-					            <h3 style="text-align: center;">Jabra Motion</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_MOTION_50199_ESMX_V01_1402.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/motion_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_MOTION_50199_ESMX_V01_1402.pdf" target="_blank">Ver especificaciones</a></p>
+					            <td width="25%">
+					            <h3 style="text-align: center;">Quantum Edge</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Checkpoint/cloudguard-edge-datasheet.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/q-edge.png" alt="Checkpoint" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Checkpoint/cloudguard-edge-datasheet.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
-					            <td>
-					            <h3 style="text-align: center;">Jabra Evolve 65</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Jabra_Evolve65_Datasheet_2017.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/evolve65_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Jabra_Evolve65_Datasheet_2017.pdf" target="_blank">Ver especificaciones</a></p>
+					            <td td width="25%">
+					            <h3 style="text-align: center;">Quantum IoT Protect</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Checkpoint/quantum security appliance brochure.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/q-IoTprotect.png" alt="Checkpoint" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Checkpoint/quantum security appliance brochure.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
-					            <td>
-					            <h3 style="text-align: center;">Jabra Link 265</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_LINK265_50214_V01_1402.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/link_265_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_LINK265_50214_V01_1402.pdf" target="_blank">Ver especificaciones</a></p>
+					            <td width="25%">
+					            <h3 style="text-align: center;">Quantum VPN</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Checkpoint/ds-endpoint-remote-access.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/q-vpn.png" alt="Checkpoint" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Checkpoint/ds-endpoint-remote-access.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
-					            <td>
-					            <h3 style="text-align: center;">Jabra Speak 510</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_SPEAK_50082_CALA_ES_V01_1210.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/speak510_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_SPEAK_50082_CALA_ES_V01_1210.pdf" target="_blank">Ver especificaciones</a></p>
+					            <td width="25%">
+					            <h3 style="text-align: center;">Quantum Smart-1</h3>
+					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Checkpoint/smart-1-security-management-platform-datasheet.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/q-smart1.png" alt="Checkpoint" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Checkpoint/smart-1-security-management-platform-datasheet.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					        </tr>
 					        <tr>
-					            <td>
-					            <h3 style="text-align: center;">Jabra Link 180</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/DS_LINK180_50196_V01_1403_low.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/link_180_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/DS_LINK180_50196_V01_1403_low.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td>
-					            <h3 style="text-align: center;">Jabra Link 14201-16</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_Cisco_HHC_Adapter.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/14201-16_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Datasheet_Jabra_Cisco_HHC_Adapter.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td>
-					            <h3 style="text-align: center;">Jabra Evolve 80</h3>
-					            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Jabra/Jabra_Evolve_80_Datasheet_ESMX.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/evolve80_001.jpg" alt="Jabra" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-					            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Jabra/Jabra_Evolve_80_Datasheet_ESMX.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
 					            <td width="25%">
-						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
-						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
+						        <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
+						        <p style="text-align: center;"><a href="../contacto.php"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contacto.png" alt="Checkpoint" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						        <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php">Contactanos</a></p>
 					            </td>
 					        </tr>
 					    </tbody>
@@ -112,51 +97,18 @@
 					            </td>
 					            <td width="25%">
 						            <h3 style="text-align: center;">FWF-50E/FWF-50E-BDL-950-12</h3>
-						            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" type="button" data-toggle="modal" data-target="#Caracteristicas3" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td width="25%">
-						            <h3 style="text-align: center;">FG-60F/FG-60F-BDL-950-12</h3>
-						            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" type="button" data-toggle="modal" data-target="#Caracteristicas4" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					        </tr>
-					         <tr>
-					            <td width="25%">
-						            <h3 style="text-align: center;">FWF-60F/FWF-60F-BDL-950-12</h3>
-						            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/firewall/FWF-60F.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" type="button" data-toggle="modal" data-target="#Caracteristicas5" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td width="25%">
-						            <h3 style="text-align: center;">FG-80F/FG-80F-BDL-950-12</h3>
-						            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstructure-c-series_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" type="button" data-toggle="modal" data-target="#Caracteristicas6" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td width="25%">
-						            <h3 style="text-align: center;">FG-100F/FG-100F-BDL-950-12</h3>
-						            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" type="button" data-toggle="modal" data-target="#Caracteristicas7" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td width="25%">
-						            <h3 style="text-align: center;">FG-101F/FG-101F-BDL-950-12</h3>
-						            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" type="button" data-toggle="modal" data-target="#Caracteristicas8" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					        </tr>
-					         <tr>
-					            <td width="25%">
-						            <h3 style="text-align: center;">FG-200F/FG-200F-BDL-950-12</h3>
-						            <p style="text-align: center;"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" type="button" data-toggle="modal" data-target="#Caracteristicas9" target="_blank">Ver especificaciones</a></p>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Fortinet/FortiGate_FortiWiFi_50E_Series.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/FWF-50E-BDL-950-12.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Fortinet/FortiGate_FortiWiFi_50E_Series.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
-						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contacto.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
+						            <p style="text-align: center;"><a href="../contacto.php"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contacto.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" >Contactanos</a></p>
 					            </td>
 					        </tr>
 					    </tbody>
 					</table>
+					<!-- Productos agotados
 					<table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
 					    <tbody>
 					        <tr>
@@ -177,78 +129,29 @@
 						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
-						            <h3 style="text-align: center;">FAP-231F-N</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					        </tr>
-					         <tr>
-					            <td width="25%">
-						            <h3 style="text-align: center;">FAP-321F-N</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td width="25%">
 						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
-						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contacto.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
 						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
 					            </td>
 					        </tr>
 					    </tbody>
-					</table>
+					</table> -->
 					<table width="100%" cellspacing="1" cellpadding="10" border="0" align="center">
 					    <tbody>
 					        <tr>
 					        	<h3 style="text-align: center;"><strong>FortiSwitch</strong></h3>
-					            <td width="25%">
-						            <h3 style="text-align: center;">FS-108E/FS-108F</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+					            <td width="29%">
+						            <h3 style="text-align: center;">Consulta todos los productos</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Fortinet/FortiSwitch_Secure_Access_Series-108F-POE-FPOE.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Fortii.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Fortinet/FortiSwitch_Secure_Access_Series-108F-POE-FPOE.pdf" target="_blank">Ver hoja de datos</a></p>
 					            </td>
-					            <td width="25%">
-						            <h3 style="text-align: center;">[FS-108E/FS-108F]-POE</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstructure-c-series_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td width="25%">
-						            <h3 style="text-align: center;">FS-124E/FS-124F</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td width="25%">
-						            <h3 style="text-align: center;">F[FS-124E/FS-124F]-POE</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					        </tr>
-					         <tr>
-					            <td width="25%">
-						            <h3 style="text-align: center;">[FS-124E/FS-124F]-FPOE</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td width="25%">
-						            <h3 style="text-align: center;">FFS-148E/FS-148F</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstructure-c-series_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td width="25%">
-						            <h3 style="text-align: center;">[FS-148E/FS-148F]-POE</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td width="25%">
-						            <h3 style="text-align: center;">FS-148F-FPOE</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					        </tr>
-					         <tr>
 					            <td width="25%">
 						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
-						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
+						            <p style="text-align: center;"><a href="../contacto.php"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contacto.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php">Contactanos</a></p>
 					            </td>
+					            <td width="25%"></td>
+					            <td width="25%"></td>
 					        </tr>
 					    </tbody>
 					</table>
@@ -257,37 +160,21 @@
 					        <tr>
 					        	<h3 style="text-align: center;"><strong>FortiVoice/FortiPhone</strong></h3>
 					            <td width="25%">
-						            <h3 style="text-align: center;">FVE-20E2-BDL-247-12</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+						            <h3 style="text-align: center;">FortiVoice para oficinas</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Fortinet/FortiVoiceEnterprise.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Fortii.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Fortinet/FortiVoiceEnterprise.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
-						            <h3 style="text-align: center;">FVE-100E-BDL-247-12</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstructure-c-series_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td width="25%">
-						            <h3 style="text-align: center;">FVC-200D</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td width="25%">
-						            <h3 style="text-align: center;">FON-600</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					        </tr>
-					         <tr>
-					            <td width="25%">
-						            <h3 style="text-align: center;">FON-370I</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+						            <h3 style="text-align: center;">FortiVoice Gateway (ATA)</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Fortinet/FortiVoice_Gateway.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Fortii.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Fortinet/FortiVoice_Gateway.pdf" target="_blank">Ver especificaciones</a></p>
 					            </td>
 					            <td width="25%">
 						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
-						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
+						            <p style="text-align: center;"><a href="../contacto.php"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contacto.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php">Contactanos</a></p>
 					            </td>
+								<td width="25%"></td>
 					        </tr>
 					    </tbody>
 					</table>
@@ -296,25 +183,18 @@
 					        <tr>
 					        	<h3 style="text-align: center;"><strong>FortiClient</strong></h3>
 					            <td width="25%">
-						            <h3 style="text-align: center;">FC1-10-EMS04-428-01-12</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_vvx_1500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/vvx1500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td width="25%">
-						            <h3 style="text-align: center;">FC1-10-EMS04-429-01-12</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/soundstructure-c-series_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/soundstructure-c-series-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
-					            </td>
-					            <td width="25%">
-						            <h3 style="text-align: center;">FVC-200D</h3>
-						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/comunicaciones_unificadas/polycom_cx500_001.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Polycom/cx500-ds-enus.pdf" target="_blank">Ver especificaciones</a></p>
+						            <h3 style="text-align: center;">Consulta todos los productos</h3>
+						            <p style="text-align: center;"><a href="../userfiles/servicios_tic20/file/Fortinet/og-forticlient.pdf" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Fortii.jpg" alt="Polycom" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../userfiles/servicios_tic20/file/Fortinet/og-forticlient.pdf" target="_blank">Ver hoja de datos</a></p>
 					            </td>
 					            <td width="25%">
 						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
-						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
+						            <p style="text-align: center;"><a href="../contacto.php"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contacto.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php">Contactanos</a></p>
 					            </td>
+								<td width="25%"></td>
+								<td width="25%"></td>
+
 					        </tr>
 					    </tbody>
 					</table>
@@ -469,8 +349,8 @@
 					            </td>
 					            <td width="25%">
 						            <h3 style="text-align: center;">No has encontrado lo que necesitas...</h3>
-						            <p style="text-align: center;"><a href="../contacto.php" target="_blank"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contactanos.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
-						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php" target="_blank">Contactanos</a></p>
+						            <p style="text-align: center;"><a href="../contacto.php"><img src="../userfiles/servicios_tic20/image/servicios/firewall/Contacto.png" alt="Bitdefender" class="img-responsive img-thumbnail image_effects animated" border="0" /></a></p>
+						            <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php">Contactanos</a></p>
 					            </td>
 					        </tr>
 					    </tbody>
