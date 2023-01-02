@@ -58,16 +58,16 @@
 .img-seguridad{background-image: url('../fondos/seguridad.jpg')}
 .img-solicitud{background-image: url('../fondos/solicitud.jpg')}
 .img-aviso{background-image: url('../fondos/aviso.jpg')}
-<<<<<<< HEAD
+
 /*Productos*/
 .img-fibra{background-image: url('../fondos/fibra.jpg')}
 
-=======
+
 /*productos*/
 .img-cableadoestructurado{background-image: url('../fondos/cable.jpg')}
 .img-hardware{background-image: url('../fondos/hardware.jpg')}
 .img-software{background-image: url('../fondos/software.jpg')}
->>>>>>> 839dc6d1f4f2723fbad1dab8da55f090408bcb64
+
 
 /* galeria */
 .container.gallery-container {
