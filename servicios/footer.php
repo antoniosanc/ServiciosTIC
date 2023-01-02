@@ -69,20 +69,6 @@
 			});
 		</script>
 
-		<!-- chatboot -->
-		<script>
-		  	window.watsonAssistantChatOptions = {
-		      integrationID: "80d51e22-19a4-49d6-8ee4-c2c3f55d494c", // The ID of this integration.
-		      region: "us-south", // The region your integration is hosted in.
-		      serviceInstanceID: "80825f81-e5d9-4238-8fbc-dda30302d738", // The ID of your service instance.
-		      onLoad: function(instance) { instance.render(); }
-		    };
-		  	setTimeout(function(){
-		    	const t=document.createElement('script');
-		    	t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js"
-		    	document.head.appendChild(t);
-		  	});
-		</script>
 	
 	
 	<p class="whatsapp-icon"><a onclick="return gtag_report_conversion('https://api.whatsapp.com/send?phone=525525406538&text=¿Tienes alguna duda?');"  href="https://api.whatsapp.com/send?phone=525525406538&text=¿Tienes alguna duda?" target="_blank"> <img src="../imgusr/whatsapp-icon.png" /> </a></p>
