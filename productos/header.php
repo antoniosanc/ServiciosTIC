@@ -52,6 +52,8 @@
 		<link href="../css/usr.css" rel="stylesheet">
 		<link href="../css/usr_fixed.css" rel="stylesheet">
 		<link href="../css/slider.css" rel="stylesheet">
+		<!-- libreria de gallery baguetteBox -->
+		<link rel="stylesheet" href="../css/baguetteBox/baguetteBox.min.css">
 
 		
 		<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -97,26 +99,28 @@
 						<ul class="nav navbar-nav hd-nav">
 							<li><a href="../index.php" class=""> Inicio</a></li>
 							<li><a href="../quienes_somos.php?n=Acerca" class=""> Acerca</a></li>
+							
 							<li class="dropdown"><a href="../servicios.php?n=Servicios"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Servicios <b class="caret"></b></a> 
-							<ul class="dropdown-menu"><li><a href="../servicios/soporte_tecnico.php?n=Soporte Técnico">Soporte técnico</a></li> 
-								<li class='divider'></li><li><a href="../servicios/seguridad.php?n=Seguridad">Seguridad Informática y CCTV</a></li> 
-								<li class='divider'></li><li><a href="../servicios/hosting.php?n=Hosting">Hosting</a></li> 
-								<li class='divider'></li><li><a href="../servicios/comunicaciones_unificadas.php?n=Comunicaciones Unificadas">Comunicaciones Unificadas</a></li> 
+							<ul class="dropdown-menu"><li><a href="soporte_tecnico.php?n=Soporte Técnico">Soporte técnico</a></li> 
+								<li class='divider'></li><li><a href="seguridad.php?n=Seguridad">Seguridad Informática y CCTV</a></li> 
+								<li class='divider'></li><li><a href="hosting.php?n=Hosting">Hosting</a></li> 
+								<li class='divider'></li><li><a href="comunicaciones_unificadas.php?n=Comunicaciones Unificadas">Comunicaciones Unificadas</a></li> 
 								<li class='divider'></li><li><a href="telecomunicaciones.php?n=Telecomunicaciones">Telecomunicaciones</a></li> 
-								<li class='divider'></li><li><a href="../servicios/virtualizacion.php?n=Virtualización">Virtualización</a></li>
-								<li class='divider'></li><li><a href="../servicios/cloud.php?n=Cloud">Cloud</a></li> 
-								<li class='divider'></li><li><a href="../servicios/cableado_estructurado_servicio.php?n=Cableado Estructurado">Cableado Estructurado</a></li> 
+								<li class='divider'></li><li><a href="virtualizacion.php?n=Virtualización">Virtualización</a></li>
+								<li class='divider'></li><li><a href="cloud.php?n=Cloud">Cloud</a></li> 
+								<li class='divider'></li><li><a href="cableado_estructurado_servicio.php?n=Cableado Estructurado">Cableado Estructurado</a></li> 
 								<li class='divider'></li>
-					</ul>
-					</li><li class="dropdown"><a href="../productos.php?q=Productos"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Productos <b class="caret"></b></a> 
-									<ul class="dropdown-menu"><li><a href="../productos/fibra_optica.php?n=Fibra Óptica">Fibra Óptica</a></li> 
-									<li class='divider'></li><li><a href="../productos/cableado_estructurado.php?n=Cableado Estructurado">Cableado Estructurado</a></li> 
-									<li class='divider'></li><li><a href="../productos/hardware_gen.php?q=hardware&n=Hardware">Hardware</a></li> 
-									<li class='divider'></li><li><a href="../productos/software_gen.php?q=software&n=productos">Software</a></li> 
-									<li class='divider'></li><li><a href="index.php?q=energia&n=productos">Energía</a></li> 
-								    <li class='divider'></li><li><a href="index.php?q=gabinetesracks&n=productos">Gabinetes</a></li> 
-									<li class='divider'></li><li><a href="index.php?q=etiquetadoras&n=productos">Etiquetadoras</a></li> 
-									<li class='divider'></li>
+					    </ul>
+					    
+					    </li><li class="dropdown"><a href="../productos.php?q=Productos"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Productos <b class="caret"></b></a> 
+						<ul class="dropdown-menu"><li><a href="index.php?q=fibra_optica&n=productos">Fibra Óptica</a></li> 
+								<li class='divider'></li><li><a href="../cableado_estructurado.php?q=cableado_estructurado&n=productos">Cableado Estructurado</a></li> 
+								<li class='divider'></li><li><a href="index.php?q=hardware&n=productos">Hardware</a></li> 
+								<li class='divider'></li><li><a href="index.php?q=software&n=productos">Software</a></li> 
+								<li class='divider'></li><li><a href="index.php?q=energia&n=productos">Energía</a></li> 
+								<li class='divider'></li><li><a href="index.php?q=gabinetesracks&n=productos">Gabinetes</a></li> 
+								<li class='divider'></li><li><a href="index.php?q=etiquetadoras&n=productos">Etiquetadoras</a></li> 
+								<li class='divider'></li>
 					</ul>
 					</li><li><a href="../contacto.php?n=Contacto" class=""> Contacto</a></li></ul>
 					</div>
