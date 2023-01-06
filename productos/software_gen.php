@@ -81,7 +81,7 @@
                                             </div>
                                             <div class="col-sm-4 col-md-4 cards br_col2" >
                                                 <h3 style="text-align:center;">OFFICE 365</h3>
-                                                <p style="text-align: center;"><a href="antivirus.php"><img class="img-responsive image_effects animated img-thumbnail" alt="Antivirus" src="../fondos/iconos/archivo.png" width="60%"border="0" /></a></p>
+                                                <p style="text-align: center;"><a href="antivirus.php"><img class="img-responsive image_effects animated img-thumbnail" alt="Antivirus" src="../fondos/iconos/oficina.png" width="60%"border="0" /></a></p>
                                                 <h3>Licencias:</h3>
                                                 <ul>
                                                     <li>Microsoft 365 Empresa Básico</li>
@@ -115,9 +115,47 @@
                         </tr>
                     </tbody>
                 </table>
-            </div>
-		</div>
-	</div>
+                <br>
+
+                <!-- Tabla de catalogo inicial -->
+                <div class="hm-servicios">
+                    <div class="container">
+                        <div class="row">
+                            <div class="row" >
+                                <div class="col-sm-4 col-md-4 cards br_col1" >
+                                    <h3 style="text-align:center;">Licencias "ADOBE"</h3>
+                                    <p style="text-align: center;"><a href="firewall.php"><img class="img-responsive image_effects animated img-thumbnail" alt="Firewall" src="../fondos/iconos/acrobata.png" width="60%" border="0" /></a></p>
+                                    
+                                    <p style="text-align: center;"><a href="../contacto.php"></a></p>
+                                    <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php">Cotizar</a></p>
+                                </div>
+                                <div class="col-sm-4 col-md-4 cards br_col2" >
+                                    <h3 style="text-align:center;">Licencias "CISCO"</h3>
+                                    <p style="text-align: center;"><a href="antivirus.php"><img class="img-responsive image_effects animated img-thumbnail" alt="Antivirus" src="../fondos/iconos/cisco.png" width="60%"border="0" /></a></p>
+                                    <p style="text-align: center;"><a href="../contacto.php"></a></p>
+                                    <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php">Cotizar</a></p>
+                                </div>
+                                <div class="col-sm-4 col-md-4 cards br_col1" >
+                                    <h3 style="text-align:center;">¡CONTACTANOS!</h3>
+                                    <p style="text-align: center;"><a href="cctv.php"><img class="img-responsive image_effects animated img-thumbnail" alt="CCTV" src="../fondos/iconos/Contacto.png" width="60%" border="0" /></a></p>
+                                    <h3></h3>
+                                    <h5>No encontraste lo que necesitabas, contactate con nuestro equipo de ventas y te podemos ofrecer más soluciones. </h5>
+                                    <p></p>
+                                    <center><h5>SOMOS DISTRIBUIDORES AUTORIZADOS</h5></center>
+                                    <p></p>
+                                    <p style="text-align: center;"><a href="../contacto.php"></a></p>
+                                    <p style="text-align: center;"><a class="btn btn-primary" href="../contacto.php">Cotizar</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </tr>
+        </tbody>
+    </table>
+</div>
+</div>
+</div>
 </div>
 
 

@@ -70,7 +70,7 @@
 							<h3 style="text-align:center;">Energía</h3>
 							
 							<p style="text-align:center;">
-								<a href="index.php?q=energia&n=productos" class="btn btn-mas-servicios">M&Aacute;S INFORMACI&Oacute;N</a>
+								<a href="productos/energia.php" class="btn btn-mas-servicios">M&Aacute;S INFORMACI&Oacute;N</a>
 							</p>
 						</div>
 						<div class="col-sm-6 col-md-6 serv-interno text-center" style="background : url(fondos/productos.jpg) no-repeat center; background-size: cover;">						

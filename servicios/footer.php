@@ -31,7 +31,7 @@
 				<p><a href="mailto:soportegdl@serviciostic.com.mx"><img src="../fondos/iconos/correo-electronico.png" alt="Correo" border="0">soportegdl@serviciostic.com.mx</a></p>
 				<p><a href="mailto:ventas@serviciostic.com.mx"><img src="../fondos/iconos/correo-electronico.png" alt="Correo" border="0">ventas@serviciostic.com.mx</a></p>
 
-				<p><a href="tel:+52-55-1320-5021"><img src="../fondos/iconos/telefono-inteligente.png" alt="Celular" border="0"> (55) 1320 - 5021</a></p>
+				<p><a href="https://wa.me/525513205021"><img src="../fondos/iconos/whatsapp.png" alt="WhatsApp" border="0"> (55) 1320 - 5021 </a></p>
 				<p><a href="https://wa.me/525525406538"><img src="../fondos/iconos/whatsapp.png" alt="WhatsApp" border="0"> (55) 2540 - 6538 </a></p>
 			</div>
 		</div>
